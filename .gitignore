@@ -1,0 +1,9 @@
+*.rpyc
+/cache/
+/saves/
+/tl/
+/audio/test/
+/images/test/
+
+# trying to get rid of script-test.rpy from the repository but keep it locally 
+script-test.rpy
