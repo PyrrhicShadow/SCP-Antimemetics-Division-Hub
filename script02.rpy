@@ -5,9 +5,6 @@
 # (https://scp-wiki.wikidot.com/qntm-s-author-page)
 ##########################################################
 
-# Unique characters 
-define  grey = Character("Alastair Grey", what_prefix="\"", what_suffix="\"", who_alt="Alastair Grey says, ")
-
 label intro:
 
     scene bg start
@@ -463,6 +460,9 @@ label intro:
     menu:
 
         "Up Next: Unforgettable, That's What You Are"
+
+        "Next Story": 
+            jump lake
 
         "{noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division Hub":
             jump hub

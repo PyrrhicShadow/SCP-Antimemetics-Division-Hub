@@ -5,12 +5,6 @@
 # (https://scp-wiki.wikidot.com/qntm-s-author-page)
 ##########################################################
 
-# Unique characters 
-define receptionist = Character("Receptionist", what_prefix="\"", what_suffix="\"", who_alt="The receptionist says, ")
-define clay = Character("Clay", what_prefix="\"", what_suffix="\"", who_alt="Clay says, ")
-
-# Story Starts
-
 label talk:
 
     scene bg start
@@ -21,20 +15,17 @@ label talk:
 
     scene bg admin reception
 
-    show marion at offleft
-    show receptionist at offright
+    show marion at centerleft
 
     marion "Can I smoke?"
 
+    show receptionist at offright
+
     "This time the receptionist narrows her eyes at Marion."
 
-    receptionist """No.
+    receptionist """No. You— No, you can't smoke anywhere on Site 200.
 
-    You— No, you can't smoke anywhere on Site 200.
-
-    Just because it's an administration building doesn't mean we don't have lungs.
-
-    Or labor law."""
+    Just because it's an administration building doesn't mean we don't have lungs. Or labor law."""
 
     "Marion notices the exasperation on the young woman's face."
 
@@ -44,9 +35,7 @@ label talk:
 
     "She's genuinely puzzled at the repeated question, and she's doing a bad job of concealing her puzzlement."
 
-    marion """You think this is like {i}Memento{/i}, don't you?
-
-    You think I have no long-term memory, and if I stay in one place for too long I forget why I'm there."""
+    marion """You think this is like {i}Memento{/i}, don't you? You think I have no long-term memory, and if I stay in one place for too long I forget why I'm there."""
 
     "The receptionist is only just old enough to remember that film."
 
@@ -87,9 +76,11 @@ label talk:
 
     scene bg admin office
 
-    """The office door closes behind them with an unusually heavy mechanical clunk, as if the whole thing is part of a machine built into the office walls.
+    "The office door closes behind them with an unusually heavy mechanical clunk, as if the whole thing is part of a machine built into the office walls."
 
-    While Marion takes the indicated chair and sets her bag down, the assistant turns and does some confusing additional things to the door, causing it to make several further strange noises.
+    show marion
+
+    """While Marion takes the indicated chair and sets her bag down, the assistant turns and does some confusing additional things to the door, causing it to make several further strange noises.
 
     {noalt}O5s{/noalt}{alt}O fives{/alt} have non-trivial privacy and security requirements."""
 
@@ -97,10 +88,10 @@ label talk:
 
     The walls are all bookshelves and dark wood panelling; perfectly stylish, but a style from the Nineties, a little worn, and not yet old enough to be fashionable again."""
 
+    show marion at centerleft
+    show o5_8 at centerright
+    
     "As for the fellow behind the desk, well, an O5 never looks like you imagine."
-
-    show marion at center
-    show o5_8 at offright
 
     "Marion takes a deep breath."
 
@@ -108,7 +99,7 @@ label talk:
 
     marion "I mean, an O5 says 'jump', you jump, but—"
 
-    show clay at centerleft
+    show clay at offleft behind marion
 
     """Looking to her right, she notices that the assistant, without saying anything or making any undue noise, has set his tablet down on a table, produced a gun and aimed it at her head.
 
@@ -196,11 +187,9 @@ label talk:
 
     It's a conceptual subculture, of ideas consuming other ideas and… sometimes… segments of reality. Sometimes, people. Which makes them a threat.
 
-    That's all there is to it, really.
-
-    {noalt}Antimemes{/noalt}{alt}anti-memes{/alt} are dangerous, and we don't understand them; therefore, they are part of the Problem. Hence my division.
-
-    We can do the sideways thinking that's needed to combat something which can literally eat your combat training."""
+    That's all there is to it, really. {noalt}Antimemes{/noalt}{alt}anti-memes{/alt} are dangerous, and we don't understand them; therefore, they are part of the Problem. 
+    
+    Hence my division. We can do the sideways thinking that's needed to combat something which can literally eat your combat training."""
 
     "{noalt}O5-8{/noalt}{alt}o five eight{/alt} stares back at her for a long moment."
 
@@ -225,6 +214,8 @@ label talk:
     And there's no SCP-055."""
 
     o5_8 "Clay, you should look at this."
+
+    show clay at right 
 
     "{noalt}O5-8{/noalt}{alt}o five eight{/alt} turns his monitor so Clay can see the file that he has just retrieved. Clay bends over and reads it from top to bottom."
 
@@ -286,13 +277,11 @@ label talk:
 
     o5_8 "What… would happen if we did know?"
 
-    marion """It would happen to you as well.
-
+    marion """It would happen to you as well. 
+    
     …As for the rest of your questions: we manage that pharmaceutically.
 
-    You know we have class-A amnestics, for people who very badly need to forget things?
-
-    Of course you do. Who could forget about class-A amnestics?
+    You know we have class-A amnestics, for people who very badly need to forget things? Of course you do. Who could forget about class-A amnestics?
 
     Well, in {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt}, we have a different pill, for people who need to remember things that would otherwise be impossible to remember.
 
@@ -322,15 +311,13 @@ label talk:
 
     "She pops a second pill out and hands it over to him."
 
-    marion """It's because you missed a dose.
+    marion """It's because you missed a dose. You're supposed to be on these, the same as me and everybody on my staff. It's the only way we can work.
 
-    You're supposed to be on these, the same as me and everybody on my staff. It's the only way we can work.
-
-    You forgot to take a pill, and then you forgot all the information that the pills were helping you retain.
-
-    You forgot why you were taking them, who gave them to you, where to get more.
-
-    You forgot about me, and my entire department. And now I have to bring you up to speed."""
+    You forgot to take a pill, and then you forgot all the information that the pills were helping you retain.  
+    
+    You forgot why you were taking them, who gave them to you, where to get more. You forgot about me, and my entire department. 
+    
+    And now I have to bring you up to speed."""
 
     o5_8 "And if I take this, I'll remember this whole conversation and we won't have to have it again?"
 
@@ -338,16 +325,16 @@ label talk:
 
     clay "Uh, should I be taking those?"
 
-    o5_8 """Sorry, kiddo.
-
-    Need to know. Maybe when you're an O5 yourself."""
+    o5_8 """Sorry, kiddo. Need to know. 
+    
+    Maybe when you're an O5 yourself."""
 
     "He swallows the pill. Marion swallows hers too."
 
     o5_8 "So what is SCP-055?"
 
-    marion """SCP-055 is nothing.
-
+    marion """SCP-055 is nothing. 
+    
     SCP-055 is, as described in the file, a powerful information autosuppressor.
 
     As far as experimentation has uncovered, it can only be defined in negative terms. We can only record what it isn't.
@@ -356,11 +343,9 @@ label talk:
 
     But what we do know is that it's weak.
 
-    It's weak because it's the only {noalt}antimemetic{/noalt}{alt}anti-memetic{/alt} agent in our possession which has a physical entry in the files.
-
-    We have paper records of the thing. We have containment procedures.
-
-    It's not Safe, which means it's dangerous… but it's contained."""
+    It's weak because it's the only {noalt}antimemetic{/noalt}{alt}anti-memetic{/alt} agent in our possession which has a physical entry in the files. 
+    
+    We have paper records of the thing. We have containment procedures. It's not Safe, which means it's dangerous… but it's contained."""
 
     "{noalt}O5-8{/noalt}{alt}o five eight{/alt} blinks."
 
@@ -370,9 +355,7 @@ label talk:
 
     o5_8 "Then how many other {noalt}antimemes{/noalt}{alt}anti-memes{/alt} are there? How much more dangerous do they get?"
 
-    marion """Ten that I know of. Statistically, probably at least five more that I don't know of.
-
-    This does not count the {noalt}antimemetic{/noalt}{alt}anti-memetic{/alt} entities freely roaming the halls, not under containment.
+    marion """Ten that I know of. Statistically, probably at least five more that I don't know of. This does not count the {noalt}antimemetic{/noalt}{alt}anti-memetic{/alt} entities freely roaming the halls, not under containment.
 
     There are at least two in this room with us right now. Don't look.
 
@@ -380,17 +363,13 @@ label talk:
 
     "{noalt}O5-8{/noalt}{alt}o five eight{/alt} does an impressive job of controlling himself, keeping his attention focused on Marion."
 
-    """Clay doesn't fare so well, and quickly sweeps the whole room, even checking behind his back.
-
-    Making an ass of himself, essentially. He finds nothing. He looks baffled."""
+    "Clay doesn't fare so well, and quickly sweeps the whole room, even checking behind his back. Making an ass of himself, essentially. He finds nothing. He looks baffled."
 
     marion """There is an invisible monster which follows me around and likes to eat my memories. SCP-4987.
 
     Don't look it up, it's not there.
 
-    I've learned to manage with it. It's like a demanding pet.
-
-    I produce tasty memories on purpose so it doesn't eat something important, like my passwords or how to make coffee."""
+    I've learned to manage with it. It's like a demanding pet. I produce tasty memories on purpose so it doesn't eat something important, like my passwords or how to make coffee."""
 
     clay "And what's the other one?"
 
@@ -412,12 +391,12 @@ label talk:
 
     "{noalt}O5-8{/noalt}{alt}o five eight{/alt}, again, does an impressive job of not reacting."
 
+    hide clay 
+    with dissolve
+
     o5_8 "That's Clay's gun. You stole it from him."
 
     marion "It's tricky to steal a firearm this heavy from someone without them noticing."
-
-    hide clay 
-    with dissolve
 
     "Marion unloads it and carefully sets it down."
 
@@ -429,31 +408,21 @@ label talk:
 
     But why?"""
 
-    marion """Because you were supposed to be taking class-W {noalt}mnestics{/noalt}{alt}nestics{/alt}.
-
-    You can't skip a dose of class-W {noalt}mnestic{/noalt}{alt}nestic{/alt}. I've tried.
-
-    You can postpone a dose, but you can't forget unless someone actively prevents you from taking it.
-
-    There's only one person who could get close enough to you to do that, and that's your assistant.
-
-    And remember when I asked him how long he'd been working here?"""
+    marion """Because you were supposed to be taking class-W {noalt}mnestics{/noalt}{alt}nestics{/alt}.  You can't skip a dose of class-W {noalt}mnestic{/noalt}{alt}nestic{/alt}. I've tried. 
+    
+    You can postpone a dose, but you can't forget unless someone actively prevents you from taking it. 
+    
+    There's only one person who could get close enough to you to do that, and that's your assistant. And remember when I asked him how long he'd been working here?"""
 
     o5_8 "He didn't answer. I thought you were being rhetorical."
 
-    marion """He doesn't work here. He's an {noalt}antimeme{/noalt}{alt}anti-meme{/alt}.
+    marion """He doesn't work here. He's an {noalt}antimeme{/noalt}{alt}anti-meme{/alt}. Since when do you have an assistant? You don't have an assistant, Brent.
 
-    Since when do you have an assistant? You don't have an assistant, Brent.
-
-    Look at this office. It's got one desk.
-
-    You've got a receptionist outside: she's the one who screens your calls and schedules your meetings.
+    Look at this office. It's got one desk. You've got a receptionist outside: she's the one who screens your calls and schedules your meetings.
 
     Where does Clay even sit? Where does he fit?
 
-    Don't blame yourself. You're human, and these things are redaction incarnate.
-
-    You need to think like a space alien to get around them."""
+    Don't blame yourself. You're human, and these things are redaction incarnate. You need to think like a space alien to get around them."""
 
     "{noalt}O5-8{/noalt}{alt}o five eight{/alt} asks a question which, in any other workplace, would be absurd."
 
