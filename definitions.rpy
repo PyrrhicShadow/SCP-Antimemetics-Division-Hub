@@ -29,7 +29,7 @@ transform centerleft:
 transform centerright:
     xalign 0.7
 
-transform offcenterleft: 
+transform offleft: 
     xalign 0.15
 
 transform offright: 

@@ -21,6 +21,9 @@ label talk:
 
     scene bg admin reception
 
+    show marion at offleft
+    show receptionist at offright
+
     marion "Can I smoke?"
 
     "This time the receptionist narrows her eyes at Marion."
@@ -51,6 +54,9 @@ label talk:
 
     "Marion smiles sympathetically and shakes her head. It's nothing so simple."
 
+    hide receptionist
+    show marion at center
+
     """Minutes pass. She toys obsessively with her lighter.
 
     She is turning fifty this year and slowly greying, well on her way out of \"petite\" towards \"little old lady\".
@@ -68,6 +74,8 @@ label talk:
     As a group, they head straight past reception and out to cars which are waiting.  Marion recognises a few of the faces— the Site 19 site director, the head recruiter for Western Europe.
 
     None of them glance in her direction."""
+
+    show clay at right
 
     """Once they're gone, {noalt}O5-8's{/noalt}{alt}O five eight's{/alt} assistant pokes his head around the door.
 
@@ -91,11 +99,16 @@ label talk:
 
     "As for the fellow behind the desk, well, an O5 never looks like you imagine."
 
+    show marion at center
+    show o5_8 at offright
+
     "Marion takes a deep breath."
 
     marion "So what's the topic? All I got was the meeting invitation, no agenda or subject."
 
     marion "I mean, an O5 says 'jump', you jump, but—"
+
+    show clay at centerleft
 
     """Looking to her right, she notices that the assistant, without saying anything or making any undue noise, has set his tablet down on a table, produced a gun and aimed it at her head.
 
@@ -156,6 +169,8 @@ label talk:
     clay "It's a good one, but she's had it worked out in advance."
 
     o5_8 "Clay, lose the piece."
+
+    show clay at left
 
     "Grudgingly, Clay does so. Marion relaxes fractionally."
 
@@ -287,9 +302,13 @@ label talk:
 
     """With a nod of approval from the O5, Marion reaches into her bag and turns her phone off, acknowledging the prompt this time instead of postponing it.
 
-    She pulls a blister pack from another pocket and pops a pill out. It's hexagonal, and green.
+    She pulls a blister pack from another pocket and pops a pill out. It's hexagonal, and green."""
 
-    She holds it up, and is satisfied to see a flicker of recognition on {noalt}O5-8's{/noalt}{alt}o five eight's{/alt} face. He's beginning to put it back together."""
+    show cg nmestic w
+
+    """She holds it up, and is satisfied to see a flicker of recognition on {noalt}O5-8's{/noalt}{alt}o five eight's{/alt} face. He's beginning to put it back together."""
+
+    hide cg
 
     marion """These are class W {noalt}mnestics{/noalt}{alt}nestics{/alt}, the weakest, suitable for continual use. Two pills per day.
 
@@ -375,6 +394,8 @@ label talk:
 
     clay "And what's the other one?"
 
+    show clay injured
+
     """With another nod from {noalt}O5-8{/noalt}{alt}o five eight{/alt}, Marion goes to her bag again.
 
     This time she pulls out a gun and shoots Clay twice in the heart.
@@ -385,6 +406,8 @@ label talk:
 
     clay "How did you— {noalt}kn—{/noalt}{alt}know…{/alt}"
 
+    show clay dead
+
     "Marion stands, aims more carefully and shoots him a third time, this time in the head."
 
     "{noalt}O5-8{/noalt}{alt}o five eight{/alt}, again, does an impressive job of not reacting."
@@ -392,6 +415,9 @@ label talk:
     o5_8 "That's Clay's gun. You stole it from him."
 
     marion "It's tricky to steal a firearm this heavy from someone without them noticing."
+
+    hide clay 
+    with dissolve
 
     "Marion unloads it and carefully sets it down."
 

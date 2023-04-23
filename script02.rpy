@@ -428,7 +428,35 @@ label intro:
     
     This is what we try to drill into you. And sometimes, thankfully, it takes."""
 
+    kim """This isn't even the first time we've had this conversation. There've been other incidents. With other SCPs with amnestic powers. 
     
+    You've sat there and watched me put myself back together before."""
+
+    marion "And it hasn't gotten old yet." 
+    
+    "Wheeler admits this with something which might be approaching a smirk."
+
+    kim "How long does it usually take for me to recover?"
+
+    marion "A few months." 
+    
+    marion """But if you want the honest truth, people in this division are as competent on day one as they'll ever be. You come to the job firing on all cylinders, or not at all. 
+    
+    The rest is just fine-tuning and chemistry."""
+
+    kim "So what you're actually saying is you don't care about my mental state and you need me back at work now." 
+
+    "Wheeler nods." 
+    
+    marion """I need an updated SCP entry, just to begin with. I need you to nail down the model for Grey's predatory pattern and exactly how you defeated it. 
+    
+    I want you to work out what it did with the bodies - incinerated, disintegrated, or just left them lying around the site in rotting perceptually cloaked heaps. 
+    
+    And I need countermeasures for when it comes back."""
+
+    kim "It's not dead? Wait." 
+    
+    kim "I think I know this one. It's coming back to me. 'Ideas don't die.'"
 
     scene bg end
 
