@@ -1,10 +1,11 @@
 *.rpyc
-/cache/
-/saves/
-/tl/
-/audio/test/
-/images/test/
+game/cache/
+game/saves/
+game/tl/
+game/audio/test/
+game/images/test/
 /.vscode/
 
-# trying to get rid of script-test.rpy from the repository but keep it locally 
-script-test.rpy
+errors.txt
+log.txt
+traceback.txt
