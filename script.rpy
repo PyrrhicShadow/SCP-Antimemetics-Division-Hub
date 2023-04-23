@@ -3,10 +3,11 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define marion = Character("Marion", what_prefix="\"", what_suffix="\"", who_alt="Marion says, ")
-define receptionist = Character("Receptionist", what_prefix="\"", what_suffix="\"", who_alt="The receptionist says, ")
-define clay = Character("Clay", what_prefix="\"", what_suffix="\"", who_alt="Clay says, ")
-define o5_8 = Character("O5-8", what_prefix="\"", what_suffix="\"", who_alt="O five eight says")
+define marion = Character("Marion Wheeler", what_prefix="\"", what_suffix="\"", who_alt="Marion says, ")
+define o5_8 = Character("O5-8", what_prefix="\"", what_suffix="\"", who_alt="O five eight says, ")
+define kim = Character("Paul Kim", what_prefix="\"", what_suffix="\"", who_alt="Kim says, ")
+define kim_t = Character("Paul Kim", what_italic=True, who_alt="Kim thinks, ")
+define unknown = Character("???", what_prefix="\"", what_suffix="\"", who_alt="The stranger says, ")
 define note = Character(None, kind=nvl)
 
 # The game starts here.
@@ -44,6 +45,10 @@ label hub:
         "Introduction to {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt}":
             jump intro
 
+        "Unforgettable, That's What You Are": 
+            call coming_soon
+            jump hub
+
         "Exit":
             return
 
@@ -61,5 +66,11 @@ label scp_055:
             jump hub
 
     # This ends the game.
+
+    return
+
+label coming_soon: 
+
+    "Coming soon"
 
     return

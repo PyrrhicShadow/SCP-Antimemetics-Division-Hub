@@ -5,6 +5,12 @@
 # (https://scp-wiki.wikidot.com/qntm-s-author-page)
 ##########################################################
 
+# Unique characters 
+define receptionist = Character("Receptionist", what_prefix="\"", what_suffix="\"", who_alt="The receptionist says, ")
+define clay = Character("Clay", what_prefix="\"", what_suffix="\"", who_alt="Clay says, ")
+
+# Story Starts
+
 label talk:
 
     scene bg start
@@ -13,7 +19,7 @@ label talk:
 
     "We Need to Talk About {noalt}Fifty-Five{/noalt}{alt}fifty five{/alt}"
 
-    scene bg reception
+    scene bg admin reception
 
     marion "Can I smoke?"
 
@@ -71,7 +77,7 @@ label talk:
 
     clay "Marion? You can come through now."
 
-    scene bg office
+    scene bg admin office
 
     """The office door closes behind them with an unusually heavy mechanical clunk, as if the whole thing is part of a machine built into the office walls.
 
