@@ -2,7 +2,7 @@
 # characters 
 ##########################################################
 
-define marion = Character("Marion Wheeler", what_prefix="\"", what_suffix="\"", who_alt="Marion says, ")
+define wheeler = Character("Marion Wheeler", what_prefix="\"", what_suffix="\"", who_alt="Marion says, ")
 define o5_8 = Character("O5-8", what_prefix="\"", what_suffix="\"", who_alt="O five eight says, ")
 define kim = Character("Paul Kim", what_prefix="\"", what_suffix="\"", who_alt="Kim says, ")
 define kim_t = Character("Paul Kim", what_italic=True, who_alt="Kim thinks, ")
@@ -28,7 +28,7 @@ define marness = Character("Lyn Marness", what_prefix="\"", what_suffix="\"", wh
 # images 
 ##########################################################
 
-image marion = Placeholder('girl')
+image wheeler = Placeholder('girl')
 image kim = Placeholder('boy')
 image o5_8 = Placeholder('boy')
 
@@ -47,7 +47,6 @@ image cg scp4739 pt2 = Placeholder('bg')
 # story 3: lake 
 
 image marness = Placeholder('boy')
-
 
 ##########################################################
 # transforms
