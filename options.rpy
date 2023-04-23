@@ -12,7 +12,7 @@
 ##
 ## The _() surrounding the string marks it as eligible for translation.
 
-define config.name = _("Antimemetics Division")
+define config.name = _("SCP Antimemetics Division")
 
 
 ## Determines if the title given above is shown on the main menu screen. Set
@@ -30,6 +30,7 @@ define config.version = "1.0"
 ## triple-quotes, and leave a blank line between paragraphs.
 
 define gui.about = _p("""
+Content relating to the SCP Foundation, including the SCP Foundation logo, is licensed under Creative Commons Sharealike 3.0 and all concepts originate from {a=https://scpwiki.com/}https://scpwiki.com/{/a} and its authors. {i}SCP Antimemetics Division{/i}, being derived from this content, is hereby also released under {a=https://creativecommons.org/licenses/by-sa/3.0/}Creative Commons Sharealike 3.0{/a}.
 """)
 
 
@@ -206,4 +207,4 @@ init python:
 ## The username and project name associated with an itch.io project, separated
 ## by a slash.
 
-# define build.itch_project = "renpytom/test-project"
+define build.itch_project = "pyrrhicsilva/scp-antimemetics-division"

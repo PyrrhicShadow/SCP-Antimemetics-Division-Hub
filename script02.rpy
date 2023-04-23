@@ -9,7 +9,9 @@ label intro:
 
     scene bg start
 
-    "Introduction to {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt}"
+    "\"Introduction to {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt}\" by qntm, from the SCP Wiki. Source: {a=https://scp-wiki.wikidot.com/introductory-antimemetics}https://scp-wiki.wikidot.com/introductory-antimemetics{/a}. Licensed under {a=https://creativecommons.org/licenses/by-sa/3.0/}CC-BY-SA{/a}."
+
+    "Art by Ren'Py placeholder. Licensed under CC-BY-SA."
 
     scene bg scp cafeteria 
 

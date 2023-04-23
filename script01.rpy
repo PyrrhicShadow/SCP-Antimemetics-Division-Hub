@@ -11,7 +11,9 @@ label talk:
 
     "Part 1: There is No {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division"
 
-    "We Need to Talk About {noalt}Fifty-Five{/noalt}{alt}fifty five{/alt}"
+    "\"We Need to Talk About {noalt}Fifty-Five{/noalt}{alt}fifty five{/alt}\" by qntm, from the SCP Wiki. Source: {a=https://scp-wiki.wikidot.com/we-need-to-talk-about-fifty-five}https://scp-wiki.wikidot.com/we-need-to-talk-about-fifty-five{/a}. Licensed under {a=https://creativecommons.org/licenses/by-sa/3.0/}CC-BY-SA{/a}."
+
+    "Art by Ren'Py placeholder. Licensed under CC-BY-SA."
 
     scene bg admin reception
 

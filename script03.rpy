@@ -9,7 +9,9 @@ label lake:
 
     scene bg start
 
-    "Unforgettable, That's What You Are"
+    "\"Unforgettable, That's What You Are\" by qntm, from the SCP Wiki. Source: {a=https://scp-wiki.wikidot.com/unforgettable-that-s-what-you-are}https://scp-wiki.wikidot.com/unforgettable-that-s-what-you-are{/a}. Licensed under {a=https://creativecommons.org/licenses/by-sa/3.0/}CC-BY-SA{/a}." 
+
+    "Art by Ren'Py placeholder. Licensed under CC-BY=SA."
 
     scene bg black
 
