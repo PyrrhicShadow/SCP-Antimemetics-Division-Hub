@@ -1,12 +1,12 @@
-﻿# The script of the game goes in this file.
-
-# The game starts here.
+﻿###########################################################
+# "Antimemetics Division Hub" by qntm, from the SCP Wiki. Source: https://scp-wiki.wikidot.com/antimemetics-division-hub. Licensed under CC-BY-SA.
+###########################################################
 
 label start:
 
     scene bg start
 
-    "\"{noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division Hub\" by qntm, from the SCP Wiki. Source: {a=https://scp-wiki.wikidot.com/antimemetics-division-hub}https://scp-wiki.wikidot.com/antimemetics-division-hub{/a}. Licensed under {a=https://creativecommons.org/licenses/by-sa/3.0/}CC-BY-SA{/a}."
+    "\"{noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division Hub\" by {a=https://scp-wiki.wikidot.com/qntm-s-author-page}qntm{/a}, from the SCP Wiki. Source: {a=https://scp-wiki.wikidot.com/antimemetics-division-hub}https://scp-wiki.wikidot.com/antimemetics-division-hub{/a}. Licensed under {a=https://creativecommons.org/licenses/by-sa/3.0/}CC-BY-SA{/a}."
 
     """An {noalt}antimeme{/noalt}{alt}anti-meme{/alt} is an idea with self-censoring properties; an idea which, by its intrinsic nature, discourages or prevents people from spreading it.
 

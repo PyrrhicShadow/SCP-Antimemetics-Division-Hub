@@ -1,15 +1,12 @@
 ###########################################################
-# Introduction to Antimemetics
-# https://scp-wiki.wikidot.com/introductory-antimemetics
-# story by qntm on SCP-wiki
-# (https://scp-wiki.wikidot.com/qntm-s-author-page)
+# "Introductory Antimemetics" by qntm, from the SCP Wiki. Source: https://scp-wiki.wikidot.com/introductory-antimemetics. Licensed under CC-BY-SA.
 ##########################################################
 
 label intro:
 
     scene bg start
 
-    "\"Introduction to {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt}\" by qntm, from the SCP Wiki. Source: {a=https://scp-wiki.wikidot.com/introductory-antimemetics}https://scp-wiki.wikidot.com/introductory-antimemetics{/a}. Licensed under {a=https://creativecommons.org/licenses/by-sa/3.0/}CC-BY-SA{/a}."
+    "\"Introduction to {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt}\" by {a=https://scp-wiki.wikidot.com/qntm-s-author-page}qntm{/a}, from the SCP Wiki. Source: {a=https://scp-wiki.wikidot.com/introductory-antimemetics}https://scp-wiki.wikidot.com/introductory-antimemetics{/a}. Licensed under {a=https://creativecommons.org/licenses/by-sa/3.0/}CC-BY-SA{/a}."
 
     "Art by Ren'Py placeholder. Licensed under CC-BY-SA."
 
@@ -461,7 +458,7 @@ label intro:
 
     menu:
 
-        "Up Next: Unforgettable, That's What You Are"
+        "Next: Unforgettable, That's What You Are"
 
         "Next Story": 
             jump lake
