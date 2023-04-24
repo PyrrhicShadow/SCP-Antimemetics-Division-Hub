@@ -40,6 +40,13 @@ label hub:
         "Unforgettable, That's What You Are": 
             jump lake
 
+        "CASE COLOURLESS GREEN":
+            jump green
+
+        "Your Last First Day": 
+            call coming_soon
+            jump hub
+
         "Exit":
             return
 

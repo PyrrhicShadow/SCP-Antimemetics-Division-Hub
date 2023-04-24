@@ -31,9 +31,7 @@ label green:
 
     wheeler "Well, obviously Bart Hughes built the unit." 
     
-    """This cannot be denied. The man's signature style of containment architecture is recognisable a mile out. 
-    
-    Sleek, white, plainly impregnable without the aid of extremely heavy tools.""" 
+    """This cannot be denied. The man's signature style of containment architecture is recognisable a mile out. Sleek, white, plainly impregnable without the aid of extremely heavy tools.""" 
     
     wheeler """Which makes it at least seven years old. That's sixty visits or more. I guess there are good reasons for the rest of those omissions. 
     
@@ -53,7 +51,7 @@ label green:
 
     "Kim's still talking." 
     
-    wheeler "We should just scrub that last line from the database entry. There can't be anything good in that room."
+    kim "We should just scrub that last line from the database entry. There can't be anything good in that room."
 
     """Wheeler puts her keycard in the slot. The airlock rewards her with green LEDs and begins to cycle open. 
     
@@ -62,6 +60,8 @@ label green:
     Inside, there's barely room for a single person to stand without their shoulders touching the walls."""
 
     kim  "What are you taking?" 
+
+    show wheeler at offleft
 
     "Wheeler ducks to step in, turns to face him and shrugs."
     
@@ -72,6 +72,9 @@ label green:
     "The airlock begins to rotate again, emitting a low, quiet thrum solely as an audible warning that there is machinery in motion." 
     
     kim "We'll raid inventory. Give me fifteen minutes and I'll turn you into a one-woman war."
+
+    hide wheeler
+    with dissolve
 
     "If Wheeler says anything in response to this, it's cut off by the soundproofing as the airlock rotates."
 
@@ -93,7 +96,9 @@ label green:
     
     There is a conference table, long and elliptical, covered with more paperwork and a tangle of laptop computers and serpentine power supply cables. 
     
-    Power has returned to the machines and they are slowly booting. A data projector warms up and shines a map of the world over the far wall, almost lining up with a network of scribbled annotations on the same wall. 
+    Power has returned to the machines and they are slowly booting. 
+    
+    A data projector warms up and shines a map of the world over the far wall, almost lining up with a network of scribbled annotations on the same wall. 
     
     Post-It notes of all colours litter the carpet like autumn leaves.
 
@@ -121,11 +126,13 @@ label green:
     
     There should be an obvious single document to read first which makes sense of the rest. A primer—"""
 
-    show marion past at offright
-
     wheeler_p "Marion, it's me."
 
-    """Wheeler recognises the voice as her own. She moves around the table until she finds the laptop making the noise. There's a video playing, apparently recorded on the laptop's own camera in this room.
+    "Wheeler recognises the voice as her own. She moves around the table until she finds the laptop making the noise."
+
+    show recording wheeler at offright
+    
+    """There's a video playing, apparently recorded on the laptop's own camera in this room.
 
     The Marion Wheeler in the video is seated, and looks unfamiliar in a way which takes the one watching a moment to put her finger on. 
     
@@ -165,21 +172,51 @@ label green:
     
     She doesn't look up, and her tone of voice is distant, almost as if she's narrating the tail end of a frightening children's story:"
 
-    wheeler_p """When that happens, when you make 'eye contact', it kills you. It kills you and it kills anybody who thinks like you. Physical distance doesn't matter, it's about mental proximity. Anybody with the same ideas, anybody in the same head space. It kills your collaborators, your whole research team. It kills your parents; it kills your children. You become absent humans, human-shaped shells surrounding holes in reality. And when it's done, your project is a hole in the ground, and nobody knows what SCP-3125 is anymore. It is a black hole in antimemetic science, consuming unwary researchers and yielding no information, only detectable through indirect observation. A true description of what SCP-3125 is, or even an allusion to what it is, constitutes a containment breach and a lethal indirect cognitohazard.
+    wheeler_p """When that happens, when you make 'eye contact', it kills you. It kills you and it kills anybody who thinks like you. 
+    
+    Physical distance doesn't matter, it's about mental proximity. Anybody with the same ideas, anybody in the same head space. 
+    
+    It kills your collaborators, your whole research team. It kills your parents; it kills your children. 
+    
+    You become absent humans, human-shaped shells surrounding holes in reality. And when it's done, your project is a hole in the ground, and nobody knows what SCP-3125 is anymore. 
+    
+    It is a black hole in antimemetic science, consuming unwary researchers and yielding no information, only detectable through indirect observation. 
+    
+    A true description of what SCP-3125 is, or even an allusion to what it is, constitutes a containment breach and a lethal indirect cognitohazard. 
+    
+    Do you see? It's a defense mechanism. This information-swallowing behaviour is just the outer layer, the poison coating. It protects the entity from discovery while it infests our reality.
 
-    "Do you see? It's a defense mechanism. This information-swallowing behaviour is just the outer layer, the poison coating. It protects the entity from discovery while it infests our reality.
+    And as years pass, the manifestations will continue, growing denser and knitting together… until the whole world is drowning in them, and everybody will be screaming 'Why did nobody realise what was happening?' 
+    
+    And nobody will answer, because everybody who realised was killed, by this system…
 
-    "And as years pass, the manifestations will continue, growing denser and knitting together… until the whole world is drowning in them, and everybody will be screaming 'Why did nobody realise what was happening?' And nobody will answer, because everybody who realised was killed, by this system…
+    Do you see it, Marion? See it now."""
 
-    "Do you see it, Marion? See it now."""
+    """Wheeler is at the core of Foundation antimemetic science. She had all the raw data readily accessible. 
+    
+    There are extensive written calculations on the walls, but she doesn't need to read them, she can do them in her head. 
+    
+    All it took was that slightest push, that slightest suggestion. 
+    
+    Staring through the laptop screen, eyes wide and defocused, she understands how it all links together. She sees SCP-3125.
 
-    """Wheeler is at the core of Foundation antimemetic science. She had all the raw data readily accessible. There are extensive written calculations on the walls, but she doesn't need to read them, she can do them in her head. All it took was that slightest push, that slightest suggestion. Staring through the laptop screen, eyes wide and defocused, she understands how it all links together. She sees SCP-3125.
+    She feels dwarfed by it. 
+    
+    She's encountered terrible, powerful ideas before, at every level of memeticity, and subdued them or even recruited them, but what she's picturing now is on another order of magnitude from what she knew to be possible. 
+    
+    Now that she knows it's there, she can feel it like cosmic radiation, boring holes in the world with its thousands of manifestations and freely laying waste to anybody who recognises the larger pattern. 
+    
+    It's not of reality, not of humanity. It is from a higher, worse place, and it is descending.
 
-    She feels dwarfed by it. She's encountered terrible, powerful ideas before, at every level of memeticity, and subdued them or even recruited them, but what she's picturing now is on another order of magnitude from what she knew to be possible. Now that she knows it's there, she can feel it like cosmic radiation, boring holes in the world with its thousands of manifestations and freely laying waste to anybody who recognises the larger pattern. It's not of reality, not of humanity. It is from a higher, worse place, and it is descending.
+    The other Wheeler presents her finished diagram. She has drawn a mutated, fractally complex grasping hand with fivefold symmetry. 
+    
+    It has no wrist or arm, just five long human fingers pointing in five directions. At its core, there's a pentagonal opening which could be a mouth.
 
-    The other Wheeler presents her finished diagram. She has drawn a mutated, fractally complex grasping hand with fivefold symmetry. It has no wrist or arm, just five long human fingers pointing in five directions. At its core, there's a pentagonal opening which could be a mouth.
-
-    But the diagram was already there. It's plastered across the wall in the background of the video, plain as day, a meticulous collage in green, easily two metres in diameter and showing the same meme complex to a hundred times the level of detail. There are smaller diagrams of different elevations arrayed around it like spores, and its arms are spread wide around the seated Wheeler, who sits directly in front of the mouth, with her back to it.
+    But the diagram was already there. 
+    
+    It's plastered across the wall in the background of the video, plain as day, a meticulous collage in green, easily two metres in diameter and showing the same meme complex to a hundred times the level of detail. 
+    
+    There are smaller diagrams of different elevations arrayed around it like spores, and its arms are spread wide around the seated Wheeler, who sits directly in front of the mouth, with her back to it.
 
     Wheeler, watching, does not realise this, and does not turn around."""
 
@@ -217,9 +254,9 @@ label green:
     
     It would be like building and launching Apollo 11 without a single engineer deducing that the Moon existed. 
     
-    The logistics would be insane, but the secrecy would be well past impossible. Someone would start asking questions. 
+    The logistics would be insane, but the secrecy would be well past impossible. Someone would start asking questions.  And then it would be over. 
     
-    And then it would be over. So what do we do?"""
+    So what do we do?"""
 
     wheeler "Find another way." 
     
@@ -233,15 +270,19 @@ label green:
     
     But I'd be suspicious. I'd start asking questions. And then it would be over."""
 
+    show wheeler at center
+
     "Wheeler's now crouched in front of the video, trying to understand what she's watching." 
     
     wheeler "What's wrong, Marion? Are you okay?"
 
-    wheeler_p "I could kill myself in here. But my team would find SCP-3125 without me, and then they'd have to fight SCP-3125 without me. 
+    wheeler_p """I could kill myself in here. But my team would find SCP-3125 without me, and then they'd have to fight SCP-3125 without me. 
     
     It's going to happen soon, whatever happens. In the next two months at most. This year, it will be over. 
     
-    I may die in here anyway. I'm on so many mnestic drugs that my endocrine system is shutting down. Taking amnestics at the same time is the chemical equivalent to trepanation. 
+    I may die in here anyway. I'm on so many mnestic drugs that my endocrine system is shutting down. 
+    
+    Taking amnestics at the same time is the chemical equivalent to trepanation. 
     
     I don't remember the last time I slept without having a nightmare about Adam, and I'm starting to forget whether SCP-4987 is a real thing or just the number that I gave to my life—"""
 
@@ -261,6 +302,8 @@ label green:
     
     wheeler_p "God, my eyes hurt. I think ilr starting infth mlaei inside."
 
+    hide recording
+
     "There's the sound of a door opening, and then a piercing pulse of sound and light which terminates the recording."
 
     scene bg scp inverted 
@@ -269,7 +312,9 @@ label green:
 
     """Wheeler stares at the dark screen for a long minute.
 
-    She's never seen herself so weak, and it damages her ego a great deal to see that it's possible. She feels disconnected from what she saw, like it happened in an alternate universe. 
+    She's never seen herself so weak, and it damages her ego a great deal to see that it's possible. 
+    
+    She feels disconnected from what she saw, like it happened in an alternate universe. 
     
     She feels revulsed and appalled by that version of her, more so to know that that version is still inside her somewhere."""
     
@@ -277,11 +322,13 @@ label green:
 
     Who was Adam?"""
 
-    """The answer to this question is so obvious and sickening that she instinctively distrusts it. She circles around the answer, probing it, trying to find reasons to reject it, but it's inescapable. 
+    """The answer to this question is so obvious and sickening that she instinctively distrusts it. 
     
-    Adam was someone she knew when the video was recorded, now completely removed from her memory. Adam was someone the thought of whose safety paralysed her with fear. 
+    She circles around the answer, probing it, trying to find reasons to reject it, but it's inescapable. 
     
-    Someone in the same head space. Someone she couldn't bear to lose.
+    Adam was someone she knew when the video was recorded, now completely removed from her memory. 
+    
+    Adam was someone the thought of whose safety paralysed her with fear. Someone in the same head space. Someone she couldn't bear to lose.
 
     And then she lost.
 
@@ -291,23 +338,27 @@ label green:
     
     (Wheeler imagines Hughes building it as a proof-of-concept, followed by a cascading series of lucky chances which led to it becoming the war room.)
     
-    (Someone discovered SCP-3125 at random, while sealed in the room; they wrote notes to themselves which set up the skeletal external SCP database entry and the containment procedures; most of the paperwork and computer hardware was left behind by later visitors… It could have happened…)"""
+    (Someone discovered SCP-3125 at random, while sealed in the room; they wrote notes to themselves which set up the skeletal external SCP database entry and the containment procedures; most of the paperwork and computer hardware was left behind by later visitors…)
+    
+    (It could have happened…)"""
 
-    wheeler_p "But what if there's another room?"
+    wheeler_t "But what if there's another room?"
 
     """Unbidden, a cute factoid comes back to her right then. Site 41 is almost completely vacant. 
     
-    In particular, two hundred metres below Site 41 there's an empty heavy engineering lab, an underground complex the size of a hockey stadium. Self-contained, in pristine condition, totally disused. 
+    In particular, two hundred metres below Site 41 there's an empty heavy engineering lab, an underground complex the size of a hockey stadium. 
     
-    Sealed up, original purpose forgotten. Nobody has entered it in living memory. Built who-knows-how-many decades back by a dead generation of antimemeticists."""
+    Self-contained, in pristine condition, totally disused. Sealed up, original purpose forgotten. 
+    
+    Nobody has entered it in living memory. Built who-knows-how-many decades back by a dead generation of antimemeticists."""
 
-    wheeler_p """What if that's where we built our weapon?
+    wheeler_t """What if that's where we built our weapon?
 
     Do I really believe I'm that smart? That my team and I had that much foresight? That we got that lucky?"""
 
     "She turns to look at the airlock, running the numbers in her head."
 
-    wheeler_p """Antimemetics Division staff, other than me: thirty-eight. Forty-two days until the next iteration. That's past the end of the year. It'll be too late. 
+    wheeler_t """Antimemetics Division staff, other than me: thirty-eight. Forty-two days until the next iteration. That's past the end of the year. It'll be too late. 
     
     If I leave this room now, I will never be back. The plan I have now is the best plan there's ever going to be.
 
@@ -315,13 +366,19 @@ label green:
 
     scene bg antechamber
 
+    show kim at centerright
+
     "Kim is so deeply buried in work at his terminal and the airlock is so quiet that he almost doesn't notice when it starts to cycle open again."
 
     kim "We need to check you for notes." 
+
+    show wheeler at offleft
     
-    """But then he sees that Marion Wheeler is curled up in the bottom of the narrow cylinder, panting as though she just finished a marathon run. 
+    "But then he sees that Marion Wheeler is curled up in the bottom of the narrow cylinder, panting as though she just finished a marathon run."
+
+    show kim at center 
     
-    Kim holds a hand out but she shakes her head, electing to stay lying down, knees bent up to her chest, sucking down lungfuls of air."""
+    "Kim holds a hand out but she shakes her head, electing to stay lying down, knees bent up to her chest, sucking down lungfuls of air."
 
     kim "What in the world happened in there?"
 
@@ -343,7 +400,7 @@ label green:
 
     wheeler "Hit my head." 
     
-    """Then she goes back to concentrating on breathing properly. She suddenly becomes acutely aware that Kim has her effectively cornered. 
+    """Then she goes back to concentrating on breathing properly. She suddenly becomes acutely aware that Kim has her effectively cornered.
     
     Disliking this configuration for reasons which she's only gradually putting back together, she levers herself up to one shoulder and tries to stand. 
     
@@ -359,9 +416,13 @@ label green:
     
     """He reaches for his keyring and unthreads a Swiss Army knife, and unfolds a short, gleaming blade. 
     
-    He does this in such a methodical, ordinary way that Wheeler almost forgets to react when he leans down towards her to cut her throat.
+    He does this in such a methodical, ordinary way that Wheeler almost forgets to react when he leans down towards her to cut her throat."""
 
-    Almost. She grips his wrist. They're locked like that for a moment, a tableau. 
+    show kim at centerright
+    show wheeler at centerleft
+    with dissolve
+
+    """Almost. She grips his wrist. They're locked like that for a moment, a tableau. 
     
     She looks into Paul Kim's eye, but it isn't his eye anymore. She squints, wondering if she's making eye contact with anything but a hole in space. 
     
@@ -369,17 +430,27 @@ label green:
     
     She had hoped, prayed, that Kim would not succumb so quickly. And in a crazed little way she'd thought there would be at least a sign, a theatrical doubling-over as his mind was wrenched out of its socket.
 
-    Kim's wrist spasms as he tries to lunge with the knife. Wheeler parries and its tip glances off the airlock interior wall with a screech. 
+    Kim's wrist spasms as he tries to lunge with the knife. Wheeler parries and its tip glances off the airlock interior wall with a screech.""" 
     
-    They scuffle for an awkward second, then she boots Kim in the stomach with both feet, sending him sprawling in the antechamber. 
-    
-    She launches out of the airlock, dives over him and sprints away from the containment unit.
+    show kim at offleft 
+    show wheeler at offright
 
-    She feels SCP-3125 following her as she runs, like a spotlight. She hears a crash in another part of the Site, as the first piece of ceiling caves in."""
+    "They scuffle for an awkward second, then she boots Kim in the stomach with both feet, sending him sprawling in the antechamber."
+
+    show wheeler at right
+    
+    "She launches out of the airlock, dives over him and sprints away from the containment unit."
+
+    hide kim
+    with dissolve
+
+    """She feels SCP-3125 following her as she runs, like a spotlight. She hears a crash in another part of the Site, as the first piece of ceiling caves in."""
+
+    scene bg end
 
     menu: 
 
-        "Concluded in Your First Last Day"
+        "Concluded in Your Last First Day"
 
         "Next Story": 
             call coming_soon
