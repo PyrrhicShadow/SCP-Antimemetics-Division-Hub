@@ -4,6 +4,8 @@
 
 label intro:
 
+    $persistent.intro = True
+
     scene bg start
 
     "\"Introduction to {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt}\" by {a=https://scp-wiki.wikidot.com/qntm-s-author-page}qntm{/a}, from the SCP Wiki. Source: {a=https://scp-wiki.wikidot.com/introductory-antimemetics}https://scp-wiki.wikidot.com/introductory-antimemetics{/a}. Licensed under {a=https://creativecommons.org/licenses/by-sa/3.0/}CC-BY-SA{/a}."

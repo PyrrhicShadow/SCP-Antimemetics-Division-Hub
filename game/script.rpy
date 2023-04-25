@@ -63,7 +63,7 @@ label start:
 
         "Five Five Five Five"
 
-        "Where Have You Been All My Life": 
+        "Where Have You Been All My Life" if persistent.where: 
             call coming_soon
 
         "Back": 

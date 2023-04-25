@@ -4,6 +4,8 @@
 
 label green: 
 
+    $persistent.green = True
+
     scene bg start 
 
     "\"CASE COLOURLESS GREEN\" by qntm, from the SCP Wiki. Source: {a=https://scp-wiki.wikidot.com/case-colourless-green}https://scp-wiki.wikidot.com/case-colourless-green{/a}. Licensed under {a=https://creativecommons.org/licenses/by-sa/3.0/}CC-BY-SA{/a}."

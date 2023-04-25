@@ -4,6 +4,8 @@
 
 label lake: 
 
+    $persistent.lake = True
+
     scene bg start
 
     "\"Unforgettable, That's What You Are\" by {a=https://scp-wiki.wikidot.com/qntm-s-author-page}qntm{/a}, from the SCP Wiki. Source: {a=https://scp-wiki.wikidot.com/unforgettable-that-s-what-you-are}https://scp-wiki.wikidot.com/unforgettable-that-s-what-you-are{/a}. Licensed under {a=https://creativecommons.org/licenses/by-sa/3.0/}CC-BY-SA{/a}." 

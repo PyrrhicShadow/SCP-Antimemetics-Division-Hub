@@ -4,6 +4,8 @@
 
 label talk:
 
+    $persistent.talk = True
+
     scene bg start
 
     "Part 1: There is No {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division"
