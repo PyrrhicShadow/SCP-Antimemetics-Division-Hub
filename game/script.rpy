@@ -24,48 +24,50 @@ label start:
 
     if persistent.firstrun: 
         jump quick_play
-    else: 
-        jump hub_root
 
-label hub_root: 
-
-    menu:
+    menu hub_root:
         "{noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division Hub"
 
-        "There is No Antimemetics Division": 
+        "There is No Antimemetics Division" if !persistent.firstrun: 
             jump hub_division
 
-        "Five Five Five Five": 
+        "Five Five Five Five" if !persistent.firstrun: 
             jump hub_five
 
     return
 
-label hub_division:
-    menu: 
+    menu hub_division: 
         "There is No Antimemetics Division"
 
-        "We Need to Talk About {noalt}Fifty-Five{/noalt}{alt}fifty five{/alt}":
+        "We Need to Talk About {noalt}Fifty-Five{/noalt}{alt}fifty five{/alt}" if persistent.talk:
             call talk
 
-        "Introduction to {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt}":
+        "Introduction to {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt}" if persistent.intro:
             call intro
 
-        "Unforgettable, That's What You Are": 
+        "Unforgettable, That's What You Are" if persistent.lake: 
             call lake
 
-        "CASE COLOURLESS GREEN":
+        "CASE COLOURLESS GREEN" persistent.green:
             call green
 
-        "Your Last First Day": 
-            call coming_soon
+        "Your Last First Day" persistent.first: 
+            call first
 
         "Back":
             jump hub_root
 
     jump hub_division
 
-label hub_five: 
+    menu hub_five: 
 
+        "Five Five Five Five"
+
+        "Where Have You Been All My Life": 
+            call coming_soon
+
+        "Back": 
+            jump hub_root
 
 label coming_soon: 
 

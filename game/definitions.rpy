@@ -1,4 +1,13 @@
+# Variables
 define persistent.firstrun = True
+
+define persistent.talk = False 
+define persistent.intro = False
+define persistent.lake = False
+define persistent.green = False
+define persistent.first = False
+
+define persistent.where = False
 
 ##########################################################
 # characters 
