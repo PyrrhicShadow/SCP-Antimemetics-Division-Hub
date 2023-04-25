@@ -18,57 +18,77 @@ label start:
 
     How do you contain something you can't record or remember? How do you fight a war against an enemy with effortless, perfect camouflage, when you can never even know that you're at war?"""
 
-
-label hub:
-
     "Welcome to the {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division."
 
     "No, this is not your first day."
 
+    if persistent.firstrun: 
+        jump quick_play
+    else: 
+        jump hub_root
+
+label hub_root: 
+
     menu:
         "{noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division Hub"
 
-        "Background material: SCP-055":
-            jump scp_055
+        "There is No Antimemetics Division": 
+            jump hub_division
+
+        "Five Five Five Five": 
+            jump hub_five
+
+    return
+
+label hub_division:
+    menu: 
+        "There is No Antimemetics Division"
 
         "We Need to Talk About {noalt}Fifty-Five{/noalt}{alt}fifty five{/alt}":
-            jump talk
+            call talk
 
         "Introduction to {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt}":
-            jump intro
+            call intro
 
         "Unforgettable, That's What You Are": 
-            jump lake
+            call lake
 
         "CASE COLOURLESS GREEN":
-            jump green
+            call green
 
         "Your Last First Day": 
             call coming_soon
-            jump hub
 
-        "Exit":
-            return
+        "Back":
+            jump hub_root
 
-label scp_055:
+    jump hub_division
 
-    "Coming soon"
+label hub_five: 
 
-    menu:
-        "Up Next: We Need to Talk About {noalt}Fifty-Five{/noalt}{alt}fifty five{/alt}"
-
-        "Next Story":
-            jump talk
-
-        "{noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division Hub":
-            jump hub
-
-    # This ends the game.
-
-    return
 
 label coming_soon: 
 
     "Coming soon"
+
+    return
+
+label quick_play: 
+
+    $persistent.firstrun = False
+
+    call scp_055
+
+    call talk
+
+    call intro 
+
+    call lake 
+
+    call green 
+
+    call first
+
+    # This ends the game.
 
     return

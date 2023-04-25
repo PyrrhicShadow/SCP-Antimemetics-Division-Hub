@@ -456,12 +456,4 @@ label intro:
 
     scene bg end
 
-    menu:
-
-        "Next: Unforgettable, That's What You Are"
-
-        "Next Story": 
-            jump lake
-
-        "{noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division Hub":
-            jump hub
+    return 

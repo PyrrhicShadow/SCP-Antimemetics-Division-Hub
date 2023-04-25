@@ -447,11 +447,4 @@ label talk:
 
     scene bg end
 
-    menu:
-        "Next: Introductory {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt}"
-
-        "Next Story":
-            jump intro
-
-        "{noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division Hub":
-            jump hub
+    return

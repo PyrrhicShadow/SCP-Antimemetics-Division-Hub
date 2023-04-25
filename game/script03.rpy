@@ -506,13 +506,4 @@ label lake:
 
     scene bg end
 
-    menu:
-
-        "Next: CASE COLOURLESS GREEN"
-
-        "Next Story": 
-            call coming_soon
-            jump green 
-
-        "{noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division Hub":
-            jump hub
+    return

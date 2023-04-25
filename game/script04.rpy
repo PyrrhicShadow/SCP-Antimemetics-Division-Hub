@@ -168,9 +168,9 @@ label green:
     
     You link four or five different SCPs together into a single shape, and you see it… And it sees you…"""
 
-    "She's still drawing. It's detailed. 
+    """She's still drawing. It's detailed. 
     
-    She doesn't look up, and her tone of voice is distant, almost as if she's narrating the tail end of a frightening children's story:"
+    She doesn't look up, and her tone of voice is distant, almost as if she's narrating the tail end of a frightening children's story:"""
 
     wheeler_p """When that happens, when you make 'eye contact', it kills you. It kills you and it kills anybody who thinks like you. 
     
@@ -448,13 +448,4 @@ label green:
 
     scene bg end
 
-    menu: 
-
-        "Concluded in Your Last First Day"
-
-        "Next Story": 
-            call coming_soon
-            jump hub
-
-        "{noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division Hub":
-            jump hub
+    return
