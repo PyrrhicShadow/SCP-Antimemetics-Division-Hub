@@ -362,17 +362,23 @@ label intro:
 
     """Kim searches for the experiments - several of them, scattered - where the victim tried to divert Grey to a different data source. 
     
-    The general idea seemed to be to overload Grey by pointing him at something containing too much information: the internet, or the terabit feed from a live particle accelerator experiment, or a stack of hard drives containing the first few quadrillion binary digits of pi. 
+    The general idea seemed to be to overload Grey by pointing him at something containing too much information: 
+        
+    the internet, or the terabit feed from a live particle accelerator experiment, or a stack of hard drives containing the first few quadrillion binary digits of pi. 
     
     But nobody could figure out a way to distract Grey's attention; prominently-placed screens full of data, he would ignore; data beamed at him electromagnetically (radio, laser) had no effect. 
     
     And nobody could figure out a way to tunnel the information in through the victim's mind as extra memories. It was written off as impossible, closed as a line of investigation."""
 
-    "The hard drives, Kim finds, are right there on the workbench next to the computer. It's a half-rack unit, a cuboidal block of metalwork as big and heavy as a bowling ball. One of the most ineffective conceivable melee weapons."
+    """The hard drives, Kim finds, are right there on the workbench next to the computer. 
+    
+    It's a half-rack unit, a cuboidal block of metalwork as big and heavy as a bowling ball. One of the most ineffective conceivable melee weapons.
 
-    "Kim snatches up the three longest pieces of ethernet cable he can find, and starts plaiting them into a chain."
+    Kim snatches up the three longest pieces of ethernet cable he can find, and starts plaiting them into a chain."""
 
-    """Then he remembers who he is, and where he is, and what his responsibilities are. He goes to the computer, to the SCP entry, adds himself to the victim tally and writes up exactly what it is he's about to try. 
+    """Then he remembers who he is, and where he is, and what his responsibilities are. 
+    
+    He goes to the computer, to the SCP entry, adds himself to the victim tally and writes up exactly what it is he's about to try. 
     
     Because he might not be the last one, and the world needs to know that this didn't work."""
 
@@ -383,30 +389,41 @@ label intro:
 
     """Grey comes through the lab bulkhead to find most of the equipment in the room toppled onto the floor, to create room for the black and silver drive array that Paul Kim is whirling around his head, on a two-metre chain made of plaited network cable. 
     
-    It makes a low thrumming sound as it whirls. 
+    It makes a low thrumming sound as it whirls."""
+
+    show grey at centerright 
     
-    Grey is not intelligent enough to stop moving forwards, and catches the array directly in the side of his head, rack mount point first, like a morningstar.
+    """Grey is not intelligent enough to stop moving forwards, and catches the array directly in the side of his head, rack mount point first, like a morningstar.
 
-    Grey absorbs a few trillion digits of the impact, but it isn't enough. There's a green snap of light and a noise like a subway train short-circuiting, and Grey's a pile in the corner, his head caved in and the drive array partially demolished in pieces around him.
+    Grey absorbs a few trillion digits of the impact, but it isn't enough. 
+    
+    There's a green snap of light and a noise like a subway train short-circuiting, and Grey's a pile in the corner, his head caved in and the drive array partially demolished in pieces around him."""
 
-    Kim decides that history can fill in whatever quip it likes best."""
+    hide grey 
+    with dissolve
+
+    "Kim decides that history can fill in whatever quip it likes best."
 
     scene bg scp office
 
     show kim at centerleft
-    show marion at centerright
+    show wheeler at centerright
 
-    marion "It was chewing its way up the Antimemetics Division hierarchy." 
+    wheeler "It was chewing its way up the Antimemetics Division hierarchy." 
     
     "Wheeler tells him in the aftermath." 
     
-    marion "It was only a matter of time until it bit down on somebody dangerous. Congratulations on demonstrating a basic level of competence when it counted. Dozens of others couldn't."
+    wheeler """It was only a matter of time until it bit down on somebody dangerous. 
+    
+    Congratulations on demonstrating a basic level of competence when it counted. Dozens of others couldn't."""
 
     "Kim still feels rattled. But the shock is dissipating, faster than he'd expected."
 
     "Marion Wheeler, it turns out, is the Antimemetics Division chief. She is Kim's new boss."
 
-    kim """I want to say it was dumb luck. I want to say that I just threw my phone, it was instinct, it was muscle memory. It was my first day, and I got lucky as hell. 
+    kim """I want to say it was dumb luck. I want to say that I just threw my phone, it was instinct, it was muscle memory. 
+    
+    It was my first day, and I got lucky as hell. 
     
     …I want to say those things, but I'm sitting here, and turning those statements over, and none of them would be true, would they?"""
 
@@ -416,45 +433,51 @@ label intro:
     
     This isn't my first day at all. I've been working here for… well, it must be over a decade, right? 
     
-    I think I've been a professional antimemetics researcher since at least the mid-2000s. It's just that the first thing Grey ate was my memories of everything past the first day. 
+    I think I've been a professional antimemetics researcher since at least the mid-2000s. 
     
-    And even then…"""
+    It's just that the first thing Grey ate was my memories of everything past the first day. And even then…"""
 
-    marion """I see very little luck in what happened today. Instinct and muscle memory are just deep forms of training. 
+    wheeler """I see very little luck in what happened today. Instinct and muscle memory are just deep forms of training. 
     
     Like I said, a basic level of competence. An ability to piece your own life and all of your past knowledge back together, faster than nearly anybody else. 
     
     This is what we try to drill into you. And sometimes, thankfully, it takes."""
 
-    kim """This isn't even the first time we've had this conversation. There've been other incidents. With other SCPs with amnestic powers. 
+    kim """This isn't even the first time we've had this conversation. 
+    
+    There've been other incidents. With other SCPs with amnestic powers. 
     
     You've sat there and watched me put myself back together before."""
 
-    marion "And it hasn't gotten old yet." 
+    wheeler "And it hasn't gotten old yet." 
     
     "Wheeler admits this with something which might be approaching a smirk."
 
     kim "How long does it usually take for me to recover?"
 
-    marion "A few months." 
+    wheeler "A few months." 
     
-    marion """But if you want the honest truth, people in this division are as competent on day one as they'll ever be. You come to the job firing on all cylinders, or not at all. 
+    wheeler """But if you want the honest truth, people in this division are as competent on day one as they'll ever be. 
     
-    The rest is just fine-tuning and chemistry."""
+    You come to the job firing on all cylinders, or not at all. The rest is just fine-tuning and chemistry."""
 
     kim "So what you're actually saying is you don't care about my mental state and you need me back at work now." 
 
     "Wheeler nods." 
     
-    marion """I need an updated SCP entry, just to begin with. I need you to nail down the model for Grey's predatory pattern and exactly how you defeated it. 
+    wheeler """I need an updated SCP entry, just to begin with. 
+    
+    I need you to nail down the model for Grey's predatory pattern and exactly how you defeated it. 
     
     I want you to work out what it did with the bodies - incinerated, disintegrated, or just left them lying around the site in rotting perceptually cloaked heaps. 
     
     And I need countermeasures for when it comes back."""
 
-    kim "It's not dead? Wait." 
+    kim """It's not dead? 
     
-    kim "I think I know this one. It's coming back to me. 'Ideas don't die.'"
+    Wait. I think I know this one. It's coming back to me. 
+    
+    'Ideas don't die.'"""
 
     scene bg end
 

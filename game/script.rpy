@@ -25,18 +25,27 @@ label start:
     if persistent.firstrun: 
         jump quick_play
 
-    menu hub_root:
+label hub_root:
+
+    menu:
+
         "{noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division Hub"
 
-        "There is No Antimemetics Division" if !persistent.firstrun: 
+        "Quick Play": 
+            jump quick_play
+
+        "There is No Antimemetics Division" if not persistent.firstrun: 
             jump hub_division
 
-        "Five Five Five Five" if !persistent.firstrun: 
+        "Five Five Five Five" if not persistent.firstrun: 
             jump hub_five
 
     return
 
-    menu hub_division: 
+label hub_division:
+
+    menu: 
+
         "There is No Antimemetics Division"
 
         "We Need to Talk About {noalt}Fifty-Five{/noalt}{alt}fifty five{/alt}" if persistent.talk:
@@ -48,10 +57,10 @@ label start:
         "Unforgettable, That's What You Are" if persistent.lake: 
             call lake
 
-        "CASE COLOURLESS GREEN" persistent.green:
+        "CASE COLOURLESS GREEN" if persistent.green:
             call green
 
-        "Your Last First Day" persistent.first: 
+        "Your Last First Day" if persistent.first: 
             call first
 
         "Back":
@@ -59,7 +68,9 @@ label start:
 
     jump hub_division
 
-    menu hub_five: 
+label hub_five:
+    
+    menu: 
 
         "Five Five Five Five"
 
@@ -78,8 +89,6 @@ label coming_soon:
 label quick_play: 
 
     $persistent.firstrun = False
-
-    call scp_055
 
     call talk
 

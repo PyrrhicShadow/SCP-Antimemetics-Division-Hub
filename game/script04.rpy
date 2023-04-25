@@ -89,6 +89,8 @@ label green:
     "Inside it's pitch dark for a few seconds, then some unseen sensor detects Wheeler's presence and brings the fluorescents up."
 
     scene scp inverted
+
+    show wheeler
     
     """Half of them, anyway. The others remain inert or flicker aggravatingly.
 
@@ -105,8 +107,6 @@ label green:
     Post-It notes of all colours litter the carpet like autumn leaves.
 
     Other than that, the room is empty."""
-
-    show wheeler at centerleft
 
     """Skimming the paperwork, Wheeler discovers that nearly all of it is handwritten and most of it charts the progress of conversations. 
     
@@ -132,6 +132,9 @@ label green:
 
     "Wheeler recognises the voice as her own. She moves around the table until she finds the laptop making the noise."
 
+    scene bg scp inverted
+
+    show wheeler at centerleft
     show recording wheeler at offright
     
     """There's a video playing, apparently recorded on the laptop's own camera in this room.
@@ -150,9 +153,11 @@ label green:
     
     This is it. This is our only safe harbor. This room represents the length and breadth of the war.
 
-    Every competent antimemetics research project finds SCP-3125's fingerprints sooner or later. It manifests all over the world, in thousands of different forms. 
+    Every competent antimemetics research project finds SCP-3125's fingerprints sooner or later. 
     
-    Most of them aren't even anomalous. Some of them we already have catalogued separately in the main database. A very small number of them are even in containment. 
+    It manifests all over the world, in thousands of different forms. Most of them aren't even anomalous. 
+    
+    Some of them we already have catalogued separately in the main database. A very small number of them are even in containment. 
     
     Impossibly virulent cults, broken arithmetic, invisible spiders as tall as skyscrapers, people born with extra organs which nobody can see. 
     
@@ -178,19 +183,19 @@ label green:
     
     Physical distance doesn't matter, it's about mental proximity. Anybody with the same ideas, anybody in the same head space. 
     
-    It kills your collaborators, your whole research team. It kills your parents; it kills your children. 
+    It kills your collaborators, your whole research team. It kills your parents; it kills your children. You become absent humans, human-shaped shells surrounding holes in reality. 
     
-    You become absent humans, human-shaped shells surrounding holes in reality. And when it's done, your project is a hole in the ground, and nobody knows what SCP-3125 is anymore. 
+    And when it's done, your project is a hole in the ground, and nobody knows what SCP-3125 is anymore. 
     
     It is a black hole in antimemetic science, consuming unwary researchers and yielding no information, only detectable through indirect observation. 
     
     A true description of what SCP-3125 is, or even an allusion to what it is, constitutes a containment breach and a lethal indirect cognitohazard. 
     
-    Do you see? It's a defense mechanism. This information-swallowing behaviour is just the outer layer, the poison coating. It protects the entity from discovery while it infests our reality.
-
-    And as years pass, the manifestations will continue, growing denser and knitting together… until the whole world is drowning in them, and everybody will be screaming 'Why did nobody realise what was happening?' 
+    Do you see? It's a defense mechanism. This information-swallowing behaviour is just the outer layer, the poison coating. 
     
-    And nobody will answer, because everybody who realised was killed, by this system…
+    It protects the entity from discovery while it infests our reality. And as years pass, the manifestations will continue, growing denser and knitting together… 
+    
+    until the whole world is drowning in them, and everybody will be screaming 'Why did nobody realise what was happening?' And nobody will answer, because everybody who realised was killed, by this system…
 
     Do you see it, Marion? See it now."""
 
@@ -200,9 +205,9 @@ label green:
     
     All it took was that slightest push, that slightest suggestion. 
     
-    Staring through the laptop screen, eyes wide and defocused, she understands how it all links together. She sees SCP-3125.
-
-    She feels dwarfed by it. 
+    Staring through the laptop screen, eyes wide and defocused, she understands how it all links together. 
+    
+    She sees SCP-3125. She feels dwarfed by it. 
     
     She's encountered terrible, powerful ideas before, at every level of memeticity, and subdued them or even recruited them, but what she's picturing now is on another order of magnitude from what she knew to be possible. 
     
@@ -256,7 +261,9 @@ label green:
     
     It would be like building and launching Apollo 11 without a single engineer deducing that the Moon existed. 
     
-    The logistics would be insane, but the secrecy would be well past impossible. Someone would start asking questions.  And then it would be over. 
+    The logistics would be insane, but the secrecy would be well past impossible. 
+    
+    Someone would start asking questions.  And then it would be over. 
     
     So what do we do?"""
 
@@ -340,7 +347,11 @@ label green:
     
     (Wheeler imagines Hughes building it as a proof-of-concept, followed by a cascading series of lucky chances which led to it becoming the war room.)
     
-    (Someone discovered SCP-3125 at random, while sealed in the room; they wrote notes to themselves which set up the skeletal external SCP database entry and the containment procedures; most of the paperwork and computer hardware was left behind by later visitors…)
+    (Someone discovered SCP-3125 at random, while sealed in the room;) 
+    
+    (they wrote notes to themselves which set up the skeletal external SCP database entry and the containment procedures;) 
+    
+    (most of the paperwork and computer hardware was left behind by later visitors…)
     
     (It could have happened…)"""
 
@@ -420,9 +431,7 @@ label green:
     
     He does this in such a methodical, ordinary way that Wheeler almost forgets to react when he leans down towards her to cut her throat."""
 
-    show kim at centerright
-    show wheeler at centerleft
-    with dissolve
+    show cg fight
 
     """Almost. She grips his wrist. They're locked like that for a moment, a tableau. 
     
@@ -430,15 +439,17 @@ label green:
     
     She already feels the force bearing down on her own skull, trying to drill into it, but she knows its shape and that means she can hold out, maybe for a few minutes. 
     
-    She had hoped, prayed, that Kim would not succumb so quickly. And in a crazed little way she'd thought there would be at least a sign, a theatrical doubling-over as his mind was wrenched out of its socket.
+    She had hoped, prayed, that Kim would not succumb so quickly. 
+    
+    And in a crazed little way she'd thought there would be at least a sign, a theatrical doubling-over as his mind was wrenched out of its socket.
 
     Kim's wrist spasms as he tries to lunge with the knife. Wheeler parries and its tip glances off the airlock interior wall with a screech.""" 
-    
-    show kim at offleft 
-    show wheeler at offright
 
     "They scuffle for an awkward second, then she boots Kim in the stomach with both feet, sending him sprawling in the antechamber."
 
+    hide cg
+
+    show kim at offleft
     show wheeler at right
     
     "She launches out of the airlock, dives over him and sprints away from the containment unit."

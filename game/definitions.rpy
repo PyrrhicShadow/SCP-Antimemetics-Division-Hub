@@ -38,6 +38,11 @@ define marness = Character("Lyn Marness", what_prefix="\"", what_suffix="\"", wh
 
 define wheeler_p = Character("Past Marion Wheeler", what_prefix="\"", what_suffix="\"", who_alt="Past Wheeler says, ")
 
+# story 5: first 
+
+define scp3125 = Character("SCP-3125", what_prefix="\"", what_suffix="\"", who_alt="SCP three one two five says, ")
+define scp3125_a = Character("Infected Not-Person", what_prefix="\"", what_suffix="\"", who_alt="An Infected Not-Person says, ")
+
 ##########################################################
 # images 
 ##########################################################
@@ -45,6 +50,8 @@ define wheeler_p = Character("Past Marion Wheeler", what_prefix="\"", what_suffi
 image wheeler = Placeholder('girl')
 image kim = Placeholder('boy')
 image o5_8 = Placeholder('boy')
+
+image bg black = "#000"
 
 # story 1: talk
 
