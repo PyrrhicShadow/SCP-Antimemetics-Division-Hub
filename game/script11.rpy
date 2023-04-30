@@ -128,8 +128,174 @@ label where:
     
     adam "Adam Wheeler."
 
-    scene bg wheeler home
+    scene bg scp office
 
+    """Obviously, she has the man detained.
+
+    She instructs her people to interrogate him — lightly — and to run deep background research on every word he utters, while for her part she stands far back from the investigation to avoid contamination. 
     
+    She resists the urge to interfere, particularly to visit \"Adam\" and personally demand answers. 
+    
+    She goes to her office, curls up on the couch there and tries to catch some sleep, but doesn't succeed in any real sense."""
+
+    """Seven hours later a Foundationer knocks on her office door, bringing an inch-thick block of printouts and a paralysingly strong cup of coffee. 
+    
+    Wheeler takes the drink first, accepting it as a kind of authentication step before letting the man in. 
+    
+    She moves back to the couch and sits hunched over the drink for warmth, inhaling its fumes.
+
+    The man settles heavily into a chair opposite. 
+    
+    He is a misleadingly stocky, perpetually unshaven individual, somewhere just shy of forty, and inarguably the most dangerous person on the Site. 
+    
+    He is the Division's physical fitness and combat instructor and the leader of their solitary Mobile Task Force. 
+    
+    His name is Alex Gauss."""
+    
+    gauss "They, uh,figured I should be the one to present their results. Even though I didn't research one line of it. 'Cause we 'get along'. Their words. Personally, I don't see it."
+
+    "Wheeler stays focused on the coffee." 
+    
+    wheeler "Who is he?" 
+
+    "Gauss opens the first page of the report, more for show than anything, then closes it again." 
+    
+    gauss """He's your husband. Every word checks out. 
+    
+    There is limitless physical evidence. Half of the Division knows him socially, including me. 
+    
+    I credit your diligence and adherence to protocol, but the bottom line is that SCP-4987 got hungry."""
+
+    """Wheeler nods. This assessment matches her own, pieced together overnight from gut reactions and analysis of the plain facts. Where the hell else did her name come from? She wasn't born \"Wheeler\". But she had to get independent verification."""
+
+    wheeler "Has this happened before?"
+
+    gauss "No."
+
+    wheeler "Could it happen again?"
+
+    "Gauss shrugs." 
+    
+    gauss "You would know better than anyone."
+
+    wheeler """I would. I do. 
+    
+    And I can tell you this: 
+        
+        I have SCP-4987 trained to follow me at my heel. I feed it according to a strict regimen, it eats only the memories I say it's okay to eat. 
+        
+        A rapidly progressive, universally fatal memory parasite made chronic and then domesticated. 
+        
+        And now, what, it suddenly breaks training? 
+        
+        That adds up?"""
+
+    gauss """If you say it doesn't add up, it doesn't add up. 
+    
+    But speaking from field experience, anything can happen twice."""
+
+    """Wheeler has waited long enough, and takes a long pull from the coffee. 
+    
+    She stares into the coiling steam, as if trying to see the future.""" 
+    
+    wheeler """But who is he?
+    
+    At this point, you know him better than I do. 
+    
+    What's he like? Do you like him?"""
+
+    "Gauss grimaces extravagantly. This is the great-great-grandmother of all loaded questions."
+
+    "Wheeler looks him in the eye." 
+    
+    wheeler "Tell me your personal impression of Adam Wheeler. Direct order."
+
+    gauss "…He's a nice enough guy."
+
+    wheeler "'Nice enough'?"
+
+    "Gauss clicks his tongue." 
+    
+    gauss """I don't like him. Personally. All that much. 
+    
+    We're civil. But he will always be a little bit too smug, and a little bit too clever. 
+    
+    He just… grates. 
+    
+    Would I throw someone in a cell for that? No."""
+
+    wheeler "Do I like him?"
+
+    gauss "You—" 
+    
+    """Gauss begins, then stops. He looks away. 
+    
+    And over time, a soft smile develops on his face, one which Wheeler doesn't recall ever seeing before, not in a working relationship going back years."""
+    
+    gauss """Yeah. 
+    
+    Yeah. He's the one."""
+
+    show cg adam pg1
+
+    "Wheeler starts reading the file."
+
+    show cg adam pg2
+
+    "Wheeler skips three pages."
+
+    show cg adam pg3
+
+    "Another page."
+
+    hide cg
+
+    wheeler "Oh, they 'subsequently became romantically involved', did they? Tell me more, you featureless gray sphere of a biographer, I'm hooked now."
+
+    """The biography is contentless beyond this point. 
+    
+    Adam Wheeler's life spent touring, playing, lecturing and occasionally conducting, writing and composing is documented in exhaustive, pointless detail. 
+    
+    He withstands background checks and surveillance, and consistently demonstrates himself to represent zero risk of leak. 
+    
+    He eventually receives the extremely low clearance level normally granted to long-term Foundation-external partners of Foundationers. 
+    
+    They get married. She takes his name, which she, reading, considers faintly unrealistic. 
+    
+    Blah blah.
+
+    There is nothing about his personality. Nothing about their relationship. No content.
+
+    She remembers acquiring SCP-4051. There was no one there. She remembers nothing."""
+
+    scene scp containment
+
+    """Up until the end of the third round of questioning, Adam Wheeler assumes good faith. He figures the repetition is a due diligence tic, a corporate procedural requirement. 
+    
+    It's only when they start over from \"What's your name?\" with a brand new interviewer for the fourth time that he finally gets it: they don't like him, and they don't care what he thinks his name is. 
+    
+    They're trying to grind him down, until he can't think, until he's just dust particles they can sift through for data.
+
+    He reacts badly to this realisation. 
+    
+    He asks for his wife, and asks for his wife, and they ignore him, and they ignore him, and she persistently fails to appear, until it becomes a cold form of torture. 
+    
+    The questions keep coming and nothing stops them, not answering truthfully, not not answering, not lying, not rambling off on tangents. 
+    
+    They don't stop until he begins falling asleep in the middle of his own sentences."""
+
+    scene scp appartment 
+
+    """He wakes up in a standard Humanoid Containment Unit, a stackable one-bedroom apartment with holographic fake windows, impregnable walls and extensive discreet modifications for the security and monitoring of anomalous entities. 
+    
+    This one is on the first basement level, but he can't tell that. 
+    
+    The bright quote-light-unquote pouring in through the main living area window is authentic enough to tan.
+
+    He wakes up on the couch, with a start, feeling creaky and dehydrated. He realises that he slept in his suit, and that his suit is creased. 
+    
+    He hates that, that sensation of not looking his best, or at least presentable. 
+    
+    That's going to gnaw away at him until he can find, at minimum, a razor and a change of shirt."""
 
     return 

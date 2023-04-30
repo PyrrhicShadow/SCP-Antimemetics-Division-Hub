@@ -45,6 +45,10 @@ define wheeler_p = Character("Past Marion Wheeler", what_prefix="\"", what_suffi
 define scp3125 = Character("SCP-3125", what_prefix="\"", what_suffix="\"", who_alt="SCP three one two five says, ")
 define scp3125_a = Character("Infected Not-Person", what_prefix="\"", what_suffix="\"", who_alt="An Infected Not-Person says, ")
 
+# story 6: where 
+
+define gauss = Character("Alex Gauss", what_prefix="\"", what_suffix="\"", who_alt="Gauss says, ")
+
 ##########################################################
 # images 
 ##########################################################
