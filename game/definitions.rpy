@@ -13,11 +13,13 @@ define persistent.where = False
 # characters 
 ##########################################################
 
-define wheeler = Character("Marion Wheeler", what_prefix="\"", what_suffix="\"", who_alt="Wheeler says, ")
+define wheeler = Character("Marion Wheeler", what_prefix="\"", what_suffix="\"", who_alt="Marion says, ")
 define wheeler_t = Character("Marion Wheeler", what_italic=True, who_alt="Wheeler thinks, ")
 define o5_8 = Character("O5-8", what_prefix="\"", what_suffix="\"", who_alt="O five eight says, ")
 define kim = Character("Paul Kim", what_prefix="\"", what_suffix="\"", who_alt="Kim says, ")
 define kim_t = Character("Paul Kim", what_italic=True, who_alt="Kim thinks, ")
+define adam = Character("Adam Wheeler", what_prefix="\"", what_suffix="\"", who_alt="Adam says, ")
+
 define unknown = Character("???", what_prefix="\"", what_suffix="\"", who_alt="The stranger says, ")
 define note = Character(None, kind=nvl)
 
@@ -50,6 +52,7 @@ define scp3125_a = Character("Infected Not-Person", what_prefix="\"", what_suffi
 image wheeler = Placeholder('girl')
 image kim = Placeholder('boy')
 image o5_8 = Placeholder('boy')
+image adam = Placeholder('boy')
 
 image bg black = "#000"
 

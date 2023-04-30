@@ -75,6 +75,9 @@ label hub_five:
         "Five Five Five Five"
 
         "Where Have You Been All My Life" if persistent.where: 
+            call where
+
+        "Fresh Hell":
             call coming_soon
 
         "Back": 
@@ -90,6 +93,8 @@ label quick_play:
 
     $persistent.firstrun = False
 
+    "Part 1: {i}There is No {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division{/i}"
+
     call talk
 
     call intro 
@@ -99,6 +104,10 @@ label quick_play:
     call green 
 
     call first
+
+    "Part 2: {i}Five Five Five Five Five{/i}" 
+
+    call where
 
     # This ends the game.
 
