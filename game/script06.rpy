@@ -8,7 +8,7 @@ label where:
 
     "\"Where Have You Been All My Life\" by qntm, from the SCP Wiki. Source: https://scp-wiki.wikidot.com/where-have-you-been-all-my-life. Licensed under CC-BY-SA."
 
-    scene bg wheeler home 
+    scene bg marion home 
 
     """Who the {i}fuck{/i} infiltrates a senior Foundation official's home, while they're home?
 
@@ -80,7 +80,7 @@ label where:
     
     She sights urgently back down the stairs for a second; there's no one there. She prods him in his other cheek with the muzzle of the gun.""" 
     
-    wheeler "You speak, you die. You try to move, you die." 
+    marion "You speak, you die. You try to move, you die." 
     
     """She glances at the windows, checks the stairs again, listens intently. There's no sound. There's nothing to be seen.
 
@@ -94,17 +94,17 @@ label where:
     
     He makes no attempt to move, although he does look askance at Wheeler, as best he can given his dislodged glasses."""
 
-    wheeler "Where are the others?"
+    marion "Where are the others?"
 
     unknown "It's just me, Marion."
 
-    wheeler "Who are you?"
+    marion "Who are you?"
 
     "He says nothing for a moment, but his expression slowly, subtly drops."
     
     unknow "I, ah. Well. Well, it really happened, didn't it? I always wondered."
 
-    wheeler "Who are you?"
+    marion "Who are you?"
 
     unknown """There is a monster which follows you around and eats your memories. 
     
@@ -122,7 +122,7 @@ label where:
 
     "With a well-suppressed but still detectable note of dismay, she asks:" 
     
-    wheeler "What's your name?"
+    marion "What's your name?"
 
     unknow "Adam."
     
@@ -156,7 +156,7 @@ label where:
 
     "Wheeler stays focused on the coffee." 
     
-    wheeler "Who is he?" 
+    marion "Who is he?" 
 
     "Gauss opens the first page of the report, more for show than anything, then closes it again." 
     
@@ -168,17 +168,17 @@ label where:
 
     """Wheeler nods. This assessment matches her own, pieced together overnight from gut reactions and analysis of the plain facts. Where the hell else did her name come from? She wasn't born \"Wheeler\". But she had to get independent verification."""
 
-    wheeler "Has this happened before?"
+    marion "Has this happened before?"
 
     gauss "No."
 
-    wheeler "Could it happen again?"
+    marion "Could it happen again?"
 
     "Gauss shrugs." 
     
     gauss "You would know better than anyone."
 
-    wheeler """I would. I do. 
+    marion """I would. I do. 
     
     And I can tell you this: 
         
@@ -198,7 +198,7 @@ label where:
     
     She stares into the coiling steam, as if trying to see the future.""" 
     
-    wheeler """But who is he?
+    marion """But who is he?
     
     At this point, you know him better than I do. 
     
@@ -208,11 +208,11 @@ label where:
 
     "Wheeler looks him in the eye." 
     
-    wheeler "Tell me your personal impression of Adam Wheeler. Direct order."
+    marion "Tell me your personal impression of Adam Wheeler. Direct order."
 
     gauss "…He's a nice enough guy."
 
-    wheeler "'Nice enough'?"
+    marion "'Nice enough'?"
 
     "Gauss clicks his tongue." 
     
@@ -224,7 +224,7 @@ label where:
     
     Would I throw someone in a cell for that? No."""
 
-    wheeler "Do I like him?"
+    marion "Do I like him?"
 
     gauss "You—" 
     
@@ -250,7 +250,7 @@ label where:
 
     hide cg
 
-    wheeler "Oh, they 'subsequently became romantically involved', did they? Tell me more, you featureless gray sphere of a biographer, I'm hooked now."
+    marion "Oh, they 'subsequently became romantically involved', did they? Tell me more, you featureless gray sphere of a biographer, I'm hooked now."
 
     """The biography is contentless beyond this point. 
     
@@ -310,7 +310,7 @@ label where:
     
     adam "How are you feeling? Did you sleep?"
 
-    wheeler "I'm fine."
+    marion "I'm fine."
 
     adam "I can tell you've had your coffee. Have you eaten? Come on, I'll make you something." 
     
@@ -318,37 +318,37 @@ label where:
     
     adam "There must be something edible around here. Eggs and milk, at least. I'm ashamed to say I more or less fell asleep where I was standing when they put me in here, so I haven't had a chance to scout. Or do you keep the place empty, and the food arrives through a slot in the wall?"""
 
-    wheeler "Mr. Wheeler—"
+    marion "Mr. Wheeler—"
 
     "Adam shoots her a disappointed look."
 
-    wheeler """Okay. Adam. Please come and sit down. You're right, there's nothing in any of those cupboards."""
+    marion """Okay. Adam. Please come and sit down. You're right, there's nothing in any of those cupboards."""
 
     """He closes the cupboard and sits opposite her at the kitchen table.""" 
     
     adam """Scrambled eggs on granary toast. With a lot of garlic in the eggs. That's what we both need right now. Particularly you, because if I don't make something substantial for you you end up drinking those wretched wallpaper paste milkshakes seven days a week. Or you skip the meal entirely."""
 
-    wheeler "Adam. We've been married for seventeen years, is that correct?"
+    marion "Adam. We've been married for seventeen years, is that correct?"
 
     adam "Yes."
 
-    wheeler "I don't know you."
+    marion "I don't know you."
 
     adam """That's fine. I doubt that that's going to be a serious problem. You've told me, many times, about your own people who've lost themselves in the work and had to bootstrap their own personalities a second time. You love watching it. It's like watching butterflies emerge from chrysalides. The best of your people can turn that around in ten weeks. Imagine how fast it's going to be for you."""
 
-    wheeler "No." 
+    marion "No." 
     
     "Her tone is clinical, matter-of-fact." 
     
-    wheeler "I'm afraid it's not possible."
+    marion "I'm afraid it's not possible."
 
     adam "What's not possible?"
 
-    wheeler "I can't begin a new relationship right now. Certainly not something as serious as a marriage. You have nominal clearance; you know what we do. I have responsibilities. I do not have… 'time'."
+    marion "I can't begin a new relationship right now. Certainly not something as serious as a marriage. You have nominal clearance; you know what we do. I have responsibilities. I do not have… 'time'."
 
     adam "This isn't 'new'. It's pre-existing."
 
-    wheeler "No. That relationship is ended now, and we are somewhere else."
+    marion "No. That relationship is ended now, and we are somewhere else."
 
     "Adam stares at her for a long moment, thin-lipped and far from happy."
 
@@ -360,13 +360,13 @@ label where:
     
     'What else have you forgotten?' would be a stupid question to ask, so instead I'm asking you, what's left? I want you to tell me everything you can remember."""
 
-    wheeler "Everything I can remember?"
+    marion "Everything I can remember?"
 
     adam "Yes. From 1995 to right now."
 
     """It's still a farcical question at face value, and Wheeler's first instinct is to dismiss it as such, but she thinks again. She thinks, intending to genuinely try to answer the question. And she finds gaps. There's a dearth of specifics. It's like being asked to \"say something\" and immediately forgetting all words."""
 
-    wheeler "I remember… working."
+    marion "I remember… working."
 
     """And driving home, and then sleep, and then driving back to work. Big, hostile buildings. Drug regimens, containment procedures, endless piles of opaque numbers, personal fitness drills. Running. Calculating. Never, ever stopping calculating. She remembers, with unfair clarity, a large variety of extremely bad dreams.
 
@@ -414,13 +414,13 @@ label where:
     
     Wheeler can't ignore it. She forces herself to drop the other thread and seize this one."""
 
-    wheeler "What war?"
+    marion "What war?"
 
     "And now Adam really doesn't know what's happening." 
     
     adam "Good God. The war, Marion. I don't know how else to describe it."
 
-    wheeler "What war? How many people?"
+    marion "What war? How many people?"
 
     adam """I don't know. There are names. Names you stop mentioning, and then you ignore me when I bring them up again. I assume there are reasons. I don't know the specifics. How could I know? Why don't you know?"""
 
@@ -438,23 +438,23 @@ label where:
 
     People are disappearing around her."""
 
-    wheeler "And what if—" 
+    marion "And what if—" 
     
     "Stops dead in the middle of the thought, as if the thought itself was stolen out of her."
 
-    wheeler "And what if we get back together, and—" 
+    marion "And what if we get back together, and—" 
     
     """She begins again, and this time hard instinct seizes her around the midsection and bodily hauls her back from thinking a thought which, it knows, would kill her. She's Wile E. Coyote, she's already run off the edge of a precipice into clear air, and thinking that thought would be like looking down."""
 
     "She feels SCP-4987 moving around her, abstractly bound to her, a winking speck of glitter in her eye." 
     
-    wheeler "Something's wrong."
+    marion "Something's wrong."
 
     "Adam scratches at his own eye." 
     
     adam "Do you see that?"
 
-    wheeler "How can you see that?"
+    marion "How can you see that?"
 
     adam "I have a mild immunity to antimemetic influence." 
     
@@ -462,9 +462,9 @@ label where:
     
     adam """I can tell when something is fritzing with my memories. I can resist it. Up to a point. So, Marion, I was hoping to have a relaxed conversation over coffee and get around to this topic organically, but I'm going to have to skip to the end: I have the impression that SCP-4987 is trying to kill me."""
 
-    wheeler "…No." 
+    marion "…No." 
     
-    wheeler """That's not its behavior model. It doesn't sustain itself that way, by eating people. It eats memories. 
+    marion """That's not its behavior model. It doesn't sustain itself that way, by eating people. It eats memories. 
     
     And it's never done this. Not to you, nor me, nor anybody. Not since the very early days. 
     
@@ -478,15 +478,15 @@ label where:
 
     "There's a sound in Wheeler's mind, but not in her ear, like a distant chorus of baying dogs. She stands too, and moves after Adam into the middle of the containment unit."
 
-    wheeler "It's trying to protect you."
+    marion "It's trying to protect you."
 
     adam "I— How does wiping your memory of me protect me?"
 
-    wheeler "I can't explain. And I can't explain why I can't explain. I don't fully know myself. There's an ███████████ ███████."
+    marion "I can't explain. And I can't explain why I can't explain. I don't fully know myself. There's an ███████████ ███████."
 
     adam "A what?"
 
-    wheeler """You can't be here.
+    marion """You can't be here.
     
     You can't be in my life. You have to leave, or you're going to die."""
 
@@ -500,7 +500,7 @@ label where:
 
     She says, with sudden actinic clarity:""" 
     
-    wheeler "I must have made an identical promise."
+    marion "I must have made an identical promise."
 
     """Adam doubles over, blinded in both eyes now. Closing his eyes does nothing, covering his eyes does nothing. 
     
@@ -516,13 +516,13 @@ label where:
     
     You've got no idea what you're about to do to yourself. You don't even know me."""
 
-    wheeler "I think I know."
+    marion "I think I know."
 
     adam """You will feel this for the rest of your life. 
     
     Every day, you will wake up with a sick cold feeling in your stomach where there used to be a real life. And you'll wonder why."""
 
-    wheeler """I'm going to win this war. I'll beat the universe. 
+    marion """I'm going to win this war. I'll beat the universe. 
     
     And then I will come and find out why."""
 
@@ -550,7 +550,7 @@ label where:
     
     They look appalled."""
 
-    wheeler "Fill in his backstory. He was never married. 
+    marion "Fill in his backstory. He was never married. 
     
     Relocate him to where I'll never find him, incinerate all the evidence, then report to me for surgical memory erasure. 
     
@@ -558,6 +558,6 @@ label where:
 
     "Gauss looks as if he has an objection. She stares him down."
 
-    wheeler "My husband's dead."
+    marion "My husband's dead."
 
     return 

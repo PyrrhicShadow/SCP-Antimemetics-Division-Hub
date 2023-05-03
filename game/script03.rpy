@@ -48,7 +48,7 @@ label lake:
 
     unknown "Do you remember me?"
 
-    show wheeler at offleft
+    show marion at offleft
 
     """Marness looks, with eyes which are strengthening. The woman speaking is seated on the deck beside him, attentive. 
     
@@ -64,7 +64,7 @@ label lake:
     
     marness "Marion."
 
-    wheeler """El, you died. You died surrounded by grieving family. They loved you very much, and they cried over you. 
+    marion """El, you died. You died surrounded by grieving family. They loved you very much, and they cried over you. 
     
     The funeral for the fake is in a few days, but unfortunately you won't be able to see it yourself. You're dead now, and this is what comes next."""
 
@@ -74,7 +74,7 @@ label lake:
 
     "It's Wheeler now, but she doesn't correct him." 
     
-    wheeler """When you retired from the Foundation, El, we did what we do to all of us who retire; what all of us agree to when we sign up.  We gave you some medicine which made you forget. 
+    marion """When you retired from the Foundation, El, we did what we do to all of us who retire; what all of us agree to when we sign up.  We gave you some medicine which made you forget. 
     
     As you stepped out of the door for the last time, all the work you did for us — great work, which saved lives — evaporated away, and your cover story sealed over those years became reality. 
     
@@ -92,7 +92,7 @@ label lake:
     
     "Marness blinks, remembering, dizzy."
 
-    wheeler """You signed over your final twelve hours to us. 
+    marion """You signed over your final twelve hours to us. 
     
     You asked for a full and happy and well-deserved retirement… but now, for the last day, you work for us again, because of one particular job. 
     
@@ -100,13 +100,13 @@ label lake:
 
     marness "Yes."
 
-    wheeler "Do you remember who you are?"
+    marion "Do you remember who you are?"
 
     marness "Doctor Lyn Patrick Marness, of the Foundation. Antimemetics Division founder."
 
     "Wheeler smiles with relief. It's good to see him again."
 
-    wheeler """We need some memories from you. Memories which nobody else in the world has access to, and which are buried so deeply that we can't extract them without killing you. 
+    marion """We need some memories from you. Memories which nobody else in the world has access to, and which are buried so deeply that we can't extract them without killing you. 
     
     So this afternoon, that's what we're going to do. We're going to extract those memories, and once we're done, you'll be dead."""
 
@@ -116,12 +116,12 @@ label lake:
     
     He remembers deferring the mystery until now."""
 
-    wheeler "What happened in 1976?" 
+    marion "What happened in 1976?" 
     
     scene bg lake 
 
     show marness agent at centerright
-    show wheeler at centerleft
+    show marion at centerleft
 
     """Marness sits up. His skin is beginning to clear and his breathing is improving.
 
@@ -163,7 +163,7 @@ label lake:
 
     "Marness trails off. Not because he's forgotten what to say next, it's deliberate. The trailing off is exactly what happened."
 
-    wheeler """You woke up back at your desk half a working day later, remembering nothing. 
+    marion """You woke up back at your desk half a working day later, remembering nothing. 
     
     You went through the loop a dozen times before someone realised what was happening and broke you out of it."""
 
@@ -183,7 +183,7 @@ label lake:
 
     "Wheeler nods." 
     
-    wheeler """This much we know already. I was there when you wrote the note, remember? The question is known. 
+    marion """This much we know already. I was there when you wrote the note, remember? The question is known. 
     
     It's the answer that we can't get to without killing you. It's the answer that we've waited all these years to get at. 
     
@@ -200,7 +200,7 @@ label lake:
     scene bg lake
 
     show marness army at centerright
-    show wheeler at centerleft
+    show marion at centerleft
 
     """Marness seems like another man once the second X dose takes effect. 
     
@@ -244,7 +244,7 @@ label lake:
 
     "Marion Wheeler is silent for a long moment."
 
-    wheeler "The U.S. Army was secretly developing antimemetic weaponry as early as the 1940s."
+    marion "The U.S. Army was secretly developing antimemetic weaponry as early as the 1940s."
 
     "Her voice is doubtful."
 
@@ -252,7 +252,7 @@ label lake:
     
     "Marness says this with more than a hint of pride."
 
-    wheeler "Of course, there is no one in the whole world who could back this up."
+    marion "Of course, there is no one in the whole world who could back this up."
 
     marness "That's right." 
     
@@ -262,17 +262,17 @@ label lake:
     
     Still, this is why you resurrected me, isn't it? For the sake of one more good war story. God, I've missed shop talk."""
 
-    wheeler """I resurrected you because I want a very specific question answered. Although I can see that in a way you've already answered it. 
+    marion """I resurrected you because I want a very specific question answered. Although I can see that in a way you've already answered it. 
     
     This bomb was the means, wasn't it? The old Antimemetics Division—"""
 
     marness "—the Unthinkables—"
 
-    wheeler "—bombed themselves. Somehow."
+    marion "—bombed themselves. Somehow."
 
     marness "That's right."
 
-    wheeler "From context, I assume that they knew what they were doing that time. I assume it was not an accident."
+    marion "From context, I assume that they knew what they were doing that time. I assume it was not an accident."
 
     marness "It was not." 
 
@@ -322,7 +322,7 @@ label lake:
 
     marness "Dr. Ojobiru? Julie Still?"
 
-    wheeler "El, this is important. Are you at the right place in your own timeline to remember what happened yet?"
+    marion "El, this is important. Are you at the right place in your own timeline to remember what happened yet?"
 
     "Marness focuses. And he discovers that he is. Something changes in his eyes, as he stops reminiscing. He speaks more slowly now, his voice dropping almost to a whisper:"
 
@@ -330,7 +330,7 @@ label lake:
     
     This is what you wanted, isn't it, Marion?"""
 
-    wheeler "Yes. This is the data I'm killing you for." 
+    marion "Yes. This is the data I'm killing you for." 
     
     "She leaves a gap where, if she felt there was anything to apologise for, she would apologise."
 
@@ -350,7 +350,7 @@ label lake:
     
     She hasn't brought any backup with her. There's a radioactive prickling in her brain. She doesn't—"""
 
-    wheeler_t """Red flag. Why didn't I bring any backup with me? That doesn't make sense.
+    marion_t """Red flag. Why didn't I bring any backup with me? That doesn't make sense.
 
     There should be a team at the lake house. There should be an MTF operative and a medic here on the boat with me. 
     
@@ -358,27 +358,27 @@ label lake:
 
     "She pulls her gun, but doesn't aim it at Marness yet." 
     
-    wheeler "Where is it? Is it in you?"
+    marion "Where is it? Is it in you?"
 
     "Marness's voice is becoming urgent. He covers both of his eyes again." 
     
     marness "Destroying all knowledge of it was the only way to destroy it. And restoring my memories was a foolproof way to bring it back!"
 
-    wheeler_t "It's in his eyes. Most likely his left eye." 
+    marion_t "It's in his eyes. Most likely his left eye." 
     
     "Wheeler backs up to the other side of the boat and draws a bead on the centre of Marness' head." 
     
-    wheeler "El. Are you still in there?"
+    marion "El. Are you still in there?"
 
     marness "There is a way to fix this." 
     
     "Marness drops to his knees. He keeps his eyes screwed up and gropes his way forward blindly, on his hands and knees."
 
-    wheeler "El, you need to tell me what this thing is."
+    marion "El, you need to tell me what this thing is."
 
     marness "That's the opposite of what we need to do. You need to set another bomb off."
 
-    wheeler "We don't have that bomb. We lost that technology—" 
+    marion "We don't have that bomb. We lost that technology—" 
 
     marness """You've always had it! 
     
@@ -388,11 +388,11 @@ label lake:
     
     Think about it. That's where your bomb's installed."""
 
-    wheeler "But that just sets us back to square one. If I set the bomb off." 
+    marion "But that just sets us back to square one. If I set the bomb off." 
     
     "Wheeler says this knowing full well that she is thousands of kilometres from it and can't hope to reach it in time anyway." 
     
-    wheeler "How do we contain this thing?"
+    marion "How do we contain this thing?"
 
     marness """We won't. We can't, ever! 
     
@@ -410,7 +410,7 @@ label lake:
     
     Still on his knees, he grasps the pedipalp with both hands and tries to break it, but it's solid, as if it has bones inside it."""
 
-    wheeler """What is it? That can't be the whole story. 
+    marion """What is it? That can't be the whole story. 
     
     Where is it from, what does it want? Can it reason, can it speak?"""
 
@@ -456,11 +456,11 @@ label lake:
     
     By the time she surfaces she doesn't remember where she fell from, or why. And likewise, the skyscraper-sized being which claimed Marness and the boat has forgotten about her."""
 
-    wheeler "What the hell." 
+    marion "What the hell." 
     
     "She gasps, treading water." 
     
-    wheeler "What the hell, where the hell?"
+    marion "What the hell, where the hell?"
 
     """There is nothing above her, no explanation. 
     
@@ -468,11 +468,11 @@ label lake:
     
     She wants to die."""
 
-    wheeler_t "Swim." 
+    marion_t "Swim." 
     
     "A part of her wills her forward."
     
-    wheeler_t "Get to shore first. Then you can die."
+    marion_t "Get to shore first. Then you can die."
 
     scene bg scp office 
 
@@ -504,7 +504,7 @@ label lake:
 
     It's weeks later still that Wheeler discovers the largest new hole in her memory:"""
 
-    wheeler_t "Who founded the division? When?"
+    marion_t "Who founded the division? When?"
 
     scene bg end
 

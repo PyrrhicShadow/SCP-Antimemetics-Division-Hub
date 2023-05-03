@@ -10,7 +10,7 @@ label first:
 
     scene bg elevator 
 
-    show wheeler
+    show marion
 
     """Marion Wheeler is curled in the corner of Site 41's main freight elevator, descending, clutching a shiny red ray gun almost as long as she is tall. 
     
@@ -38,11 +38,11 @@ label first:
     
     It was like using a child's toy gun. Wheeler is petrified, but more than that, angry.""" 
     
-    wheeler "This is too much." 
+    marion "This is too much." 
     
     "She says this, out loud, willing her heart rate back under control."
     
-    wheeler """I can't deal with this. I shouldn't have to deal with this. 
+    marion """I can't deal with this. I shouldn't have to deal with this. 
     
     It's my fucking first day!"""
 
@@ -50,7 +50,7 @@ label first:
     
     "But how much sense does that make?"
 
-    show wheeler
+    show marion
     
     """Wheeler studies her reflection in the dark glass of the elevator control panel, and she tours the interior of her own skull, examining her thought processes. 
     
@@ -60,7 +60,7 @@ label first:
     
     Hell, a newbie wouldn't even know how to carry out a detailed psychological self-examination of this kind. A newbie wouldn't even think of it, a newbie would just suffocate."""
 
-    wheeler """The first thing it did when it saw me was eat everything I knew about the Division. And everything I knew about it. 
+    marion """The first thing it did when it saw me was eat everything I knew about the Division. And everything I knew about it. 
     
     If I had a plan, it ate the plan. 
     
@@ -70,7 +70,7 @@ label first:
 
     "She scratches absently at her left wrist."
 
-    wheeler """Taking some hardcore mnestic drugs would have been a smart first step, I guess. 
+    marion """Taking some hardcore mnestic drugs would have been a smart first step, I guess. 
     
     Reinforcing my mind, so that it can't erase the rest of the steps. 
     
@@ -144,13 +144,13 @@ label first:
     
     She doesn't remember it; she bootstraps it from first principles, in a handful of minutes, just like she's done a hundred times before."""
 
-    wheeler "I know how to beat you."
+    marion "I know how to beat you."
 
     scp3125 "No. You don't."
 
     scene bg elevator
 
-    show wheeler at offleft 
+    show marion at offleft 
 
     """The elevator stops at the thirtieth floor below ground and its doors grind open. They wait, open, for a long time. 
     
@@ -158,11 +158,11 @@ label first:
 
     "Still crouched in the corner, Wheeler mutters:" 
     
-    wheeler "SCP-3125 doesn't have a voice."
+    marion "SCP-3125 doesn't have a voice."
 
     scp3125 "Of course I do."
 
-    wheeler """SCP-3125 is a five-dimensional anomalous metastasized mass of bad memes and bad antimemes and everything in between, seeping through to our physical reality. 
+    marion """SCP-3125 is a five-dimensional anomalous metastasized mass of bad memes and bad antimemes and everything in between, seeping through to our physical reality. 
     
     It isn't coherent and it isn't intelligent. It can't communicate. This is an auditory hallucination."""
 
@@ -182,13 +182,13 @@ label first:
 
     scene scp hall
 
-    show wheeler
+    show marion
     
     """There's an airlock at the far end, this one large enough to drive a truck through, built from ultra-toughened white metal alloy in Bart Hughes's established style. 
     
     There's a panel beside the airlock. She closes her eyes again and hobbles forward, using the ray gun as a crutch, stretching one hand out ahead of her as guidance."""
 
-    wheeler "Someone has to be last. Someone has to be the best."
+    marion "Someone has to be last. Someone has to be the best."
 
     scp3125 """Your team is dead. Their minds have been pulled out, like eyeballs. 
     
@@ -208,13 +208,13 @@ label first:
 
     Behind her, she hears the freight elevator close up and return to ground level, and she knows that someone has summoned it, intending to pursue her."""
 
-    wheeler "Ideas can be killed." 
+    marion "Ideas can be killed." 
     
     "She steps into the airlock."
 
     scp3125 "How?"
 
-    wheeler "With better ideas."
+    marion "With better ideas."
 
     "As the airlock cycles closed, so does the hermetic seal. SCP-3125 is shut out."
 
@@ -244,17 +244,17 @@ label first:
 
     scene bg scp bomb
 
-    show wheeler
+    show marion
 
     """The space beyond the airlock is gigantic, structured and lit like an aircraft hangar and filled with hot, stale, dry air. 
     
     Wheeler, still mostly blind, stumbles forward across an expanse of more than a hectare of flat, dusty epoxy flooring."""
     
-    wheeler "Hughes!" 
+    marion "Hughes!" 
     
     "She shouts into the void." 
     
-    wheeler "It's time!" 
+    marion "It's time!" 
     
     "Nothing comes back but the echo."
 
@@ -327,7 +327,7 @@ label first:
     scene bg scp bomb
 
     show kim at centerleft
-    show wheeler at offright
+    show marion at offright
 
     """In the next room, the being which is not Paul Kim finds Wheeler, unconscious, with the ray gun dropped beside her. There is also a military truck, which it disregards.
 
@@ -355,7 +355,7 @@ label first:
 
     "Not-Kim leans down to start work, then hesitates, its knife a few centimetres from Wheeler's eye. She's whispering something, so quietly that only it can hear her clearly."
 
-    wheeler """None of this happened, Paul.
+    marion """None of this happened, Paul.
     
     You and I never existed. There is no Antimemetics Division."""
 

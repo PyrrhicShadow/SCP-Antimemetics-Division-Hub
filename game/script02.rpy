@@ -407,13 +407,13 @@ label intro:
     scene bg scp office
 
     show kim at centerleft
-    show wheeler at centerright
+    show marion at centerright
 
-    wheeler "It was chewing its way up the Antimemetics Division hierarchy." 
+    marion "It was chewing its way up the Antimemetics Division hierarchy." 
     
     "Wheeler tells him in the aftermath." 
     
-    wheeler """It was only a matter of time until it bit down on somebody dangerous. 
+    marion """It was only a matter of time until it bit down on somebody dangerous. 
     
     Congratulations on demonstrating a basic level of competence when it counted. Dozens of others couldn't."""
 
@@ -437,7 +437,7 @@ label intro:
     
     It's just that the first thing Grey ate was my memories of everything past the first day. And even then…"""
 
-    wheeler """I see very little luck in what happened today. Instinct and muscle memory are just deep forms of training. 
+    marion """I see very little luck in what happened today. Instinct and muscle memory are just deep forms of training. 
     
     Like I said, a basic level of competence. An ability to piece your own life and all of your past knowledge back together, faster than nearly anybody else. 
     
@@ -449,15 +449,15 @@ label intro:
     
     You've sat there and watched me put myself back together before."""
 
-    wheeler "And it hasn't gotten old yet." 
+    marion "And it hasn't gotten old yet." 
     
     "Wheeler admits this with something which might be approaching a smirk."
 
     kim "How long does it usually take for me to recover?"
 
-    wheeler "A few months." 
+    marion "A few months." 
     
-    wheeler """But if you want the honest truth, people in this division are as competent on day one as they'll ever be. 
+    marion """But if you want the honest truth, people in this division are as competent on day one as they'll ever be. 
     
     You come to the job firing on all cylinders, or not at all. The rest is just fine-tuning and chemistry."""
 
@@ -465,7 +465,7 @@ label intro:
 
     "Wheeler nods." 
     
-    wheeler """I need an updated SCP entry, just to begin with. 
+    marion """I need an updated SCP entry, just to begin with. 
     
     I need you to nail down the model for Grey's predatory pattern and exactly how you defeated it. 
     

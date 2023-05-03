@@ -152,7 +152,7 @@ label fresh:
 
     marion "What kind of violin music?"
 
-    adam "Uh. What kind would you like? Tonight's— last night's— Christ, yesterday's concert was Prokofiev's Violin Concerto No. 1. And a few other pieces, of course, but that was the main course for me. That was where I got my teeth in."
+    adam """Uh. What kind would you like? Tonight's— last night's— Christ, yesterday's concert was Prokofiev's Violin Concerto No. 1. And a few other pieces, of course, but that was the main course for me. That was where I got my teeth in."""
 
     "Hutchinson stops hacking and turns around. She actually looks him in the eye." 
     

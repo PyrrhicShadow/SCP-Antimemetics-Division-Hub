@@ -14,9 +14,9 @@ label talk:
 
     scene bg admin reception
 
-    show wheeler at centerleft
+    show marion at centerleft
 
-    wheeler "Can I smoke?"
+    marion "Can I smoke?"
 
     show receptionist at offright
 
@@ -28,13 +28,13 @@ label talk:
 
     "Marion notices the exasperation on the young woman's face."
 
-    wheeler "I've asked you that before, haven't I?"
+    marion "I've asked you that before, haven't I?"
 
     receptionist "Twice in the last quarter-hour. You must really need a smoke."
 
     "She's genuinely puzzled at the repeated question, and she's doing a bad job of concealing her puzzlement."
 
-    wheeler """You think this is like {i}Memento{/i}, don't you? You think I have no long-term memory, and if I stay in one place for too long I forget why I'm there."""
+    marion """You think this is like {i}Memento{/i}, don't you? You think I have no long-term memory, and if I stay in one place for too long I forget why I'm there."""
 
     "The receptionist is only just old enough to remember that film."
 
@@ -43,7 +43,7 @@ label talk:
     "Marion smiles sympathetically and shakes her head. It's nothing so simple."
 
     hide receptionist
-    show wheeler at center
+    show marion at center
 
     """Minutes pass. She toys obsessively with her lighter.
 
@@ -77,7 +77,7 @@ label talk:
 
     "The office door closes behind them with an unusually heavy mechanical clunk, as if the whole thing is part of a machine built into the office walls."
 
-    show wheeler
+    show marion
 
     """While Marion takes the indicated chair and sets her bag down, the assistant turns and does some confusing additional things to the door, causing it to make several further strange noises.
 
@@ -87,18 +87,18 @@ label talk:
 
     The walls are all bookshelves and dark wood panelling; perfectly stylish, but a style from the Nineties, a little worn, and not yet old enough to be fashionable again."""
 
-    show wheeler at centerleft
+    show marion at centerleft
     show o5_8 at centerright
     
     "As for the fellow behind the desk, well, an O5 never looks like you imagine."
 
     "Marion takes a deep breath."
 
-    wheeler "So what's the topic? All I got was the meeting invitation, no agenda or subject."
+    marion "So what's the topic? All I got was the meeting invitation, no agenda or subject."
 
-    wheeler "I mean, an O5 says 'jump', you jump, but—"
+    marion "I mean, an O5 says 'jump', you jump, but—"
 
-    show clay at offleft behind wheeler
+    show clay at offleft behind marion
 
     """Looking to her right, she notices that the assistant, without saying anything or making any undue noise, has set his tablet down on a table, produced a gun and aimed it at her head.
 
@@ -106,7 +106,7 @@ label talk:
 
     She sits still in her chair for a little while, absorbing the change of pace, letting her heart rate rise to a hummingbird's and then start to flatten again."""
 
-    wheeler "Okay?"
+    marion "Okay?"
 
     """She licks her lips and grips the arm rests, otherwise staying perfectly still, waiting for another prompt.
 
@@ -116,11 +116,11 @@ label talk:
 
     "Marion blinks."
 
-    wheeler """What?
+    marion """What?
 
     Oh, God."""
 
-    o5_8 """Let me rephrase. Marion Wheeler, forty-nine, with loving husband and two boys in tow.
+    o5_8 """Let me rephrase. Marion marion, forty-nine, with loving husband and two boys in tow.
 
     Likes camping, hiking and ornithology. Boring mother with perfect, airtight background and financials, as far back as we can examine.
 
@@ -136,21 +136,21 @@ label talk:
 
     "Marion has long since stopped listening."
 
-    wheeler "You dullard. I'm your chief of {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt}."
+    marion "You dullard. I'm your chief of {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt}."
 
     clay "We don't have an {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division."
 
-    wheeler "Yes, you do. We do."
+    marion "Yes, you do. We do."
 
     o5_8 "We have a Memetics Division, a {noalt}Telekontainment{/noalt}{alt}tele-containment{/alt} Division, Fire Services, Ops-A, Ops-B, Personnel, D-personnel and two dozen others."
 
     o5_8 "We don't have an {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division."
 
-    wheeler "Do we have an Irony Division?"
+    marion "Do we have an Irony Division?"
 
     "Marion hesitates hopefully."
 
-    wheeler "No? Alright. Well, try this: why do you think the {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division would show up in the listing?"
+    marion "No? Alright. Well, try this: why do you think the {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division would show up in the listing?"
 
     clay "This is just a cover story."
 
@@ -164,7 +164,7 @@ label talk:
 
     "Grudgingly, Clay does so. Marion relaxes fractionally."
 
-    wheeler """There are SCPs with dangerous memetic properties. There are contagious concepts which require containment just like any physical threat.
+    marion """There are SCPs with dangerous memetic properties. There are contagious concepts which require containment just like any physical threat.
 
     They get inside your head, and ride your mind to reach other minds. Right?"""
 
@@ -172,7 +172,7 @@ label talk:
 
     "He could name a score of {noalt}SCPs{/noalt}{alt}S C peas{/alt} fitting this description without even thinking."
 
-    wheeler """There are SCPs with {noalt}antimemetic{/noalt}{alt}anti-memetic{/alt} properties. There are ideas which cannot be spread.
+    marion """There are SCPs with {noalt}antimemetic{/noalt}{alt}anti-memetic{/alt} properties. There are ideas which cannot be spread.
 
     There are entities and phenomena which harvest and consume information, particularly information about themselves.
 
@@ -196,11 +196,11 @@ label talk:
 
     o5_8 "Name one. Name an {noalt}antimemetic{/noalt}{alt}anti-memetic{/alt} SCP."
 
-    wheeler "SCP-055."
+    marion "SCP-055."
 
     clay "There is no SCP-055."
 
-    wheeler "Again: Yes, there is."
+    marion "Again: Yes, there is."
 
     clay """There isn't.
 
@@ -238,11 +238,11 @@ label talk:
 
     "Marion nearly spits."
 
-    wheeler "For Christ's sake, Clay, how long have you been working here?"
+    marion "For Christ's sake, Clay, how long have you been working here?"
 
     clay "But if this SCP is this powerful…"
 
-    wheeler "Yes?"
+    marion "Yes?"
 
     "The O5 finishes Clay's question for him."
 
@@ -250,13 +250,13 @@ label talk:
 
     And for that matter, how was the interview conducted, and who is 'Bartholomew Hughes'?
 
-    And most importantly, how do you, Mrs. Wheeler, retain knowledge of any of this?"""
+    And most importantly, how do you, Mrs. marion, retain knowledge of any of this?"""
 
-    wheeler "Bart Hughes wrote the file. He's dead."
+    marion "Bart Hughes wrote the file. He's dead."
 
     o5_8 "What happened to him?"
 
-    wheeler "You don't want to know."
+    marion "You don't want to know."
 
     """There is a very long pause while both {noalt}O5-8{/noalt}{alt}o five eight{/alt} and his assistant react to this.
 
@@ -264,7 +264,7 @@ label talk:
 
     Indignation at the seeming rudeness;
 
-    confusion at Wheeler's incaution in front of sinister superiors;
+    confusion at marion's incaution in front of sinister superiors;
 
     surprise at the magnitude of the claim;
 
@@ -276,7 +276,7 @@ label talk:
 
     o5_8 "What… would happen if we did know?"
 
-    wheeler """It would happen to you as well. 
+    marion """It would happen to you as well. 
     
     …As for the rest of your questions: we manage that pharmaceutically.
 
@@ -298,7 +298,7 @@ label talk:
 
     hide cg
 
-    wheeler """These are class W {noalt}mnestics{/noalt}{alt}nestics{/alt}, the weakest, suitable for continual use. Two pills per day.
+    marion """These are class W {noalt}mnestics{/noalt}{alt}nestics{/alt}, the weakest, suitable for continual use. Two pills per day.
 
     Go down to the site pharmacy and ask. The pharmacist will claim they don't stock any such thing; they're misremembering, tell them to double-check."""
 
@@ -306,11 +306,11 @@ label talk:
 
     o5_8 "And now, I think, I get it. I see why we're having this conversation at all."
 
-    wheeler "Yes."
+    marion "Yes."
 
     "She pops a second pill out and hands it over to him."
 
-    wheeler """It's because you missed a dose. You're supposed to be on these, the same as me and everybody on my staff. It's the only way we can work.
+    marion """It's because you missed a dose. You're supposed to be on these, the same as me and everybody on my staff. It's the only way we can work.
 
     You forgot to take a pill, and then you forgot all the information that the pills were helping you retain.  
     
@@ -320,7 +320,7 @@ label talk:
 
     o5_8 "And if I take this, I'll remember this whole conversation and we won't have to have it again?"
 
-    wheeler "Hopefully not."
+    marion "Hopefully not."
 
     clay "Uh, should I be taking those?"
 
@@ -332,7 +332,7 @@ label talk:
 
     o5_8 "So what is SCP-055?"
 
-    wheeler """SCP-055 is nothing. 
+    marion """SCP-055 is nothing. 
     
     SCP-055 is, as described in the file, a powerful information autosuppressor.
 
@@ -354,7 +354,7 @@ label talk:
 
     o5_8 "Then how many other {noalt}antimemes{/noalt}{alt}anti-memes{/alt} are there? How much more dangerous do they get?"
 
-    wheeler """Ten that I know of. Statistically, probably at least five more that I don't know of. This does not count the {noalt}antimemetic{/noalt}{alt}anti-memetic{/alt} entities freely roaming the halls, not under containment.
+    marion """Ten that I know of. Statistically, probably at least five more that I don't know of. This does not count the {noalt}antimemetic{/noalt}{alt}anti-memetic{/alt} entities freely roaming the halls, not under containment.
 
     There are at least two in this room with us right now. Don't look.
 
@@ -364,7 +364,7 @@ label talk:
 
     "Clay doesn't fare so well, and quickly sweeps the whole room, even checking behind his back. Making an ass of himself, essentially. He finds nothing. He looks baffled."
 
-    wheeler """There is an invisible monster which follows me around and likes to eat my memories. SCP-4987.
+    marion """There is an invisible monster which follows me around and likes to eat my memories. SCP-4987.
 
     Don't look it up, it's not there.
 
@@ -395,11 +395,11 @@ label talk:
 
     o5_8 "That's Clay's gun. You stole it from him."
 
-    wheeler "It's tricky to steal a firearm this heavy from someone without them noticing."
+    marion "It's tricky to steal a firearm this heavy from someone without them noticing."
 
     "Marion unloads it and carefully sets it down."
 
-    wheeler """But stealing a firearm and then stealing their memory of the theft is a little easier.
+    marion """But stealing a firearm and then stealing their memory of the theft is a little easier.
 
     Like I said: a pet. Some pets are dumb enough that they can be trained."""
 
@@ -407,7 +407,7 @@ label talk:
 
     But why?"""
 
-    wheeler """Because you were supposed to be taking class-W {noalt}mnestics{/noalt}{alt}nestics{/alt}.  You can't skip a dose of class-W {noalt}mnestic{/noalt}{alt}nestic{/alt}. I've tried. 
+    marion """Because you were supposed to be taking class-W {noalt}mnestics{/noalt}{alt}nestics{/alt}.  You can't skip a dose of class-W {noalt}mnestic{/noalt}{alt}nestic{/alt}. I've tried. 
     
     You can postpone a dose, but you can't forget unless someone actively prevents you from taking it. 
     
@@ -415,7 +415,7 @@ label talk:
 
     o5_8 "He didn't answer. I thought you were being rhetorical."
 
-    wheeler """He doesn't work here. He's an {noalt}antimeme{/noalt}{alt}anti-meme{/alt}. Since when do you have an assistant? You don't have an assistant, Brent.
+    marion """He doesn't work here. He's an {noalt}antimeme{/noalt}{alt}anti-meme{/alt}. Since when do you have an assistant? You don't have an assistant, Brent.
 
     Look at this office. It's got one desk. You've got a receptionist outside: she's the one who screens your calls and schedules your meetings.
 
@@ -427,7 +427,7 @@ label talk:
 
     o5_8 "Is he dead?"
 
-    wheeler """Maybe.
+    marion """Maybe.
 
     I can put his corpse in our research queue and we'll see what we can see when we open him up.
 
@@ -441,7 +441,7 @@ label talk:
 
     o5_8 "Any side effects of these pills?"
 
-    wheeler """Nausea, and dramatically increased risk of pancreatic cancer.
+    marion """Nausea, and dramatically increased risk of pancreatic cancer.
 
     And very bad dreams."""
 

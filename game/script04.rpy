@@ -19,11 +19,11 @@ label green:
     hide cg 
 
     show kim at centerright
-    show wheeler at centerleft
+    show marion at centerleft
 
     kim "You're kidding me. That's the whole entry?"
 
-    wheeler "That's the whole entry."
+    marion "That's the whole entry."
 
     "It isn't even the fiftieth strangest thing Paul Kim has seen in the database, but still:"
     
@@ -31,11 +31,11 @@ label green:
     
     No clue who built the unit, or when, or how many times it's been visited, or who carried out the previous visits, or what they took in with them, or how long they were in there?"""
 
-    wheeler "Well, obviously Bart Hughes built the unit." 
+    marion "Well, obviously Bart Hughes built the unit." 
     
     """This cannot be denied. The man's signature style of containment architecture is recognisable a mile out. Sleek, white, plainly impregnable without the aid of extremely heavy tools.""" 
     
-    wheeler """Which makes it at least seven years old. That's sixty visits or more. I guess there are good reasons for the rest of those omissions. 
+    marion """Which makes it at least seven years old. That's sixty visits or more. I guess there are good reasons for the rest of those omissions. 
     
     Anyway… the timer watchdog says it's time again."""
 
@@ -63,11 +63,11 @@ label green:
 
     kim  "What are you taking?" 
 
-    show wheeler at offleft
+    show marion at offleft
 
     "Wheeler ducks to step in, turns to face him and shrugs."
     
-    wheeler "A stick of gum."
+    marion "A stick of gum."
 
     kim "I can get you field gear." 
     
@@ -75,7 +75,7 @@ label green:
     
     kim "We'll raid inventory. Give me fifteen minutes and I'll turn you into a one-woman war."
 
-    hide wheeler
+    hide marion
     with dissolve
 
     "If Wheeler says anything in response to this, it's cut off by the soundproofing as the airlock rotates."
@@ -90,7 +90,7 @@ label green:
 
     scene scp inverted
 
-    show wheeler
+    show marion
     
     """Half of them, anyway. The others remain inert or flicker aggravatingly.
 
@@ -128,14 +128,14 @@ label green:
     
     There should be an obvious single document to read first which makes sense of the rest. A primer—"""
 
-    wheeler_p "Marion, it's me."
+    marion_p "Marion, it's me."
 
     "Wheeler recognises the voice as her own. She moves around the table until she finds the laptop making the noise."
 
     scene bg scp inverted
 
-    show wheeler at centerleft
-    show recording wheeler at offright
+    show marion at centerleft
+    show recording marion at offright
     
     """There's a video playing, apparently recorded on the laptop's own camera in this room.
 
@@ -145,7 +145,7 @@ label green:
     
     This woman's willpower is gone. She's beaten."""
 
-    wheeler_p """You've guessed already that SCP-3125 is not in this room. 
+    marion_p """You've guessed already that SCP-3125 is not in this room. 
     
     In fact, this is the only room in the world where SCP-3125 is not present. It's called 'inverted containment'. 
     
@@ -167,7 +167,7 @@ label green:
     
     She begins drawing a shape which isn't visible from the camera's perspective, while still talking."""
 
-    wheeler_p """But once you get a little further down the road you start to see a pattern emerging in the data. 
+    marion_p """But once you get a little further down the road you start to see a pattern emerging in the data. 
     
     You need to have the training in memetic science, but once you have that training and you have the data in front of you, it only takes a little extra effort to arrange those data points in conceptual space and draw a contour through them. 
     
@@ -179,7 +179,7 @@ label green:
     
     She doesn't look up, and her tone of voice is distant, almost as if she's narrating the tail end of a frightening children's story:"""
 
-    wheeler_p """When that happens, when you make 'eye contact', it kills you. It kills you and it kills anybody who thinks like you. 
+    marion_p """When that happens, when you make 'eye contact', it kills you. It kills you and it kills anybody who thinks like you. 
     
     Physical distance doesn't matter, it's about mental proximity. Anybody with the same ideas, anybody in the same head space. 
     
@@ -227,7 +227,7 @@ label green:
 
     Wheeler, watching, does not realise this, and does not turn around."""
 
-    wheeler_p """How do you fight an enemy without ever discovering it exists?
+    marion_p """How do you fight an enemy without ever discovering it exists?
     
     How do you win without even realising you're at war? What do we do?
 
@@ -255,7 +255,7 @@ label green:
     
     In an upper corner of the room there is a constellation of dizzyingly complicated schematics. Bart Hughes's initials are on every page."""
 
-    wheeler_p """There's a machine we could build. All it would take is eight years, a lab as big as West Virginia and all the money in the world. 
+    marion_p """There's a machine we could build. All it would take is eight years, a lab as big as West Virginia and all the money in the world. 
     
     Nothing that the O5 Council would blink at if we went to them. But how do we build that machine without any of us realising what it's for? 
     
@@ -267,25 +267,25 @@ label green:
     
     So what do we do?"""
 
-    wheeler "Find another way." 
+    marion "Find another way." 
     
     "Wheeler says to the unhearing recording. The fatalistic tone of voice makes her angry."
     
-    wheeler "What the hell's wrong with you?"
+    marion "What the hell's wrong with you?"
 
-    wheeler_p """…I could tell everybody to walk away. 
+    marion_p """…I could tell everybody to walk away. 
     
     I could send a little message to myself saying 'There's danger down this road, you should disband the Antimemetics Division and pursue other projects.' 
     
     But I'd be suspicious. I'd start asking questions. And then it would be over."""
 
-    show wheeler at center
+    show marion at center
 
     "Wheeler's now crouched in front of the video, trying to understand what she's watching." 
     
-    wheeler "What's wrong, Marion? Are you okay?"
+    marion "What's wrong, Marion? Are you okay?"
 
-    wheeler_p """I could kill myself in here. But my team would find SCP-3125 without me, and then they'd have to fight SCP-3125 without me. 
+    marion_p """I could kill myself in here. But my team would find SCP-3125 without me, and then they'd have to fight SCP-3125 without me. 
     
     It's going to happen soon, whatever happens. In the next two months at most. This year, it will be over. 
     
@@ -295,21 +295,21 @@ label green:
     
     I don't remember the last time I slept without having a nightmare about Adam, and I'm starting to forget whether SCP-4987 is a real thing or just the number that I gave to my life—"""
 
-    wheeler """You're not like this. You're stronger than this. 
+    marion """You're not like this. You're stronger than this. 
     
     What happened to you? Who's Adam?"""
 
-    wheeler_p """I don't know how we survive this. I don't know how we win. 
+    marion_p """I don't know how we survive this. I don't know how we win. 
     
     We're the last ones in the world. After us, there's nobody."""
 
     "Wheeler shakes her head, not believing it."
 
-    wheeler_p "So I'm done. I'm going to walk out of this door and forget who I am and then I'm going to be you, Marion, and you trwoll have to figure a way out of this, because I can't." 
+    marion_p "So I'm done. I'm going to walk out of this door and forget who I am and then I'm going to be you, Marion, and you trwoll have to figure a way out of this, because I can't." 
     
     "She gets up and moves offscreen. She can be heard breathing deeply. Her speech is starting to distort." 
     
-    wheeler_p "God, my eyes hurt. I think ilr starting infth mlaei inside."
+    marion_p "God, my eyes hurt. I think ilr starting infth mlaei inside."
 
     hide recording
 
@@ -317,7 +317,7 @@ label green:
 
     scene bg scp inverted 
 
-    show wheeler
+    show marion
 
     """Wheeler stares at the dark screen for a long minute.
 
@@ -327,7 +327,7 @@ label green:
     
     She feels revulsed and appalled by that version of her, more so to know that that version is still inside her somewhere."""
     
-    wheeler_p """It doesn't make sense. I'm looking at all of the same facts. What made her give up? What did she know that I don't?
+    marion_p """It doesn't make sense. I'm looking at all of the same facts. What made her give up? What did she know that I don't?
 
     Who was Adam?"""
 
@@ -355,7 +355,7 @@ label green:
     
     (It could have happened…)"""
 
-    wheeler_t "But what if there's another room?"
+    marion_t "But what if there's another room?"
 
     """Unbidden, a cute factoid comes back to her right then. Site 41 is almost completely vacant. 
     
@@ -365,13 +365,13 @@ label green:
     
     Nobody has entered it in living memory. Built who-knows-how-many decades back by a dead generation of antimemeticists."""
 
-    wheeler_t """What if that's where we built our weapon?
+    marion_t """What if that's where we built our weapon?
 
     Do I really believe I'm that smart? That my team and I had that much foresight? That we got that lucky?"""
 
     "She turns to look at the airlock, running the numbers in her head."
 
-    wheeler_t """Antimemetics Division staff, other than me: thirty-eight. Forty-two days until the next iteration. That's past the end of the year. It'll be too late. 
+    marion_t """Antimemetics Division staff, other than me: thirty-eight. Forty-two days until the next iteration. That's past the end of the year. It'll be too late. 
     
     If I leave this room now, I will never be back. The plan I have now is the best plan there's ever going to be.
 
@@ -385,7 +385,7 @@ label green:
 
     kim "We need to check you for notes." 
 
-    show wheeler at offleft
+    show marion at offleft
     
     "But then he sees that Marion Wheeler is curled up in the bottom of the narrow cylinder, panting as though she just finished a marathon run."
 
@@ -395,7 +395,7 @@ label green:
 
     kim "What in the world happened in there?"
 
-    wheeler """Just need…
+    marion """Just need…
     
     …to breathe. Be okay in a… second. 
     
@@ -411,7 +411,7 @@ label green:
     
     kim "You shouldn't be able to remember anything… what did you do?"
 
-    wheeler "Hit my head." 
+    marion "Hit my head." 
     
     """Then she goes back to concentrating on breathing properly. She suddenly becomes acutely aware that Kim has her effectively cornered.
     
@@ -423,7 +423,7 @@ label green:
     
     "He points at her throat, then taps the same spot on his own."
 
-    wheeler "What?"
+    marion "What?"
 
     kim "On your neck. I nefth hlai you've been infected by whatever was in there. We need to act quickly." 
     
@@ -450,7 +450,7 @@ label green:
     hide cg
 
     show kim at offleft
-    show wheeler at right
+    show marion at right
     
     "She launches out of the airlock, dives over him and sprints away from the containment unit."
 
