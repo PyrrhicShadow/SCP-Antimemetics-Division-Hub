@@ -298,4 +298,154 @@ label where:
     
     That's going to gnaw away at him until he can find, at minimum, a razor and a change of shirt."""
 
+    """What woke him was the heavy metallic clack of the door unlocking. He looks up, rubbing his eyes. It's his wife.""" 
+    
+    adam "Marion! Oh, my God." 
+    
+    """He leaps up and rushes over to meet her. She stops him a few paces short, with a gesture and a cold smile. And that hurts. It hurts more than anything.
+
+    So it really happened: SCP-4987 has bitten out the part of Marion Wheeler which cared about him. She wasn't absent because of some unrelated K-class outbreak. She just chose to be elsewhere, indifferent.
+
+    So he doesn't embrace her. He stands at a polite distance.""" 
+    
+    adam "How are you feeling? Did you sleep?"
+
+    wheeler "I'm fine."
+
+    adam "I can tell you've had your coffee. Have you eaten? Come on, I'll make you something." 
+    
+    """The unit has a rudimentary kitchen area. He goes through and starts exploring the cupboards."""
+    
+    adam "There must be something edible around here. Eggs and milk, at least. I'm ashamed to say I more or less fell asleep where I was standing when they put me in here, so I haven't had a chance to scout. Or do you keep the place empty, and the food arrives through a slot in the wall?"""
+
+    wheeler "Mr. Wheeler—"
+
+    "Adam shoots her a disappointed look."
+
+    wheeler """Okay. Adam. Please come and sit down. You're right, there's nothing in any of those cupboards."""
+
+    """He closes the cupboard and sits opposite her at the kitchen table.""" 
+    
+    adam """Scrambled eggs on granary toast. With a lot of garlic in the eggs. That's what we both need right now. Particularly you, because if I don't make something substantial for you you end up drinking those wretched wallpaper paste milkshakes seven days a week. Or you skip the meal entirely."""
+
+    wheeler "Adam. We've been married for seventeen years, is that correct?"
+
+    adam "Yes."
+
+    wheeler "I don't know you."
+
+    adam """That's fine. I doubt that that's going to be a serious problem. You've told me, many times, about your own people who've lost themselves in the work and had to bootstrap their own personalities a second time. You love watching it. It's like watching butterflies emerge from chrysalides. The best of your people can turn that around in ten weeks. Imagine how fast it's going to be for you."""
+
+    wheeler "No." 
+    
+    "Her tone is clinical, matter-of-fact." 
+    
+    wheeler "I'm afraid it's not possible."
+
+    adam "What's not possible?"
+
+    wheeler "I can't begin a new relationship right now. Certainly not something as serious as a marriage. You have nominal clearance; you know what we do. I have responsibilities. I do not have… 'time'."
+
+    adam "This isn't 'new'. It's pre-existing."
+
+    wheeler "No. That relationship is ended now, and we are somewhere else."
+
+    "Adam stares at her for a long moment, thin-lipped and far from happy."
+
+    adam "What do you remember?"
+
+    "The question is so open-ended that Wheeler doesn't manage to respond verbally. She spreads her hands slightly, the gesture saying, \"What?\""
+
+    adam """You don't remember me. SCP-4987 also clearly ate the part of you which would care if you forgot me. And, additionally, the part of you which cares about brunch. 
+    
+    'What else have you forgotten?' would be a stupid question to ask, so instead I'm asking you, what's left? I want you to tell me everything you can remember."""
+
+    wheeler "Everything I can remember?"
+
+    adam "Yes. From 1995 to right now."
+
+    """It's still a farcical question at face value, and Wheeler's first instinct is to dismiss it as such, but she thinks again. She thinks, intending to genuinely try to answer the question. And she finds gaps. There's a dearth of specifics. It's like being asked to \"say something\" and immediately forgetting all words."""
+
+    wheeler "I remember… working."
+
+    """And driving home, and then sleep, and then driving back to work. Big, hostile buildings. Drug regimens, containment procedures, endless piles of opaque numbers, personal fitness drills. Running. Calculating. Never, ever stopping calculating. She remembers, with unfair clarity, a large variety of extremely bad dreams.
+
+    And other than that, nothing. A huge, deep, ragged-edged black pit."""
+
+    adam """You remember nothing good, do you? Nothing good at all.
+
+    When you come home, on the nights you make it home, you are ready to fold up. 
+    
+    It has never been an easy job, but these past few years have been the worst they've ever been, because you're coming to the conclusion of something gigantic. 
+    
+    You have explained to me how it is that you can never tell me, really, what it is that you do, without the act of you telling me killing me. 
+    
+    And I — I couldn't stand that at first, and I still hate your job and I think it's a monstrous farce — but I trusted you in that. And I stopped asking. 
+    
+    But I can tell, from the… rattle in your hands and the things you don't say, and the way you sleep, that there is some kind of war going on back here. 
+    
+    And you're losing people to it. And you're almost at the end. And you're going to win.
+
+    So I scramble your eggs, and I play the violin for you, and between us we hack out about three-tenths of what I would consider to be normalcy. 
+    
+    Not because you can't do this without me, you could take the whole universe by yourself if you really had to, but: to blazes with that, you don't have to.
+
+    It didn't happen instantly. But it happened pretty damned fast. We had music in common at first, Bach and Mendelssohn. 
+    
+    We had tobacco in common and a mutual hatred of The X-Files. Then it was coffee and wine. 
+    
+    And then after some time it became hiking, and birdwatching, and Perseid meteors. 
+    
+    We like Bruce Lee flicks. We watch Law & Order and Jeopardy! and we read stacks and stacks of books. 
+    
+    No, in fairness, it's mainly me for the books. You don't have the long-term time to spare anymore."""
+
+    """He pinches the bridge of his nose for a second. Any two people can find that much common ground. Just being in the same place for years doesn't count for anything. What do they have?"""
+
+    adam """We communicate. Better than anybody I've seen. We can be apart for two months while I'm on tour or you're overseas and snap right back and pick up a conversation from the word we left off. We are connected. We are in the same headspace. You'll see it all. It'll happen again, just as fast. You've just got to give it a chance."""
+
+    """Wheeler is almost there. She sees the shape of what Adam is describing. It's distant and unclear, but if she concentrates she might be able to bring it into focus. 
+    
+    It worries her, for nebulous reasons she can't completely articulate, but she can almost understand how there could be room for it. 
+    
+    How it could lock into her life as it currently exists, and still make sense.
+
+    But Adam just said something crucial. He said a keyword which means the marriage counselling session is over and this is now a situation. 
+    
+    Wheeler can't ignore it. She forces herself to drop the other thread and seize this one."""
+
+    wheeler "What war?"
+
+    "And now Adam really doesn't know what's happening." 
+    
+    adam "Good God. The war, Marion. I don't know how else to describe it."
+
+    wheeler "What war? How many people?"
+
+    adam """I don't know. There are names. Names you stop mentioning, and then you ignore me when I bring them up again. I assume there are reasons. I don't know the specifics. How could I know? Why don't you know?"""
+
+    """Wheeler races through the reasoning. The existence of a war computes. It confirms long-term existing suspicions. 
+    
+    It could have been going on for years without her realising it. 
+    
+    It makes sense to her that she could be fighting it, winning, even, and not know; managing her own memories or losing them in skirmishes. 
+    
+    This certainly won't be the first time she's uncovered it. 
+    
+    It makes sense that Adam, naturally gifted with the mental equivalent of a thick layer of blubber, could stand on the edge of the conflict and dimly be able to perceive it. 
+    
+    And the Division — so understaffed.
+
+    People are disappearing around her."""
+
+    wheeler "And what if—" 
+    
+    "Stops dead in the middle of the thought, as if the thought itself was stolen out of her."
+
+    wheeler "And what if we get back together, and—" 
+    
+    """She begins again, and this time hard instinct seizes her around the midsection and bodily hauls her back from thinking a thought which, it knows, would kill her. She's Wile E. Coyote, she's already run off the edge of a precipice into clear air, and thinking that thought would be like looking down."""
+
+    
+
     return 
