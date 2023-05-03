@@ -446,6 +446,118 @@ label where:
     
     """She begins again, and this time hard instinct seizes her around the midsection and bodily hauls her back from thinking a thought which, it knows, would kill her. She's Wile E. Coyote, she's already run off the edge of a precipice into clear air, and thinking that thought would be like looking down."""
 
+    "She feels SCP-4987 moving around her, abstractly bound to her, a winking speck of glitter in her eye." 
     
+    wheeler "Something's wrong."
+
+    "Adam scratches at his own eye." 
+    
+    adam "Do you see that?"
+
+    wheeler "How can you see that?"
+
+    adam "I have a mild immunity to antimemetic influence." 
+    
+    "He knows it's in his file and he knows Wheeler has read the file, but apparently it needs to be said again." 
+    
+    adam """I can tell when something is fritzing with my memories. I can resist it. Up to a point. So, Marion, I was hoping to have a relaxed conversation over coffee and get around to this topic organically, but I'm going to have to skip to the end: I have the impression that SCP-4987 is trying to kill me."""
+
+    wheeler "…No." 
+    
+    wheeler """That's not its behavior model. It doesn't sustain itself that way, by eating people. It eats memories. 
+    
+    And it's never done this. Not to you, nor me, nor anybody. Not since the very early days. 
+    
+    It's tame. It does exactly what I tell it to do. Even when I'm waiting, and I'm bored, and I let it eat my short-term, it sits and waits to be told to eat."""
+
+    adam "Then what is it doing to us?" 
+    
+    "Adam is getting nervy, and won't let go of his eye. He stands up and backs away." 
+    
+    adam "I would like it if we could figure this out quickly. We don't have a way to put SCP-4987 down."
+
+    "There's a sound in Wheeler's mind, but not in her ear, like a distant chorus of baying dogs. She stands too, and moves after Adam into the middle of the containment unit."
+
+    wheeler "It's trying to protect you."
+
+    adam "I— How does wiping your memory of me protect me?"
+
+    wheeler "I can't explain. And I can't explain why I can't explain. I don't fully know myself. There's an ███████████ ███████."
+
+    adam "A what?"
+
+    wheeler """You can't be here.
+    
+    You can't be in my life. You have to leave, or you're going to die."""
+
+    adam "I'm not leaving you. Christ, that's why we did it in the end. Got married, I mean. 
+    
+    It was scintillatingly obvious to both of us, very early on, that we were forever. But I wanted to get it on the public record. 
+    
+    I stood up in front of everybody I respect and I swore to them that I would protect you. Forever!"""
+
+    """SCP-4987 is agitated. Wheeler feels it flitting around the room, incoherent, trying to tell her what it needs.
+
+    She says, with sudden actinic clarity:""" 
+    
+    wheeler "I must have made an identical promise."
+
+    """Adam doubles over, blinded in both eyes now. Closing his eyes does nothing, covering his eyes does nothing. 
+    
+    The gold-white light is strobing for him, moving into violet. He panics.""" 
+    
+    adam "Help. Help me. I can't see." 
+    
+    """He reaches out, unsteadily, for Wheeler's hand. She lets him take it and pull her close. The light doesn't fade. 
+    
+    He clings to Wheeler for a few moments, and she holds on to him until he realises that SCP-4987 is completely within her control, and this is all intentional."""
+
+    adam """You're going to do this? This is the Foundation mandate, this is what your definition of 'protect' amounts to? 
+    
+    You've got no idea what you're about to do to yourself. You don't even know me."""
+
+    wheeler "I think I know."
+
+    adam """You will feel this for the rest of your life. 
+    
+    Every day, you will wake up with a sick cold feeling in your stomach where there used to be a real life. And you'll wonder why."""
+
+    wheeler """I'm going to win this war. I'll beat the universe. 
+    
+    And then I will come and find out why."""
+
+    """Adam holds on to her for another long, long moment. 
+    
+    He can hear the baying too, now, and he can even barely perceive what it is, far off behind the hill, that SCP-4987 is frantic about. 
+    
+    That distant dot, that fleeting second-hand glimpse of the shape of it, far off, is enough to terrify him.
+
+    He has faith. He knows how fast Marion can put the jigsaw pieces back together, work against a universe which makes no sense to her, isolate the truth. 
+    
+    He knows she can take the universe. But a sharp misgiving jabs him in the stomach and he can't stop himself saying:"""
+    
+    adam "And what if you lose?"
+
+    """She kisses him. It's a stranger's kiss, there's nothing there Adam recognises. 
+    
+    He breaks off, unsettled. It's a whisper now:""" 
+    
+    adam "What if you lose?"
+
+    """Wheeler exits the containment unit; she slams and deadlocks the door with a single movement. The heavy metallic crack makes the whole building shake.
+
+    There are people outside. Gauss, Julie Still and a few others, comparing notes. 
+    
+    They look appalled."""
+
+    wheeler "Fill in his backstory. He was never married. 
+    
+    Relocate him to where I'll never find him, incinerate all the evidence, then report to me for surgical memory erasure. 
+    
+    I'll do myself last."
+
+    "Gauss looks as if he has an objection. She stares him down."
+
+    wheeler "My husband's dead."
 
     return 
