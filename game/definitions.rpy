@@ -9,12 +9,14 @@ define persistent.first = False
 
 define persistent.where = False
 
+default marion_surname = "Wheeler"
+
 ##########################################################
 # characters 
 ##########################################################
 
-define wheeler = Character("Marion Wheeler", what_prefix="\"", what_suffix="\"", who_alt="Marion says, ")
-define wheeler_t = Character("Marion Wheeler", what_italic=True, who_alt="Wheeler thinks, ")
+define marion = Character("Marion [marion_surname]", what_prefix="\"", what_suffix="\"", who_alt="Marion says, ")
+define marion_t = Character("Marion [marion_surname]", what_italic=True, who_alt="Marion thinks, ")
 define o5_8 = Character("O5-8", what_prefix="\"", what_suffix="\"", who_alt="O five eight says, ")
 define kim = Character("Paul Kim", what_prefix="\"", what_suffix="\"", who_alt="Kim says, ")
 define kim_t = Character("Paul Kim", what_italic=True, who_alt="Kim thinks, ")
@@ -38,7 +40,7 @@ define marness = Character("Lyn Marness", what_prefix="\"", what_suffix="\"", wh
 
 # story 4: green
 
-define wheeler_p = Character("Past Marion Wheeler", what_prefix="\"", what_suffix="\"", who_alt="Past Wheeler says, ")
+define marion_p = Character("Past Marion", what_prefix="\"", what_suffix="\"", who_alt="Past Marion says, ")
 
 # story 5: first 
 
@@ -53,7 +55,7 @@ define gauss = Character("Alex Gauss", what_prefix="\"", what_suffix="\"", who_a
 # images 
 ##########################################################
 
-image wheeler = Placeholder('girl')
+image marion = Placeholder('girl')
 image kim = Placeholder('boy')
 image o5_8 = Placeholder('boy')
 image adam = Placeholder('boy')

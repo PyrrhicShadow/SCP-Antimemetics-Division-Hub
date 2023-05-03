@@ -109,6 +109,8 @@ label quick_play:
 
     call where
 
+    call fresh
+
     # This ends the game.
 
     return
