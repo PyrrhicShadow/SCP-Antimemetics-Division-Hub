@@ -78,7 +78,7 @@ label hub_five:
             call where
 
         "Fresh Hell":
-            call coming_soon
+            call fresh
 
         "Back": 
             jump hub_root
