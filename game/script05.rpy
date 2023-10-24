@@ -4,6 +4,8 @@
 
 label first: 
 
+    $persistent.first = True
+
     scene bg start
 
     "\"Your Last First Day\" by qntm, from the SCP Wiki. Source: {a=https://scp-wiki.wikidot.com/your-last-first-day}https://scp-wiki.wikidot.com/your-last-first-day{/a}. Licensed under {a=https://creativecommons.org/licenses/by-sa/3.0/}CC-BY-SA{/a}."

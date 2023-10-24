@@ -8,6 +8,7 @@ define persistent.green = False
 define persistent.first = False
 
 define persistent.where = False
+define persistent.fresh = False
 
 default marion_surname = "Wheeler"
 

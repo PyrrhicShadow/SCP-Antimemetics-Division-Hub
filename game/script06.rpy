@@ -4,6 +4,8 @@
 
 label where: 
 
+    $persistent.where = True
+
     scene bg start 
 
     "\"Where Have You Been All My Life\" by qntm, from the SCP Wiki. Source: https://scp-wiki.wikidot.com/where-have-you-been-all-my-life. Licensed under CC-BY-SA."

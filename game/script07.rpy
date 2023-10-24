@@ -1,28 +1,59 @@
+##########################################################
+# "Fresh Hell" by qntm, from the SCP Wiki. Source: https://scp-wiki.wikidot.com/fresh-hell. Licensed under CC-BY-SA.
+##########################################################
+
 label fresh: 
+
+    $persistent.fresh = True
 
     scene bg start 
 
     "Fresh Hell"
+    "\"Fresh Hell\" by {a=https://scp-wiki.wikidot.com/qntm-s-author-page}qntm{/a}, from the SCP Wiki. Source: {a=https://scp-wiki.wikidot.com/fresh-hell}https://scp-wiki.wikidot.com/fresh-hell{/a}. Licensed under {a=https://creativecommons.org/licenses/by-sa/3.0/}CC-BY-SA{/a}." 
+
+    "Art by Ren'Py placeholder. Licensed under CC-BY-SA."
 
     scene
 
     $marion_surname = "Hutchinson"
 
-    """There's another conglomeration of severed fingers in the last room, coating the room's interior like the innards of an exploded elephant. Parts of the sprawl are feeling their way, like mould, into a medical cabinet and the rest is splayed over a foetal shape on a medical gurney. The mass reacts sharply to the new light as Wheeler opens the door, rearing up and angling parts of itself toward him. Wheeler reels backwards and pulls the door to just in time; there is a heavy, fleshy thump as the mass hits the door from the far side. The door holds."""
-
-    """Wheeler trips on his own foot and slumps against the far wall. The shape on the gurney was a coiled-up human. Not a corpse, but a living human with one wide-open eye whose whole body was being slowly consumed and processed into more fingers. They were growing out of his throat. Wheeler didn't see this. He thinks he saw it, but he knows he couldn't have."""
-
-    """And that's it. Wheeler casts around the corridor. Every other door he's tried is blocked or locked. The place is below ground, so no windows. No navigable ventilation.
-
-    There are two more gunshots up at the far end of the corridor, ear-splitting in the enclosed space and echoing for many seconds. Hutchinson rounds the corner at a dead run, gun in hand, and reaches him quickly.""" 
+    """There's another conglomeration of severed fingers in the last room, coating the room's interior like the innards of an exploded elephant. 
     
-    hutchinson "Find a way out?" 
+    Parts of the sprawl are feeling their way, like mould, into a medical cabinet and the rest is splayed over a foetal shape on a medical gurney. The mass reacts sharply to the new light as 
+    
+    Wheeler opens the door, rearing up and angling parts of itself toward him. Wheeler reels backwards and pulls the door to just in time; there is a heavy, fleshy thump as the mass hits the door from the far side. 
+    
+    The door holds."""
+
+    """Wheeler trips on his own foot and slumps against the far wall. The shape on the gurney was a coiled-up human. 
+    
+    Not a corpse, but a living human with one wide-open eye whose whole body was being slowly consumed and processed into more fingers. They were growing out of his throat. 
+    
+    Wheeler didn't see this. 
+    
+    He thinks he saw it, but he knows he couldn't have."""
+
+    """And that's it. Wheeler casts around the corridor. Every other door he's tried is blocked or locked. 
+    
+    The place is below ground, so no windows. No navigable ventilation.
+
+    There are two more gunshots up at the far end of the corridor, ear-splitting in the enclosed space and echoing for many seconds. 
+    
+    Hutchinson rounds the corner at a dead run, gun in hand, and reaches him quickly.""" 
+    
+    marion "Find a way out?" 
     
     "She asks, pointlessly. She can read Wheeler's expression. He's found nothing good."
 
     adam "This place is infested. Every room, all the stairwells… This is absurd."
 
-    """At the far end of the corridor, the main mass heaves itself around the corner. From this distance, it looks like an ambulatory eight-tonne pile of mouldy mashed potato and fat, wiggling maggots. There are toes in there as well as fingers, and small teeth, and bits of bone. It has twenty bullet holes in it, and blood is flowing from all of them, but if it has vital organs they must be elsewhere in the building because none of the wounds have slowed it down or otherwise altered its slow, methodical homing behaviour. It smells powerfully and creatively disgusting, like concentrated medical waste.
+    """At the far end of the corridor, the main mass heaves itself around the corner. 
+    
+    From this distance, it looks like an ambulatory eight-tonne pile of mouldy mashed potato and fat, wiggling maggots. There are toes in there as well as fingers, and small teeth, and bits of bone. 
+    
+    It has twenty bullet holes in it, and blood is flowing from all of them, but if it has vital organs they must be elsewhere in the building because none of the wounds have slowed it down or otherwise altered its slow, methodical homing behaviour. 
+    
+    It smells powerfully and creatively disgusting, like concentrated medical waste.
 
     It lurches forward in intermittent phases, coating the walls and floor with scarlet ooze as it moves. It'll be on them in about half a minute, squashing them against the end of the corridor and then pulling them into the mess to be remade."""
 
@@ -30,7 +61,11 @@ label fresh:
 
     """Hutchinson, for her part, just stands there, gun lowered, watching the thing come. It moves slowly, like a steam roller. It fills the corridor almost to the ceiling.
 
-    She has two bullets left and she's considering where to spend them. Shooting the mass itself is like shooting pudding. She'd kill for a grenade. Even a fire axe would be something. She might not be able to stop the thing, but she could at least make herself known with a fire axe. She could make it feel some regret."""
+    She has two bullets left and she's considering where to spend them. Shooting the mass itself is like shooting pudding. 
+    
+    She'd kill for a grenade. Even a fire axe would be something. She might not be able to stop the thing, but she could at least make herself known with a fire axe. 
+    
+    She could make it feel some regret."""
 
     adam "There are worse fates, I guess."
     
@@ -44,11 +79,19 @@ label fresh:
 
     adam "What?"
 
-    """She pushes Wheeler aside. There's a white-painted wall behind him. There's a lock in it, and a long vertical seam. She spends a moment choosing the right part of the lock to shoot, and shoots it out. Behind the tall, wide panel which opens is a shallow, dusty, metal-edged space like an elevator shaft with no elevator, allowing filthy pipes and cables to pass vertically between floors. She looks up. There's just enough room to admit a person."""
+    """She pushes Wheeler aside. There's a white-painted wall behind him. There's a lock in it, and a long vertical seam. 
+    
+    She spends a moment choosing the right part of the lock to shoot, and shoots it out.""" 
+    
+    """Behind the tall, wide panel which opens is a shallow, dusty, metal-edged space like an elevator shaft with no elevator, allowing filthy pipes and cables to pass vertically between floors. 
+    
+    She looks up. There's just enough room to admit a person."""
 
     marion "Can you climb?" 
     
-    "Without waiting for a response, she sheds her suit jacket, sticks a flashlight between her teeth and hauls herself up into the darkness. After a brief moment of scuffling, there's another gunshot. The other riser cupboard door."""
+    "Without waiting for a response, she sheds her suit jacket, sticks a flashlight between her teeth and hauls herself up into the darkness. 
+    
+    After a brief moment of scuffling, there's another gunshot. The other riser cupboard door."""
 
     adam """No. 
     
@@ -62,13 +105,25 @@ label fresh:
     
     marion "It's clear up here. Come on, I'm braced. Mind this lip here, it's metal. Come on!"
 
-    """Wheeler keeps his own jacket on and buttoned; it's the only part of the situation over which he still has firm control. He has to jump to catch hold of Hutchinson's hand, and just as he jumps, the main mass lunges for him, crossing the last few metres in a rush and catching hold of him by one foot.
+    """Wheeler keeps his own jacket on and buttoned; it's the only part of the situation over which he still has firm control. 
+    
+    He has to jump to catch hold of Hutchinson's hand, and just as he jumps, the main mass lunges for him, crossing the last few metres in a rush and catching hold of him by one foot.
 
     He sees himself die.
 
-    His sweating hand immediately starts to slip out of Hutchinson's. She braces her other arm and hauls him up fifteen or thirty centimetres with an angry grunt, then releases his hand for a split second and reaches down like a flash to take firmer hold of his wrist. She keeps pulling. The mass closes around Wheeler's foot like aggressive, proactive quicksand. He yelps and kicks at it with his other foot until it finally pries his shoe loose. The mass retreats for a second, taking a crucial moment to realise that its prize is not living flesh, but by that time Hutchinson has hauled Wheeler up another half-metre and Wheeler has started pushing himself upwards off the pipework with his feet. The mass lunges again, but falls short, and seems too unintelligent to climb after them. It sloshes around, probing its surroundings, perplexed by the shoe.
+    His sweating hand immediately starts to slip out of Hutchinson's. She braces her other arm and hauls him up fifteen or thirty centimetres with an angry grunt, then releases his hand for a split second and reaches down like a flash to take firmer hold of his wrist. 
+    
+    She keeps pulling. The mass closes around Wheeler's foot like aggressive, proactive quicksand. He yelps and kicks at it with his other foot until it finally pries his shoe loose. 
+    
+    The mass retreats for a second, taking a crucial moment to realise that its prize is not living flesh, but by that time Hutchinson has hauled Wheeler up another half-metre and Wheeler has started pushing himself upwards off the pipework with his feet. 
+    
+    The mass lunges again, but falls short, and seems too unintelligent to climb after them. It sloshes around, probing its surroundings, perplexed by the shoe.
 
-    Hutchinson hauls Wheeler over the lip into the next corridor. He scrapes his ribs badly and arrives crawling, eyes watering. He doesn't die. He can still see himself dying. He stays on all fours for a significant amount of time, processing what just happened."""
+    Hutchinson hauls Wheeler over the lip into the next corridor. He scrapes his ribs badly and arrives crawling, eyes watering. 
+    
+    He doesn't die. He can still see himself dying. 
+    
+    He stays on all fours for a significant amount of time, processing what just happened."""
 
     adam "{i}Fuck!{/i}"
 
@@ -80,7 +135,9 @@ label fresh:
 
     marion "Yeah."
 
-    adam """That's great, because I play the violin. It's not quite as physically demanding. As careers go, I mean. When you said you were a county health inspector, that was an enormous lie, wasn't it?"""
+    adam """That's great, because I play the violin. It's not quite as physically demanding. As careers go, I mean. 
+    
+    When you said you were a county health inspector, that was an enormous lie, wasn't it?"""
 
     "Hutchinson ignores the question, out of habit, and waits impassively for the man to cool."
 
