@@ -80,7 +80,7 @@ label first:
     
     "The nearest source of mnestic medicine is the site pharmacy, but it's already been destroyed, and in any case the elevator is headed down, away from it."
 
-    wheeler_t """No. Stop. 
+    marion_t """No. Stop. 
     
     The pharmacy's been destroyed? 
     
@@ -94,13 +94,17 @@ label first:
 
     She remembers— a modular package coloured Safety Orange, with an enormous black Z on it. Her heart nearly stops at this.""" 
     
-    wheeler_t "Oh, God. What did I do?"
+    marion_t "Oh, God. What did I do?"
 
-    """She remembers the dozens of warning signs covering the package; she remembers the three-factor authorisation procedure she had to follow to get into the sealed container where it was stored; 
+    """She remembers the dozens of warning signs covering the package; 
     
-    she remembers the centimetre-thick book of medical advisory information, which she discarded; and, rolling her left sleeve back, she finds a fresh needle mark with a speck of blood, and remembers administering the injection."""
+    She remembers the three-factor authorisation procedure she had to follow to get into the sealed container where it was stored; 
+    
+    She remembers the centimetre-thick book of medical advisory information, which she discarded; 
+    
+    And, rolling her left sleeve back, she finds a fresh needle mark with a speck of blood, and remembers administering the injection."""
 
-    wheeler_t "This was my plan? This is what it takes to fight SCP-3125? I've killed myself—"
+    marion_t "This was my plan? This is what it takes to fight SCP-3125? I've killed myself—"
 
     """Class-Z mnestics are the last word in biochemical memory fortification. Class-Z mnestics permanently destroy the subject's ability to forget. 
     
@@ -236,7 +240,7 @@ label first:
     
     And the same must be true of the Division as a whole."""
 
-    wheeler_t """We won this war on the day it began. When we encountered SCP-3125 for the first time, we built this bunker. 
+    marion_t """We won this war on the day it began. When we encountered SCP-3125 for the first time, we built this bunker. 
     
     Bart Hughes faked his death and sequestered himself here so he could work uninterrupted, while the rest of the Division held on for as long as humanly possible, buying time for this moment. 
     
@@ -262,9 +266,11 @@ label first:
 
     """She glances up for a second. The space is empty. 
     
-    The castle-sized memetic amplification/broadcasting unit which Bart Hughes was meant to be building is absolutely absent. Hughes himself is absent."""
+    The castle-sized memetic amplification/broadcasting unit which Bart Hughes was meant to be building is absolutely absent. 
+    
+    Hughes himself is absent."""
 
-    wheeler_t "Maybe the entire machine is antimemetically cloaked?" 
+    marion_t "Maybe the entire machine is antimemetically cloaked?" 
     
     """She wonders, momentarily. It would be a smart way to conceal the operation even from the rest of the Foundation. 
     
@@ -302,11 +308,11 @@ label first:
     
     There is no antidote. She'll be lucid for another hour, then spend the remaining two or three hours of her life vegetative."""
 
-    wheeler_t "That's right." 
+    marion_t "That's right." 
     
     "It's almost a relief." 
     
-    wheeler_t """This is good. This is right.
+    marion_t """This is good. This is right.
 
     I've survived too long. I forgot what universe this was. 
     
@@ -368,5 +374,7 @@ label first:
     scene bg black 
 
     "The world goes black."
+
+    scene bg end
 
     return

@@ -9,6 +9,15 @@ define persistent.first = False
 
 define persistent.where = False
 define persistent.fresh = False
+define persistent.ojai = False
+define persistent.immemorial = False 
+define persistent.red = False
+define persistent.ara = False 
+define persistent.unthreaded = False
+define persistent.wild = False
+define persistent.blood = False
+define persistent.tomb = False
+define persistent.champions = False
 
 default marion_surname = "Wheeler"
 
@@ -60,6 +69,7 @@ image marion = Placeholder('girl')
 image kim = Placeholder('boy')
 image o5_8 = Placeholder('boy')
 image adam = Placeholder('boy')
+image gauss = Placeholder('boy')
 
 image bg black = "#000"
 
@@ -78,6 +88,11 @@ image cg scp4739 pt2 = Placeholder('bg')
 # story 3: lake 
 
 image marness = Placeholder('boy')
+
+# story 6: where
+
+image gauss = Placeholder('boy')
+image still = Placeholder('girl')
 
 ##########################################################
 # transforms

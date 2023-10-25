@@ -120,7 +120,7 @@ label talk:
 
     Oh, God."""
 
-    o5_8 """Let me rephrase. Marion marion, forty-nine, with loving husband and two boys in tow.
+    o5_8 """Let me rephrase. Marion Wheeler, forty-nine, with loving husband and two boys in tow.
 
     Likes camping, hiking and ornithology. Boring mother with perfect, airtight background and financials, as far back as we can examine.
 
@@ -250,7 +250,7 @@ label talk:
 
     And for that matter, how was the interview conducted, and who is 'Bartholomew Hughes'?
 
-    And most importantly, how do you, Mrs. marion, retain knowledge of any of this?"""
+    And most importantly, how do you, Mrs. Wheeler, retain knowledge of any of this?"""
 
     marion "Bart Hughes wrote the file. He's dead."
 
@@ -264,15 +264,15 @@ label talk:
 
     Indignation at the seeming rudeness;
 
-    confusion at marion's incaution in front of sinister superiors;
+    Confusion at Wheeler's incaution in front of sinister superiors;
 
-    surprise at the magnitude of the claim;
+    Surprise at the magnitude of the claim;
 
-    pure disbelief;
+    Pure disbelief;
 
-    comprehension;
+    Comprehension;
 
-    and finally, horror."""
+    And finally, horror."""
 
     o5_8 "What… would happen if we did know?"
 
@@ -280,7 +280,9 @@ label talk:
     
     …As for the rest of your questions: we manage that pharmaceutically.
 
-    You know we have class-A amnestics, for people who very badly need to forget things? Of course you do. Who could forget about class-A amnestics?
+    You know we have class-A amnestics, for people who very badly need to forget things? 
+    
+    Of course you do. Who could forget about class-A amnestics?
 
     Well, in {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt}, we have a different pill, for people who need to remember things that would otherwise be impossible to remember.
 
@@ -310,7 +312,9 @@ label talk:
 
     "She pops a second pill out and hands it over to him."
 
-    marion """It's because you missed a dose. You're supposed to be on these, the same as me and everybody on my staff. It's the only way we can work.
+    marion """It's because you missed a dose. 
+    
+    You're supposed to be on these, the same as me and everybody on my staff. It's the only way we can work.
 
     You forgot to take a pill, and then you forgot all the information that the pills were helping you retain.  
     
@@ -344,7 +348,9 @@ label talk:
 
     It's weak because it's the only {noalt}antimemetic{/noalt}{alt}anti-memetic{/alt} agent in our possession which has a physical entry in the files. 
     
-    We have paper records of the thing. We have containment procedures. It's not Safe, which means it's dangerous… but it's contained."""
+    We have paper records of the thing. We have containment procedures. 
+    
+    It's not Safe, which means it's dangerous… but it's contained."""
 
     "{noalt}O5-8{/noalt}{alt}o five eight{/alt} blinks."
 
@@ -354,7 +360,9 @@ label talk:
 
     o5_8 "Then how many other {noalt}antimemes{/noalt}{alt}anti-memes{/alt} are there? How much more dangerous do they get?"
 
-    marion """Ten that I know of. Statistically, probably at least five more that I don't know of. This does not count the {noalt}antimemetic{/noalt}{alt}anti-memetic{/alt} entities freely roaming the halls, not under containment.
+    marion """Ten that I know of. Statistically, probably at least five more that I don't know of. 
+    
+    This does not count the {noalt}antimemetic{/noalt}{alt}anti-memetic{/alt} entities freely roaming the halls, not under containment.
 
     There are at least two in this room with us right now. Don't look.
 
@@ -362,21 +370,25 @@ label talk:
 
     "{noalt}O5-8{/noalt}{alt}o five eight{/alt} does an impressive job of controlling himself, keeping his attention focused on Marion."
 
-    "Clay doesn't fare so well, and quickly sweeps the whole room, even checking behind his back. Making an ass of himself, essentially. He finds nothing. He looks baffled."
+    """Clay doesn't fare so well, and quickly sweeps the whole room, even checking behind his back. Making an ass of himself, essentially. 
+    
+    He finds nothing. He looks baffled."""
 
     marion """There is an invisible monster which follows me around and likes to eat my memories. SCP-4987.
 
     Don't look it up, it's not there.
 
-    I've learned to manage with it. It's like a demanding pet. I produce tasty memories on purpose so it doesn't eat something important, like my passwords or how to make coffee."""
+    I've learned to manage with it. It's like a demanding pet. 
+    
+    I produce tasty memories on purpose so it doesn't eat something important, like my passwords or how to make coffee."""
 
     clay "And what's the other one?"
 
+    "With another nod from {noalt}O5-8{/noalt}{alt}o five eight{/alt}, Marion goes to her bag again."
+
     show clay injured
 
-    """With another nod from {noalt}O5-8{/noalt}{alt}o five eight{/alt}, Marion goes to her bag again.
-
-    This time she pulls out a gun and shoots Clay twice in the heart.
+    """This time she pulls out a gun and shoots Clay twice in the heart.
 
     More aghast than in pain, Clay collapses sharply against the bookcase behind him.
 
@@ -411,17 +423,25 @@ label talk:
     
     You can postpone a dose, but you can't forget unless someone actively prevents you from taking it. 
     
-    There's only one person who could get close enough to you to do that, and that's your assistant. And remember when I asked him how long he'd been working here?"""
+    There's only one person who could get close enough to you to do that, and that's your assistant. 
+    
+    And remember when I asked him how long he'd been working here?"""
 
     o5_8 "He didn't answer. I thought you were being rhetorical."
 
-    marion """He doesn't work here. He's an {noalt}antimeme{/noalt}{alt}anti-meme{/alt}. Since when do you have an assistant? You don't have an assistant, Brent.
+    marion """He doesn't work here. He's an {noalt}antimeme{/noalt}{alt}anti-meme{/alt}. 
+    
+    Since when do you have an assistant? You don't have an assistant, Brent.
 
-    Look at this office. It's got one desk. You've got a receptionist outside: she's the one who screens your calls and schedules your meetings.
+    Look at this office. It's got one desk. 
+    
+    You've got a receptionist outside: she's the one who screens your calls and schedules your meetings.
 
     Where does Clay even sit? Where does he fit?
 
-    Don't blame yourself. You're human, and these things are redaction incarnate. You need to think like a space alien to get around them."""
+    Don't blame yourself. You're human, and these things are redaction incarnate. 
+    
+    You need to think like a space alien to get around them."""
 
     "{noalt}O5-8{/noalt}{alt}o five eight{/alt} asks a question which, in any other workplace, would be absurd."
 

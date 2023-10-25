@@ -144,13 +144,19 @@ label where:
     
     She goes to her office, curls up on the couch there and tries to catch some sleep, but doesn't succeed in any real sense."""
 
+    scene bg scp office 
+
+    show marion at centerleft
+
     """Seven hours later a Foundationer knocks on her office door, bringing an inch-thick block of printouts and a paralysingly strong cup of coffee. 
     
     Wheeler takes the drink first, accepting it as a kind of authentication step before letting the man in. 
     
-    She moves back to the couch and sits hunched over the drink for warmth, inhaling its fumes.
+    She moves back to the couch and sits hunched over the drink for warmth, inhaling its fumes."""
 
-    The man settles heavily into a chair opposite. 
+    show gauss at centerright
+
+    """The man settles heavily into a chair opposite. 
     
     He is a misleadingly stocky, perpetually unshaven individual, somewhere just shy of forty, and inarguably the most dangerous person on the Site. 
     
@@ -158,7 +164,11 @@ label where:
     
     His name is Alex Gauss."""
     
-    gauss "They, uh,figured I should be the one to present their results. Even though I didn't research one line of it. 'Cause we 'get along'. Their words. Personally, I don't see it."
+    gauss """They, uh, figured I should be the one to present their results. Even though I didn't research one line of it. 
+    
+    'Cause we 'get along'. Their words. 
+    
+    Personally, I don't see it."""
 
     "Wheeler stays focused on the coffee." 
     
@@ -172,7 +182,9 @@ label where:
     
     I credit your diligence and adherence to protocol, but the bottom line is that SCP-4987 got hungry."""
 
-    """Wheeler nods. This assessment matches her own, pieced together overnight from gut reactions and analysis of the plain facts. Where the hell else did her name come from? She wasn't born \"Wheeler\". But she had to get independent verification."""
+    """Wheeler nods. This assessment matches her own, pieced together overnight from gut reactions and analysis of the plain facts. 
+    
+    Where the hell else did her name come from? She wasn't born \"Wheeler\". But she had to get independent verification."""
 
     marion "Has this happened before?"
 
@@ -278,7 +290,9 @@ label where:
 
     """Up until the end of the third round of questioning, Adam Wheeler assumes good faith. He figures the repetition is a due diligence tic, a corporate procedural requirement. 
     
-    It's only when they start over from \"What's your name?\" with a brand new interviewer for the fourth time that he finally gets it: they don't like him, and they don't care what he thinks his name is. 
+    It's only when they start over from \"What's your name?\" with a brand new interviewer for the fourth time that he finally gets it: 
+    
+    They don't like him, and they don't care what he thinks his name is. 
     
     They're trying to grind him down, until he can't think, until he's just dust particles they can sift through for data.
 
@@ -292,11 +306,13 @@ label where:
 
     scene scp appartment 
 
+    show adam at centerleft
+
     """He wakes up in a standard Humanoid Containment Unit, a stackable one-bedroom apartment with holographic fake windows, impregnable walls and extensive discreet modifications for the security and monitoring of anomalous entities. 
     
     This one is on the first basement level, but he can't tell that. 
     
-    The bright quote-light-unquote pouring in through the main living area window is authentic enough to tan.
+    The bright quote-unquote light pouring in through the main living area window is authentic enough to tan.
 
     He wakes up on the couch, with a start, feeling creaky and dehydrated. He realises that he slept in his suit, and that his suit is creased. 
     
@@ -304,15 +320,25 @@ label where:
     
     That's going to gnaw away at him until he can find, at minimum, a razor and a change of shirt."""
 
-    """What woke him was the heavy metallic clack of the door unlocking. He looks up, rubbing his eyes. It's his wife.""" 
+    "What woke him was the heavy metallic clack of the door unlocking." 
+    
+    show marion at offright
+
+    "He looks up, rubbing his eyes. It's his wife."
     
     adam "Marion! Oh, my God." 
+
+    show adam at center
     
-    """He leaps up and rushes over to meet her. She stops him a few paces short, with a gesture and a cold smile. And that hurts. It hurts more than anything.
+    """He leaps up and rushes over to meet her. She stops him a few paces short, with a gesture and a cold smile. 
+    
+    And that hurts. It hurts more than anything.
 
-    So it really happened: SCP-4987 has bitten out the part of Marion Wheeler which cared about him. She wasn't absent because of some unrelated K-class outbreak. She just chose to be elsewhere, indifferent.
+    So it really happened: SCP-4987 has bitten out the part of Marion Wheeler which cared about him. 
+    
+    She wasn't absent because of some unrelated K-class outbreak. She just chose to be elsewhere, indifferent."""
 
-    So he doesn't embrace her. He stands at a polite distance.""" 
+    "So he doesn't embrace her. He stands at a polite distance."
     
     adam "How are you feeling? Did you sleep?"
 
@@ -320,9 +346,15 @@ label where:
 
     adam "I can tell you've had your coffee. Have you eaten? Come on, I'll make you something." 
     
+    show adam at left
+
     """The unit has a rudimentary kitchen area. He goes through and starts exploring the cupboards."""
     
-    adam "There must be something edible around here. Eggs and milk, at least. I'm ashamed to say I more or less fell asleep where I was standing when they put me in here, so I haven't had a chance to scout. Or do you keep the place empty, and the food arrives through a slot in the wall?"
+    adam """There must be something edible around here. Eggs and milk, at least. 
+    
+    I'm ashamed to say I more or less fell asleep where I was standing when they put me in here, so I haven't had a chance to scout. 
+    
+    Or do you keep the place empty, and the food arrives through a slot in the wall?"""
 
     marion "Mr. Wheeler—"
 
@@ -330,9 +362,14 @@ label where:
 
     marion """Okay. Adam. Please come and sit down. You're right, there's nothing in any of those cupboards."""
 
+    show adam at centerleft
+    show marion at centerright
+
     """He closes the cupboard and sits opposite her at the kitchen table.""" 
     
-    adam """Scrambled eggs on granary toast. With a lot of garlic in the eggs. That's what we both need right now. Particularly you, because if I don't make something substantial for you you end up drinking those wretched wallpaper paste milkshakes seven days a week. Or you skip the meal entirely."""
+    adam """Scrambled eggs on granary toast. With a lot of garlic in the eggs. That's what we both need right now. 
+    
+    Particularly you, because if I don't make something substantial for you you end up drinking those wretched wallpaper paste milkshakes seven days a week. Or you skip the meal entirely."""
 
     marion "Adam. We've been married for seventeen years, is that correct?"
 
@@ -340,7 +377,13 @@ label where:
 
     marion "I don't know you."
 
-    adam """That's fine. I doubt that that's going to be a serious problem. You've told me, many times, about your own people who've lost themselves in the work and had to bootstrap their own personalities a second time. You love watching it. It's like watching butterflies emerge from chrysalides. The best of your people can turn that around in ten weeks. Imagine how fast it's going to be for you."""
+    adam """That's fine. I doubt that that's going to be a serious problem. 
+    
+    You've told me, many times, about your own people who've lost themselves in the work and had to bootstrap their own personalities a second time. 
+    
+    You love watching it. It's like watching butterflies emerge from chrysalides. 
+    
+    The best of your people can turn that around in ten weeks. Imagine how fast it's going to be for you."""
 
     marion "No." 
     
@@ -350,7 +393,11 @@ label where:
 
     adam "What's not possible?"
 
-    marion "I can't begin a new relationship right now. Certainly not something as serious as a marriage. You have nominal clearance; you know what we do. I have responsibilities. I do not have… 'time'."
+    marion """I can't begin a new relationship right now. Certainly not something as serious as a marriage. 
+    
+    You have nominal clearance; you know what we do. 
+    
+    I have responsibilities. I do not have… 'time'."""
 
     adam "This isn't 'new'. It's pre-existing."
 
@@ -408,21 +455,31 @@ label where:
 
     It didn't happen instantly. But it happened pretty damned fast. We had music in common at first, Bach and Mendelssohn. 
     
-    We had tobacco in common and a mutual hatred of The X-Files. Then it was coffee and wine. 
+    We had tobacco in common and a mutual hatred of {i}The X-Files{/i}. Then it was coffee and wine. 
     
     And then after some time it became hiking, and birdwatching, and Perseid meteors. 
     
-    We like Bruce Lee flicks. We watch Law & Order and Jeopardy! and we read stacks and stacks of books. 
+    We like Bruce Lee flicks. We watch {i}Law & Order{/i} and {i}Jeopardy!{/i} and we read stacks and stacks of books. 
     
     No, in fairness, it's mainly me for the books. You don't have the long-term time to spare anymore."""
 
-    """He pinches the bridge of his nose for a second. Any two people can find that much common ground. Just being in the same place for years doesn't count for anything. What do they have?"""
-
-    adam """We communicate. Better than anybody I've seen. We can be apart for two months while I'm on tour or you're overseas and snap right back and pick up a conversation from the word we left off. 
+    """He pinches the bridge of his nose for a second. 
     
-    We are connected. We are in the same headspace. You'll see it all. It'll happen again, just as fast. You've just got to give it a chance."""
+    Any two people can find that much common ground. Just being in the same place for years doesn't count for anything. 
+    
+    What do they have?"""
 
-    """Wheeler is almost there. She sees the shape of what Adam is describing. It's distant and unclear, but if she concentrates she might be able to bring it into focus. 
+    adam """We communicate. Better than anybody I've seen. 
+    
+    We can be apart for two months while I'm on tour or you're overseas and snap right back and pick up a conversation from the word we left off. 
+    
+    We are connected. We are in the same headspace. 
+    
+    You'll see it all. It'll happen again, just as fast. You've just got to give it a chance."""
+
+    """Wheeler is almost there. 
+    
+    She sees the shape of what Adam is describing. It's distant and unclear, but if she concentrates she might be able to bring it into focus. 
     
     It worries her, for nebulous reasons she can't completely articulate, but she can almost understand how there could be room for it. 
     
@@ -440,7 +497,13 @@ label where:
 
     marion "What war? How many people?"
 
-    adam """I don't know. There are names. Names you stop mentioning, and then you ignore me when I bring them up again. I assume there are reasons. I don't know the specifics. How could I know? Why don't you know?"""
+    adam """I don't know. 
+    
+    There are names. Names you stop mentioning, and then you ignore me when I bring them up again. 
+    
+    I assume there are reasons. I don't know the specifics. 
+    
+    How could I know? Why don't you know?"""
 
     """Wheeler races through the reasoning. The existence of a war computes. It confirms long-term existing suspicions. 
     
@@ -452,13 +515,11 @@ label where:
     
     It makes sense that Adam, naturally gifted with the mental equivalent of a thick layer of blubber, could stand on the edge of the conflict and dimly be able to perceive it. 
     
-    And the Division — so understaffed.
-
-    People are disappearing around her."""
+    And the Division — so understaffed. People are disappearing around her."""
 
     marion "And what if—" 
     
-    "Stops dead in the middle of the thought, as if the thought itself was stolen out of her."
+    "She stops dead in the middle of the thought, as if the thought itself was stolen out of her."
 
     marion "And what if we get back together, and—" 
     
@@ -480,11 +541,15 @@ label where:
     
     "He knows it's in his file and he knows Wheeler has read the file, but apparently it needs to be said again." 
     
-    adam """I can tell when something is fritzing with my memories. I can resist it. Up to a point. So, Marion, I was hoping to have a relaxed conversation over coffee and get around to this topic organically, but I'm going to have to skip to the end: I have the impression that SCP-4987 is trying to kill me."""
-
-    marion "…No." 
+    adam """I can tell when something is fritzing with my memories. I can resist it. Up to a point. 
     
-    marion """That's not its behavior model. It doesn't sustain itself that way, by eating people. It eats memories. 
+    So, Marion, I was hoping to have a relaxed conversation over coffee and get around to this topic organically, but I'm going to have to skip to the end: 
+    
+    I have the impression that SCP-4987 is trying to kill me."""
+
+    marion """…No. That's not its behavior model. 
+    
+    It doesn't sustain itself that way, by eating people. It eats memories. 
     
     And it's never done this. Not to you, nor me, nor anybody. Not since the very early days. 
     
@@ -492,17 +557,25 @@ label where:
 
     adam "Then what is it doing to us?" 
     
-    "Adam is getting nervy, and won't let go of his eye. He stands up and backs away." 
+    "Adam is getting nervy, and won't let go of his eye." 
     
+    show adam at offleft
+
+    "He stands up and backs away." 
+
     adam "I would like it if we could figure this out quickly. We don't have a way to put SCP-4987 down."
 
-    "There's a sound in Wheeler's mind, but not in her ear, like a distant chorus of baying dogs. She stands too, and moves after Adam into the middle of the containment unit."
+    "There's a sound in Wheeler's mind, but not in her ear, like a distant chorus of baying dogs."
+    
+    show marion at center 
+
+    "She stands too, and moves after Adam into the middle of the containment unit."
 
     marion "It's trying to protect you."
 
     adam "I— How does wiping your memory of me protect me?"
 
-    marion "I can't explain. And I can't explain why I can't explain. I don't fully know myself. There's an ███████████ ███████."
+    marion "I can't explain. And I can't explain why I can't explain. I don't fully know myself. There's an {noalt}███████████ ███████{/noalt}{alt}aaaaaaaaaa mmmmmmmm{/alt}."
 
     adam "A what?"
 
@@ -518,7 +591,7 @@ label where:
 
     """SCP-4987 is agitated. Wheeler feels it flitting around the room, incoherent, trying to tell her what it needs.
 
-    She says, with sudden actinic clarity:""" 
+    It then occurs to her, with sudden actinic clarity:""" 
     
     marion "I must have made an identical promise."
 
@@ -528,7 +601,11 @@ label where:
     
     adam "Help. Help me. I can't see." 
     
-    """He reaches out, unsteadily, for Wheeler's hand. She lets him take it and pull her close. The light doesn't fade. 
+    "He reaches out, unsteadily, for Wheeler's hand."
+
+    show adam at centerleft
+    
+    """She lets him take it and pull her close. The light doesn't fade. 
     
     He clings to Wheeler for a few moments, and she holds on to him until he realises that SCP-4987 is completely within her control, and this is all intentional."""
 
@@ -558,26 +635,43 @@ label where:
     
     adam "And what if you lose?"
 
-    """She kisses him. It's a stranger's kiss, there's nothing there Adam recognises. 
+    """She kisses him. 
     
-    He breaks off, unsettled. It's a whisper now:""" 
+    It's a stranger's kiss, there's nothing there Adam recognises."""
+
+    show adam at offleft
+    
+    "He breaks off, unsettled." 
+    
+    "It's a whisper now:"
     
     adam "What if you lose?"
 
-    """Wheeler exits the containment unit; she slams and deadlocks the door with a single movement. The heavy metallic crack makes the whole building shake.
+    scene bg scp hallway
 
-    There are people outside. Gauss, Julie Still and a few others, comparing notes. 
+    show marion at offleft
+    
+    """Wheeler exits the containment unit; she slams and deadlocks the door with a single movement. 
+    
+    The heavy metallic crack makes the whole building shake."""
+
+    show gauss at right
+    show still at offright
+
+    """There are people outside. Gauss, Julie Still and a few others, comparing notes. 
     
     They look appalled."""
 
-    marion "Fill in his backstory. He was never married. 
+    marion """Fill in his backstory. He was never married. 
     
     Relocate him to where I'll never find him, incinerate all the evidence, then report to me for surgical memory erasure. 
     
-    I'll do myself last."
+    I'll do myself last."""
 
     "Gauss looks as if he has an objection. She stares him down."
 
     marion "My husband's dead."
+
+    scene bg end
 
     return 

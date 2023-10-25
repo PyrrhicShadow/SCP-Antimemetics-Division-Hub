@@ -8,7 +8,6 @@ label fresh:
 
     scene bg start 
 
-    "Fresh Hell"
     "\"Fresh Hell\" by {a=https://scp-wiki.wikidot.com/qntm-s-author-page}qntm{/a}, from the SCP Wiki. Source: {a=https://scp-wiki.wikidot.com/fresh-hell}https://scp-wiki.wikidot.com/fresh-hell{/a}. Licensed under {a=https://creativecommons.org/licenses/by-sa/3.0/}CC-BY-SA{/a}." 
 
     "Art by Ren'Py placeholder. Licensed under CC-BY-SA."
@@ -19,31 +18,39 @@ label fresh:
 
     """There's another conglomeration of severed fingers in the last room, coating the room's interior like the innards of an exploded elephant. 
     
-    Parts of the sprawl are feeling their way, like mould, into a medical cabinet and the rest is splayed over a foetal shape on a medical gurney. The mass reacts sharply to the new light as 
+    Parts of the sprawl are feeling their way, like mould, into a medical cabinet and the rest is splayed over a foetal shape on a medical gurney."""
+
+    show adam at centerleft
+
+    """The mass reacts sharply to the new light as Wheeler opens the door, rearing up and angling parts of itself toward him. 
     
-    Wheeler opens the door, rearing up and angling parts of itself toward him. Wheeler reels backwards and pulls the door to just in time; there is a heavy, fleshy thump as the mass hits the door from the far side. 
+    Wheeler reels backwards and pulls the door to just in time; there is a heavy, fleshy thump as the mass hits the door from the far side. 
     
     The door holds."""
 
     """Wheeler trips on his own foot and slumps against the far wall. The shape on the gurney was a coiled-up human. 
     
-    Not a corpse, but a living human with one wide-open eye whose whole body was being slowly consumed and processed into more fingers. They were growing out of his throat. 
+    Not a corpse, but a living human with one wide-open eye whose whole body was being slowly consumed and processed into more fingers. 
     
-    Wheeler didn't see this. 
+    They were growing out of his throat. 
     
-    He thinks he saw it, but he knows he couldn't have."""
+    Wheeler didn't see this. He thinks he saw it, but he knows he couldn't have."""
 
-    """And that's it. Wheeler casts around the corridor. Every other door he's tried is blocked or locked. 
+    """And that's it. Wheeler casts around the corridor. 
+    
+    Every other door he's tried is blocked or locked. 
     
     The place is below ground, so no windows. No navigable ventilation.
 
-    There are two more gunshots up at the far end of the corridor, ear-splitting in the enclosed space and echoing for many seconds. 
+    There are two more gunshots up at the far end of the corridor, ear-splitting in the enclosed space and echoing for many seconds."""
+
+    show marion at centerright 
     
-    Hutchinson rounds the corner at a dead run, gun in hand, and reaches him quickly.""" 
+    "Hutchinson rounds the corner at a dead run, gun in hand, and reaches him quickly."
     
     marion "Find a way out?" 
     
-    "She asks, pointlessly. She can read Wheeler's expression. He's found nothing good."
+    "She asks this a bit pointlessly. She can read Wheeler's expression. He's found nothing good."
 
     adam "This place is infested. Every room, all the stairwells… This is absurd."
 
@@ -55,15 +62,21 @@ label fresh:
     
     It smells powerfully and creatively disgusting, like concentrated medical waste.
 
-    It lurches forward in intermittent phases, coating the walls and floor with scarlet ooze as it moves. It'll be on them in about half a minute, squashing them against the end of the corridor and then pulling them into the mess to be remade."""
+    It lurches forward in intermittent phases, coating the walls and floor with scarlet ooze as it moves. 
+    
+    It'll be on them in about half a minute, squashing them against the end of the corridor and then pulling them into the mess to be remade."""
 
     adam "I think we're done. Thanks for trying."
 
-    """Hutchinson, for her part, just stands there, gun lowered, watching the thing come. It moves slowly, like a steam roller. It fills the corridor almost to the ceiling.
+    """Hutchinson, for her part, just stands there, gun lowered, watching the thing come. 
+    
+    It moves slowly, like a steam roller. It fills the corridor almost to the ceiling.
 
     She has two bullets left and she's considering where to spend them. Shooting the mass itself is like shooting pudding. 
     
-    She'd kill for a grenade. Even a fire axe would be something. She might not be able to stop the thing, but she could at least make herself known with a fire axe. 
+    She'd kill for a grenade. Even a fire axe would be something. 
+    
+    She might not be able to stop the thing, but she could at least make herself known with a fire axe. 
     
     She could make it feel some regret."""
 
@@ -89,7 +102,7 @@ label fresh:
 
     marion "Can you climb?" 
     
-    "Without waiting for a response, she sheds her suit jacket, sticks a flashlight between her teeth and hauls herself up into the darkness. 
+    """Without waiting for a response, she sheds her suit jacket, sticks a flashlight between her teeth and hauls herself up into the darkness. 
     
     After a brief moment of scuffling, there's another gunshot. The other riser cupboard door."""
 
@@ -109,15 +122,19 @@ label fresh:
     
     He has to jump to catch hold of Hutchinson's hand, and just as he jumps, the main mass lunges for him, crossing the last few metres in a rush and catching hold of him by one foot.
 
-    He sees himself die.
-
-    His sweating hand immediately starts to slip out of Hutchinson's. She braces her other arm and hauls him up fifteen or thirty centimetres with an angry grunt, then releases his hand for a split second and reaches down like a flash to take firmer hold of his wrist. 
+    He sees himself die. His sweating hand immediately starts to slip out of Hutchinson's. 
     
-    She keeps pulling. The mass closes around Wheeler's foot like aggressive, proactive quicksand. He yelps and kicks at it with his other foot until it finally pries his shoe loose. 
+    She braces her other arm and hauls him up fifteen or thirty centimetres with an angry grunt, then releases his hand for a split second and reaches down like a flash to take firmer hold of his wrist. 
+    
+    She keeps pulling. The mass closes around Wheeler's foot like aggressive, proactive quicksand. 
+    
+    He yelps and kicks at it with his other foot until it finally pries his shoe loose. 
     
     The mass retreats for a second, taking a crucial moment to realise that its prize is not living flesh, but by that time Hutchinson has hauled Wheeler up another half-metre and Wheeler has started pushing himself upwards off the pipework with his feet. 
     
-    The mass lunges again, but falls short, and seems too unintelligent to climb after them. It sloshes around, probing its surroundings, perplexed by the shoe.
+    The mass lunges again, but falls short, and seems too unintelligent to climb after them. 
+    
+    It sloshes around, probing its surroundings, perplexed by the shoe.
 
     Hutchinson hauls Wheeler over the lip into the next corridor. He scrapes his ribs badly and arrives crawling, eyes watering. 
     
@@ -145,7 +162,9 @@ label fresh:
     
     """His skin crawls, and grotesque visions flood through his brain. 
     
-    Eventually he recovers his breath and gets to his feet. He stands lopsided, so he takes his other shoe off and throws it back down the riser for symmetry."""
+    Eventually he recovers his breath and gets to his feet. 
+    
+    He stands lopsided, so he takes his other shoe off and throws it back down the riser for symmetry."""
 
     marion "We need to get to the roof."
 
@@ -159,19 +178,40 @@ label fresh:
 
     "It's a fire axe."
 
-    scene bg stage
+    scene bg hospital
 
-    """He stepped on a rusty nail backstage after the show, and came to the emergency room for a tetanus injection. While waiting, he slowly realised that more than half of the people waiting with him were clutching partially or entirely severed fingers. 
+    show adam
+
+    """He stepped on a rusty nail backstage after the show, and came to the emergency room for a tetanus injection. 
     
-    Bandsaw accidents; hands caught in car doors; hands trapped in door hinges; hands crushed in machinery; every one of them unrelated. There was an epidemic of physical injury, which should have been impossible, and when he tried to bring it up with the medical staff they didn't seem to understand what he was saying.
-
-    And then he saw one of the fingers escape. He followed it as it wriggled away down a long corridor to a far corner of the hospital, to an ajar door which nobody in the hospital seemed to be able to perceive except for him, and into a different building where there were no people at all, just hundreds and hundreds of wriggling, exploring, slowly reproducing and lengthening fingers.
-
-    He slammed the door and tried and failed to get someone, anyone, staff or patient, to see what he was seeing. He found a payphone and dialled for emergency services and ordered off the menu, asking for emergency industrial-scale pest control or hazardous containment or psychic support or something.
-
-    And there was a long pause, and he was connected to what was either a very measured, dispassionate human or an impressively articulate robot operator. It told him to wait by the phone; an associate would be with him shortly. 
+    While waiting, he slowly realised that more than half of the people waiting with him were clutching partially or entirely severed fingers. 
     
-    Marion Hutchinson arrived in person, slightly less than fifteen minutes later.
+    Bandsaw accidents; hands caught in car doors; hands trapped in door hinges; hands crushed in machinery; every one of them unrelated. 
+    
+    There was an epidemic of physical injury, which should have been impossible, and when he tried to bring it up with the medical staff they didn't seem to understand what he was saying.
+
+    And then he saw one of the fingers escape."""
+
+    scene bg fingers hallway 
+
+    show adam  
+    
+    """He followed it as it wriggled away down a long corridor to a far corner of the hospital, to an ajar door which nobody in the hospital seemed to be able to perceive except for him, and into a different building where there were no people at all. 
+    
+    Just hundreds and hundreds of wriggling, exploring, slowly reproducing and lengthening fingers.
+
+    He slammed the door and tried and failed to get someone, anyone, staff or patient, to see what he was seeing. 
+    
+    He found a payphone and dialled for emergency services and ordered off the menu, asking for emergency industrial-scale pest control or hazardous containment or psychic support or something.
+
+    And there was a long pause, and he was connected to what was either a very measured, dispassionate human or an impressively articulate robot operator. 
+    
+    It told him to wait by the phone; an associate would be with him shortly."""
+
+    show adam at centerleft
+    show marion at centerright 
+    
+    """Marion Hutchinson arrived in person, slightly less than fifteen minutes later.
 
     He showed her the door. They went a few paces inside, Hutchinson crouching and aiming some kind of flashlight/scanner at the finger worms. 
     
@@ -179,15 +219,22 @@ label fresh:
     
     They turned, and saw what it was, and ran."""
 
-    scene bg stairwell
+    scene bg fingers stairwell
+
+    show adam at centerright
+    show marion at centerleft
 
     """Hutchinson hacks her way through the last of the flesh-clogged stairwell. They're almost at the roof. 
     
-    This part of the distributed infestation doesn't seem to be mobile, although it is freakishly grabby.
+    This part of the distributed infestation doesn't seem to be mobile, although it is freakishly grabby."""
 
-    Wheeler stands three paces back from her, partly to avoid the backswing but mostly so he doesn't have to watch. 
+    show adam at offright
+
+    """Wheeler stands three paces back from her, partly to avoid the backswing but mostly so he doesn't have to watch. 
     
-    It's butchery, and it's grisly, and Hutchinson barely seems perturbed by it; she slices methodically until there are waterfalls of gore coming down the stairs and soaking her shoes and his socks, and she does it with the manner of someone trimming a hedgerow.
+    It's butchery, and it's grisly, and Hutchinson barely seems perturbed by it; 
+    
+    She slices methodically until there are waterfalls of gore coming down the stairs and soaking her shoes and his socks, and she does it with the manner of someone trimming a hedgerow.
 
     {i}Whunch. Krunlch.{/i}
 
@@ -251,21 +298,26 @@ label fresh:
     
     She smiles and nods, and goes back to hacking."""
 
-    scene bg roof
+    scene bg fingers roof
+
+    show adam at centerleft
+    show marion at centerright
 
     """And they hit the roof, and Hutchinson's radio finally works, and she calls everything in. 
     
     She speaks in rapid keywords which Wheeler can't quite follow, although he can pick out his own name and \"hazmat\" and a repeated word which sounds to him like a brand of cassette tape: \"Memetix\".
 
-    It's very nearly dawn. This wing of the hospital is a few storeys shorter than its main body, so rows of bright-lit wards look down over the roof, while the roof looks out over two sprawling car parks and then greenery and roads and a faint, dull red where the Sun is due to come up. 
+    It's very nearly dawn. 
+    
+    This wing of the hospital is a few storeys shorter than its main body, so rows of bright-lit wards look down over the roof, while the roof looks out over two sprawling car parks and then greenery and roads and a faint, dull red where the Sun is due to come up. 
     
     Hutchinson quickly ascertains that there is no fire escape from here; the intended fire exit from the roof is the stairwell up which they just came, so they'll have to wait for a helicopter. 
     
     Or, more likely and less romantically, a long ladder."""
 
-    marion """Backup is coming
+    marion """Backup is coming. They have to come in from the next city over, so it could be a few hours. 
     
-    They have to come in from the next city over, so it could be a few hours. They'll have decontamination gear, antibiotics, blankets, tedious debriefing forms, you name it. 
+    They'll have decontamination gear, antibiotics, blankets, tedious debriefing forms, you name it. 
     
     But most importantly, coffee."""
 
@@ -285,7 +337,11 @@ label fresh:
 
     adam "I'm sorry." 
     
-    "Wheeler opens his eyes again. He gestures at the mayhem from which they just escaped, the fire door and everything it leads to. It's all still down there."
+    "Wheeler opens his eyes again. 
+    
+    He gestures at the mayhem from which they just escaped, the fire door and everything it leads to. 
+    
+    It's all still down there."
     
     adam "You've seen worse than this?"
 
@@ -293,15 +349,21 @@ label fresh:
 
     adam "What is this? What happened here?"
 
-    """At first Hutchinson doesn't answer this either. She walks away across the roof and spends an entire minute staring at the forthcoming Sun.
+    """At first Hutchinson doesn't answer this either. 
+    
+    She walks away across the roof and spends an entire minute staring at the forthcoming Sun.
 
     And then, surprising Wheeler and slightly surprising even herself, she walks back to him and says:"""
 
-    marion """SCP-4051, which is the number we just assigned to this infestation, has an intrinsic property which makes it nearly impossible for sapient organisms to perceive it. It's a form of camouflage. 
+    marion """SCP-4051, which is the number we just assigned to this infestation, has an intrinsic property which makes it nearly impossible for sapient organisms to perceive it. 
     
-    It's not invisible, it's a mental blocking effect. Information about it goes nowhere, it gets suppressed. 
+    It's a form of camouflage. It's not invisible, it's a mental blocking effect. 
     
-    People walk past this building every day of the week. They don't see what's blocking the windows. They walk past that door and don't realise it's standing open. 
+    Information about it goes nowhere, it gets suppressed. 
+    
+    People walk past this building every day of the week. They don't see what's blocking the windows. 
+    
+    They walk past that door and don't realise it's standing open. 
     
     It could have been here for decades. The researchers will get the whole story eventually."""
 
@@ -309,7 +371,9 @@ label fresh:
     
     adam "So… living fnords?"
 
-    """And this actually slows Hutchinson down for a second. She gets that reference. She read those books when she was younger, years ago, before joining the Foundation. 
+    """And this actually slows Hutchinson down for a second. 
+    
+    She gets that reference. She read those books when she was younger, years ago, before joining the Foundation. 
     
     But she's never made the connection between fnords and the work she does. For as long as she's been working there, she hasn't even thought about it. 
     
@@ -325,11 +389,15 @@ label fresh:
 
     adam "And I, also, can see them."
 
-    marion """You seem to have a mild natural immunity to memory-clouding phenomena. It's rare, but it happens. At a hospital this busy, someone like you was bound to stumble into this place sooner or later.""" 
+    marion """You seem to have a mild natural immunity to memory-clouding phenomena. It's rare, but it happens. 
+    
+    At a hospital this busy, someone like you was bound to stumble into this place sooner or later.""" 
     
     "{i}And escape alive{/i}, she privately adds." 
     
-    marion """But the point is… this infestation, SCP-4051, is a snowflake. I don't mean that it's special and unique. I mean: it's part of a blizzard.
+    marion """But the point is… this infestation, SCP-4051, is a snowflake. 
+    
+    I don't mean that it's special and unique. I mean: it's part of a blizzard.
 
     I work for an independent scientific research institution with a specialist focus on the containment of hazardous anomalous phenomena. 
     
@@ -359,7 +427,9 @@ label fresh:
     
     "A nerve has been touched. She shuffles irately."
     
-    marion """They don't have enough people; they don't trust each other. They don't spend nearly enough time on paperwork. Paperwork saves lives. 
+    marion """They don't have enough people; they don't trust each other. 
+    
+    They don't spend nearly enough time on paperwork. Paperwork saves lives. 
     
     But most of all? I hate the will-they-or-won't-they. For what, five years? It's forced, it's farcical.
     
@@ -378,5 +448,7 @@ label fresh:
     "A distant rapid thudding noise slowly becomes apparent. Hutchinson sees the source of the sound first and points." 
     
     marion "Backup's here. And it looks like we rated a helicopter after all."
+
+    scene bg end
 
     return 

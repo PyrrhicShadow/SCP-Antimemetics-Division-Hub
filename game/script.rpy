@@ -20,7 +20,12 @@ label start:
 
     "Welcome to the {noalt}Antimemetics{/noalt}{alt}anti-memetics{/alt} Division."
 
-    "No, this is not your first day."
+    if persistent.unthreaded: 
+        "Ideas can be killed. With better ideas."
+    elif persistent.green: 
+        "We're the last ones in the world. After us, there's nobody." 
+    else: 
+        "No, this is not your first day."
 
     if persistent.firstrun: 
         jump quick_play
@@ -79,6 +84,7 @@ label hub_five:
 
         "Fresh Hell" if persistent.fresh:
             call fresh
+            jump coming_soon
 
         "Back": 
             jump hub_root
