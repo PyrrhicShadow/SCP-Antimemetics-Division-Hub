@@ -141,9 +141,11 @@ label fresh:
 
     "Hutchinson ignores the question, out of habit, and waits impassively for the man to cool."
 
-    "This is asinine. This is brain damage." 
+    adam "This is asinine. This is brain damage." 
     
-    """His skin crawls, and grotesque visions flood through his brain. Eventually he recovers his breath and gets to his feet. He stands lopsided, so he takes his other shoe off and throws it back down the riser for symmetry."""
+    """His skin crawls, and grotesque visions flood through his brain. 
+    
+    Eventually he recovers his breath and gets to his feet. He stands lopsided, so he takes his other shoe off and throws it back down the riser for symmetry."""
 
     marion "We need to get to the roof."
 
@@ -157,27 +159,41 @@ label fresh:
 
     "It's a fire axe."
 
-    scene 
+    scene
 
-    """He stepped on a rusty nail backstage after the show, and came to the emergency room for a tetanus injection. While waiting, he slowly realised that more than half of the people waiting with him were clutching partially or entirely severed fingers. Bandsaw accidents; hands caught in car doors; hands trapped in door hinges; hands crushed in machinery; every one of them unrelated. There was an epidemic of physical injury, which should have been impossible, and when he tried to bring it up with the medical staff they didn't seem to understand what he was saying.
+    """He stepped on a rusty nail backstage after the show, and came to the emergency room for a tetanus injection. While waiting, he slowly realised that more than half of the people waiting with him were clutching partially or entirely severed fingers. 
+    
+    Bandsaw accidents; hands caught in car doors; hands trapped in door hinges; hands crushed in machinery; every one of them unrelated. There was an epidemic of physical injury, which should have been impossible, and when he tried to bring it up with the medical staff they didn't seem to understand what he was saying.
 
     And then he saw one of the fingers escape. He followed it as it wriggled away down a long corridor to a far corner of the hospital, to an ajar door which nobody in the hospital seemed to be able to perceive except for him, and into a different building where there were no people at all, just hundreds and hundreds of wriggling, exploring, slowly reproducing and lengthening fingers.
 
     He slammed the door and tried and failed to get someone, anyone, staff or patient, to see what he was seeing. He found a payphone and dialled for emergency services and ordered off the menu, asking for emergency industrial-scale pest control or hazardous containment or psychic support or something.
 
-    And there was a long pause, and he was connected to what was either a very measured, dispassionate human or an impressively articulate robot operator. It told him to wait by the phone; an associate would be with him shortly. Marion Hutchinson arrived in person, slightly less than fifteen minutes later.
+    And there was a long pause, and he was connected to what was either a very measured, dispassionate human or an impressively articulate robot operator. It told him to wait by the phone; an associate would be with him shortly. 
+    
+    Marion Hutchinson arrived in person, slightly less than fifteen minutes later.
 
-    He showed her the door. They went a few paces inside, Hutchinson crouching and aiming some kind of flashlight/scanner at the finger worms. Behind them, something reached out and gently pushed the door closed with a click. They turned, and saw what it was, and ran."""
+    He showed her the door. They went a few paces inside, Hutchinson crouching and aiming some kind of flashlight/scanner at the finger worms. 
+    
+    Behind them, something reached out and gently pushed the door closed with a click. 
+    
+    They turned, and saw what it was, and ran."""
 
     scene 
 
-    """Hutchinson hacks her way through the last of the flesh-clogged stairwell. They're almost at the roof. This part of the distributed infestation doesn't seem to be mobile, although it is freakishly grabby.
+    """Hutchinson hacks her way through the last of the flesh-clogged stairwell. They're almost at the roof. 
+    
+    This part of the distributed infestation doesn't seem to be mobile, although it is freakishly grabby.
 
-    Wheeler stands three paces back from her, partly to avoid the backswing but mostly so he doesn't have to watch. It's butchery, and it's grisly, and Hutchinson barely seems perturbed by it; she slices methodically until there are waterfalls of gore coming down the stairs and soaking her shoes and his socks, and she does it with the manner of someone trimming a hedgerow.
+    Wheeler stands three paces back from her, partly to avoid the backswing but mostly so he doesn't have to watch. 
+    
+    It's butchery, and it's grisly, and Hutchinson barely seems perturbed by it; she slices methodically until there are waterfalls of gore coming down the stairs and soaking her shoes and his socks, and she does it with the manner of someone trimming a hedgerow.
 
     {i}Whunch. Krunlch.{/i}
 
-    Wheeler is shivering, and starting to crash. If he doesn't stay still right in the middle of the stairwell, the remaining fingers tug at his hair and sleeves. In another few minutes it may finally dawn on him that this is really happening."""
+    Wheeler is shivering, and starting to crash. If he doesn't stay still right in the middle of the stairwell, the remaining fingers tug at his hair and sleeves. 
+    
+    In another few minutes it may finally dawn on him that this is really happening."""
     
     adam "This is crazy, this is nuts." 
     
@@ -209,7 +225,11 @@ label fresh:
 
     marion "What kind of violin music?"
 
-    adam """Uh. What kind would you like? Tonight's— last night's— Christ, yesterday's concert was Prokofiev's Violin Concerto No. 1. And a few other pieces, of course, but that was the main course for me. That was where I got my teeth in."""
+    adam """Uh. What kind would you like? 
+    
+    Tonight's— last night's— Christ, yesterday's concert was Prokofiev's Violin Concerto No. 1. 
+    
+    And a few other pieces, of course, but that was the main course for me. That was where I got my teeth in."""
 
     "Hutchinson stops hacking and turns around. She actually looks him in the eye." 
     
@@ -227,6 +247,136 @@ label fresh:
 
     adam "Just get me to a violin."
 
-    "Hutchinson thinks for a moment longer. She smiles and nods, and goes back to hacking."
+    """Hutchinson thinks for a moment longer. 
+    
+    She smiles and nods, and goes back to hacking."""
+
+    scene 
+
+    """And they hit the roof, and Hutchinson's radio finally works, and she calls everything in. 
+    
+    She speaks in rapid keywords which Wheeler can't quite follow, although he can pick out his own name and "hazmat" and a repeated word which sounds to him like a brand of cassette tape: \"Memetix\".
+
+    It's very nearly dawn. This wing of the hospital is a few storeys shorter than its main body, so rows of bright-lit wards look down over the roof, while the roof looks out over two sprawling car parks and then greenery and roads and a faint, dull red where the Sun is due to come up. 
+    
+    Hutchinson quickly ascertains that there is no fire escape from here; the intended fire exit from the roof is the stairwell up which they just came, so they'll have to wait for a helicopter. 
+    
+    Or, more likely and less romantically, a long ladder."""
+
+    marion """Backup is coming
+    
+    They have to come in from the next city over, so it could be a few hours. They'll have decontamination gear, antibiotics, blankets, tedious debriefing forms, you name it. 
+    
+    But most importantly, coffee."""
+
+    "Wheeler makes an inarticulate sound, the sound of one who could use the coffee, and after that, a drink." 
+    
+    adam "God, I have another concert today."
+    
+    "He sits on the thick perimeter wall, rubs his eyes, rubs his sore feet, and begins to shut down."
+
+    marion """You'll be there. The nasty part is over. 
+    
+    You did well for a civilian. I've seen far worse."""
+
+    adam "Worse than this?"
+
+    "Hutchinson says nothing."
+
+    adam "I'm sorry." 
+    
+    "Wheeler opens his eyes again. He gestures at the mayhem from which they just escaped, the fire door and everything it leads to. It's all still down there."
+    
+    adam "You've seen worse than this?"
+
+    "Hutchinson, again, says nothing."
+
+    adam "What is this? What happened here?"
+
+    """At first Hutchinson doesn't answer this either. She walks away across the roof and spends an entire minute staring at the forthcoming Sun.
+
+    And then, surprising Wheeler and slightly surprising even herself, she walks back to him and says:"""
+
+    marion """SCP-4051, which is the number we just assigned to this infestation, has an intrinsic property which makes it nearly impossible for sapient organisms to perceive it. It's a form of camouflage. 
+    
+    It's not invisible, it's a mental blocking effect. Information about it goes nowhere, it gets suppressed. 
+    
+    People walk past this building every day of the week. They don't see what's blocking the windows. They walk past that door and don't realise it's standing open. 
+    
+    It could have been here for decades. The researchers will get the whole story eventually."""
+
+    "Wheeler finds in this explanation something he halfway understands." 
+    
+    adam "So… living fnords?"
+
+    """And this actually slows Hutchinson down for a second. She gets that reference. She read those books when she was younger, years ago, before joining the Foundation. 
+    
+    But she's never made the connection between fnords and the work she does. For as long as she's been working there, she hasn't even thought about it. 
+    
+    The irony is intense enough to burn."""
+
+    marion "Yeah."
+
+    adam "Except that you can see them."
+
+    marion "I have specialist training." 
+    
+    "Hutchinson pauses, declining to mention her drug regimen."
+
+    adam "And I, also, can see them."
+
+    marion """You seem to have a mild natural immunity to memory-clouding phenomena. It's rare, but it happens. At a hospital this busy, someone like you was bound to stumble into this place sooner or later.""" 
+    
+    "{i}And escape alive{/i}, she privately adds." 
+    
+    marion """But the point is… this infestation, SCP-4051, is a snowflake. I don't mean that it's special and unique. I mean: it's part of a blizzard.
+
+    I work for an independent scientific research institution with a specialist focus on the containment of hazardous anomalous phenomena. 
+    
+    We have an international mandate and formidable resources and… unimaginable responsibilities. 
+    
+    We… we watch the blizzard. And we guard the little fire. 
+    
+    We're called the Foundation."""
+
+    """Wheeler's full attention is on her now. He feels tense and exposed here, vulnerable to extraordinary natural forces from which by rights he should be fleeing. 
+    
+    But he's also fascinated. Hutchinson has a faintly ethereal attitude to her. It's as if she's not standing on the same planet as everybody else."""
+
+    adam """So you're not FBI.
+    
+    Either, I mean. That was my other guess."""
+
+    "Hutchinson wrinkles her nose." 
+    
+    marion "I hate that show."
+
+    adam "I don't believe I mentioned a show." 
+    
+    "Wheeler smiles mischievously."
+
+    marion "They do everything wrong."
+    
+    "A nerve has been touched. She shuffles irately."
+    
+    marion """They don't have enough people; they don't trust each other. They don't spend nearly enough time on paperwork. Paperwork saves lives. 
+    
+    But most of all? I hate the will-they-or-won't-they. For what, five years? It's forced, it's farcical.
+    
+    It doesn't take that long to know. You will or you won't. And then you do."""
+
+    "Wheeler reads her expression carefully."
+    
+    adam "You do?"
+
+    marion "Yeah." 
+    
+    "Hutchinson's smiling again." 
+    
+    marion "Yeah, I think you do."
+
+    "A distant rapid thudding noise slowly becomes apparent. Hutchinson sees the source of the sound first and points." 
+    
+    marion "Backup's here. And it looks like we rated a helicopter after all."
 
     return 
