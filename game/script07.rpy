@@ -255,7 +255,7 @@ label fresh:
 
     """And they hit the roof, and Hutchinson's radio finally works, and she calls everything in. 
     
-    She speaks in rapid keywords which Wheeler can't quite follow, although he can pick out his own name and "hazmat" and a repeated word which sounds to him like a brand of cassette tape: \"Memetix\".
+    She speaks in rapid keywords which Wheeler can't quite follow, although he can pick out his own name and \"hazmat\" and a repeated word which sounds to him like a brand of cassette tape: \"Memetix\".
 
     It's very nearly dawn. This wing of the hospital is a few storeys shorter than its main body, so rows of bright-lit wards look down over the roof, while the roof looks out over two sprawling car parks and then greenery and roads and a faint, dull red where the Sun is due to come up. 
     

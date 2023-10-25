@@ -318,7 +318,7 @@ label where:
     
     """The unit has a rudimentary kitchen area. He goes through and starts exploring the cupboards."""
     
-    adam "There must be something edible around here. Eggs and milk, at least. I'm ashamed to say I more or less fell asleep where I was standing when they put me in here, so I haven't had a chance to scout. Or do you keep the place empty, and the food arrives through a slot in the wall?"""
+    adam "There must be something edible around here. Eggs and milk, at least. I'm ashamed to say I more or less fell asleep where I was standing when they put me in here, so I haven't had a chance to scout. Or do you keep the place empty, and the food arrives through a slot in the wall?"
 
     marion "Mr. Wheeler—"
 
@@ -366,11 +366,21 @@ label where:
 
     adam "Yes. From 1995 to right now."
 
-    """It's still a farcical question at face value, and Wheeler's first instinct is to dismiss it as such, but she thinks again. She thinks, intending to genuinely try to answer the question. And she finds gaps. There's a dearth of specifics. It's like being asked to \"say something\" and immediately forgetting all words."""
+    """It's still a farcical question at face value, and Wheeler's first instinct is to dismiss it as such, but she thinks again. 
+    
+    She thinks, intending to genuinely try to answer the question. 
+    
+    And she finds gaps. There's a dearth of specifics. 
+    
+    It's like being asked to \"say something\" and immediately forgetting all words."""
 
     marion "I remember… working."
 
-    """And driving home, and then sleep, and then driving back to work. Big, hostile buildings. Drug regimens, containment procedures, endless piles of opaque numbers, personal fitness drills. Running. Calculating. Never, ever stopping calculating. She remembers, with unfair clarity, a large variety of extremely bad dreams.
+    """And driving home, and then sleep, and then driving back to work. 
+    
+    Big, hostile buildings. Drug regimens, containment procedures, endless piles of opaque numbers, personal fitness drills. 
+    
+    Running. Calculating. Never, ever stopping calculating. She remembers, with unfair clarity, a large variety of extremely bad dreams.
 
     And other than that, nothing. A huge, deep, ragged-edged black pit."""
 
@@ -404,7 +414,9 @@ label where:
 
     """He pinches the bridge of his nose for a second. Any two people can find that much common ground. Just being in the same place for years doesn't count for anything. What do they have?"""
 
-    adam """We communicate. Better than anybody I've seen. We can be apart for two months while I'm on tour or you're overseas and snap right back and pick up a conversation from the word we left off. We are connected. We are in the same headspace. You'll see it all. It'll happen again, just as fast. You've just got to give it a chance."""
+    adam """We communicate. Better than anybody I've seen. We can be apart for two months while I'm on tour or you're overseas and snap right back and pick up a conversation from the word we left off. 
+    
+    We are connected. We are in the same headspace. You'll see it all. It'll happen again, just as fast. You've just got to give it a chance."""
 
     """Wheeler is almost there. She sees the shape of what Adam is describing. It's distant and unclear, but if she concentrates she might be able to bring it into focus. 
     
@@ -446,7 +458,9 @@ label where:
 
     marion "And what if we get back together, and—" 
     
-    """She begins again, and this time hard instinct seizes her around the midsection and bodily hauls her back from thinking a thought which, it knows, would kill her. She's Wile E. Coyote, she's already run off the edge of a precipice into clear air, and thinking that thought would be like looking down."""
+    """She begins again, and this time hard instinct seizes her around the midsection and bodily hauls her back from thinking a thought which, it knows, would kill her. 
+    
+    She's Wile E. Coyote, she's already run off the edge of a precipice into clear air, and thinking that thought would be like looking down."""
 
     "She feels SCP-4987 moving around her, abstractly bound to her, a winking speck of glitter in her eye." 
     
@@ -492,7 +506,7 @@ label where:
     
     You can't be in my life. You have to leave, or you're going to die."""
 
-    adam "I'm not leaving you. Christ, that's why we did it in the end. Got married, I mean. 
+    adam """I'm not leaving you. Christ, that's why we did it in the end. Got married, I mean. 
     
     It was scintillatingly obvious to both of us, very early on, that we were forever. But I wanted to get it on the public record. 
     
