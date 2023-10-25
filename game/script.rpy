@@ -77,7 +77,7 @@ label hub_five:
         "Where Have You Been All My Life" if persistent.where: 
             call where
 
-        "Fresh Hell":
+        "Fresh Hell" if persistent.fresh:
             call fresh
 
         "Back": 

@@ -13,7 +13,7 @@ label fresh:
 
     "Art by Ren'Py placeholder. Licensed under CC-BY-SA."
 
-    scene
+    scene bg figners
 
     $marion_surname = "Hutchinson"
 
@@ -159,7 +159,7 @@ label fresh:
 
     "It's a fire axe."
 
-    scene
+    scene bg stage
 
     """He stepped on a rusty nail backstage after the show, and came to the emergency room for a tetanus injection. While waiting, he slowly realised that more than half of the people waiting with him were clutching partially or entirely severed fingers. 
     
@@ -179,7 +179,7 @@ label fresh:
     
     They turned, and saw what it was, and ran."""
 
-    scene 
+    scene bg stairwell
 
     """Hutchinson hacks her way through the last of the flesh-clogged stairwell. They're almost at the roof. 
     
@@ -251,7 +251,7 @@ label fresh:
     
     She smiles and nods, and goes back to hacking."""
 
-    scene 
+    scene bg roof
 
     """And they hit the roof, and Hutchinson's radio finally works, and she calls everything in. 
     

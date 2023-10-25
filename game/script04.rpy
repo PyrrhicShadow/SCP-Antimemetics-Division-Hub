@@ -269,7 +269,7 @@ label green:
 
     marion "Find another way." 
     
-    "Wheeler says to the unhearing recording. The fatalistic tone of voice makes her angry."
+    "The fatalistic tone of voice in the recording makes her angry."
     
     marion "What the hell's wrong with you?"
 
@@ -347,11 +347,11 @@ label green:
     
     (Wheeler imagines Hughes building it as a proof-of-concept, followed by a cascading series of lucky chances which led to it becoming the war room.)
     
-    (Someone discovered SCP-3125 at random, while sealed in the room;) 
+    (Someone discovered SCP-3125 at random, while sealed in the room.) 
     
-    (they wrote notes to themselves which set up the skeletal external SCP database entry and the containment procedures;) 
+    (They wrote notes to themselves which set up the skeletal external SCP database entry and the containment procedures.) 
     
-    (most of the paperwork and computer hardware was left behind by later visitors…)
+    (Most of the paperwork and computer hardware was left behind by later visitors…)
     
     (It could have happened…)"""
 
@@ -408,6 +408,8 @@ label green:
     I think I'm okay. I remember the plan."""
 
     "Kim looks confused and worried for a second, then they replace him." 
+
+    show kim replaced
     
     kim "You shouldn't be able to remember anything… what did you do?"
 

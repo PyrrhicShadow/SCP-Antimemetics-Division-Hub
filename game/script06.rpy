@@ -14,9 +14,11 @@ label where:
 
     """Who the {i}fuck{/i} infiltrates a senior Foundation official's home, while they're home?
 
-    Marion Wheeler lives deep in coniferous forest, a long drive from the nearest major city and a long drive in the opposite direction from Site 41. 
+    Marion Wheeler lives deep in coniferous forest, a long drive from the nearest major city and a long drive in the opposite direction from Site 41."""
+
+    show marion 
     
-    It's late, last thing, and she's reading in bed when she hears the muffled, unmistakeable click of her front door being unlocked. 
+    """It's late, last thing, and she's reading in bed when she hears the muffled, unmistakeable click of her front door being unlocked. 
     
     She looks up, and stares blankly at the wall for a second while listening to soft footsteps moving into the hallway.
 
@@ -26,17 +28,15 @@ label where:
     
     They, she discovers, have all been disabled, along with the sensors and cameras. She was not notified that this had happened. 
     
-    Whoever did it had a valid code."""
-
-    "Who, though?"
+    Whoever did it had a valid code. Who, though?"""
 
     """The Foundation has enemies. 
     
     True, the list of credible, motivated enemies is surprisingly short, and the list of groups stupid enough to try to kill or capture someone at her level is shorter. 
     
-    But it's far from empty, and it's not actually so hard a feat; not too many people below O5 level are privileged to travel in motorcades. T
+    But it's far from empty, and it's not actually so hard a feat; not too many people below O5 level are privileged to travel in motorcades. 
     
-    he real trick, the impossible trick, is to avoid unholy retaliation. 
+    The real trick, the impossible trick, is to avoid unholy retaliation. 
     
     But what if you really think you can? What if you've decided it's worth it?
 
@@ -74,10 +74,12 @@ label where:
     
     She knows there are knitting needles downstairs in the lounge and knives, good ones, in the kitchen. 
     
-    But she can't get to them. It's too late. The door's opening. 
+    But she can't get to them. It's too late. The door's opening.""" 
     
-    It seems like the man's trying to say something as he comes in, but he only gets as far as \"I— whulp,\" and it's done. 
-    
+    show adam at centerright 
+
+    """It seems like the man's trying to say something as he comes in, but he only gets as far as \"I— whulp,\" and it's done.
+
     He's flat on his face, cheek pressed into deep cream carpet, with Wheeler on his back pinning both his wrists with her knees. 
     
     She sights urgently back down the stairs for a second; there's no one there. She prods him in his other cheek with the muzzle of the gun.""" 
@@ -104,7 +106,9 @@ label where:
 
     "He says nothing for a moment, but his expression slowly, subtly drops."
     
-    unknow "I, ah. Well. Well, it really happened, didn't it? I always wondered."
+    unknown """I, ah. Well. 
+    
+    Well, it really happened, didn't it? I always wondered."""
 
     marion "Who are you?"
 
@@ -126,7 +130,7 @@ label where:
     
     marion "What's your name?"
 
-    unknow "Adam."
+    unknown "Adam."
     
     adam "Adam Wheeler."
 
