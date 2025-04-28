@@ -263,6 +263,175 @@ label ojai:
     
     It's brutal. Impersonal. Very expensive in orbital laser maintenance. 
     
-    We say to ourselves that it's effective. Maybe it is. I'm not at that level. I don't get to see the statistics."""
+    We say to ourselves that it's effective. Maybe it is. I'm not at that level. I don't get to see the statistics.
+
+    But what I do know is that we can always do better. And I looked at the file and I looked at you, and… I took a long shot. 
+    
+    Honestly, I'm a very small guy in the grand scheme, but I stood up in a pretty intense meeting with people who I don't really have the authority to say anything to and I said to them — this is a paraphrase — 
+    
+    \'There's a completely innocent kid at the centre of this. He doesn't deserve this. At minimum, we've got to make the gesture.\'"""
+
+    "A shadow passes across the room. Barsin looks around briefly, but whatever it is has gone. He thinks nothing of it."
+
+    barsin """And then I also said, \'If it works, it'll save us a boatload of money.\' I think that part was the part which got their attention. But I got the thumbs-up. 
+    
+    So here I am. Trying to save your life the hard way instead of just atomizing it. It'll probably take all day. Six, ten hours. 
+    
+    Don't worry. I have podcasts."""
+
+    "He finishes untangling the earbuds and screws the first of them into his left ear."
+
+    red "Your people must really hate you." 
+
+    "Shit."
+
+    """Barsin draws. Late. 
+    
+    Obviously nobody should be able to talk right now, but the real reason he draws late is that the comment lands. It should just pass him by but there is a sharp, spiteful element of truth to it. 
+    
+    Truthfully, nobody was a fan of the idea. Barsin has been saying for a long time, with gradually increasing volume, to gradually increasingly senior Foundation overseers, that a chat beats a fight. He's been ignored over and over. 
+    
+    Yesterday, when they finally said that he could try it, it was grudgingly. And so a momentary flicker of foul suspicion appears— did they know? Did they really just— kill him?
+
+    They didn't. He knows, of course they didn't. But it's too late. 
+    
+    As he fumbles the gun out, Red has already sat up, grinning like a ventriloquist's puppet, and turned his head to look right at Barsin. 
+    
+    They make eye contact, and this time Red's eyes are open all the way, allowing Barsin to see straight through to what's on the other side. 
+    
+    Green comprehension leaps out of the pit at Barsin and grounds itself in the back of his skull.
+
+    He recoils instinctively, breaking the connection and covering his eyes. He stumbles, falling backwards out of the chair and into the corner of the room. 
+    
+    His orange, crystalline shield fluctuates, panicking in its own way because of what just passed through it. 
+    
+    Intermittently, it turns impermeable, cutting off Barsin's frantic breathing. Then it snaps off and dies.
+
+    Barsin doesn't have the training to fully comprehend the idea complex he was just exposed to. 
+    
+    He has a basic level of practical memetics training; he can administer the spiral treatment and a few others, and protect himself from certain attacks which would knock a generic human over like a domino. 
+    
+    But he's an entry-level practitioner, not a specialist, not a scientist. The sheer scope of Green is beyond his ability to comprehend. 
+    
+    He feels like one of the men Louis Slotin irradiated, a Demon Core criticality witness. 
+    
+    He knows he's dead. The only question is how long it's going to take."""
+
+    "Red swings his legs off the bed and stands, keeping his grin fixed on Barsin." 
+    
+    red "A spinning red and blue light. How backward are you?" 
+    
+    """He seems to grow larger, and to sink backwards into space, a hole where a human should be. 
+    
+    Barsin finds he can't make himself move out of the corner. It's like he's pinned. There's a creeping, staticky numbness in his hands.
+
+    He understands his error now. He might as well have tried to poison the ocean. 
+    
+    He sees the whole thing, Red's grotesque vision for the world, his/its immense, vicious promise. 
+    
+    The rot is everywhere. Those hundred thousand infected are a foretaste. The spores are flourishing secretly in every aspect of reality: in people's lungs, in their minds, their words, in the soil, in the sky. Maggots and cancers and star signals. 
+    
+    How can anyone think like that? How can anyone want that?"""
+
+    barsin "You—" 
+    
+    """Barsin means it in the singular. There's no distinction between Red and whoever that original human was. 
+    
+    There's no one to rescue. It was a damn ruse.
+
+    It was voluntary."""
+
+    barsin """You made this happen? 
+    
+    It didn't abduct you. You invited it. Hacked your own soul in half and offered the pieces up, for no reason at all?
+    
+    You've latched yourself onto the front of something unimaginable. You can't comprehend how badly this is going to end. You've murdered yourself."""
+
+    """Red advances on him.
+
+    Gun. Barsin's mind is disintegrating. But it gets that one word out. Gun.
+
+    It's on the floor between them, gleaming in the shaft of orange light pouring out of the window. 
+    
+    Barsin fights himself and wins and lunges for it, only then finding that the creeping numbness in his extremities isn't just affecting his hands, it's affecting his own ability to perceive them. 
+    
+    He doesn't know that it's a minor antimemetic clouding effect; all he knows is that there's a stump at the end of his arm. Both arms. 
+
+
+    The gun is inoperable. All he can do is push it around the floor. 
+
+    He shouts, miserably and helplessly. Red laughs, and doesn't even bother to kick it away."""
+
+    barsin "The Foundation will stop you."
+
+    "Red cocks his head, as if he knows the word \"Foundation\" from somewhere." 
+    
+    red "Are all of them as weak as you?" 
+
+    """Comprehension goes both ways. 
+    
+    Barsin dimly understands what Red represents, which means Red, in turn, dimly understands what Barsin represents. 
+    
+    Red perceives the power structures which dispatched Barsin into this hated burrow. Red perceives the shadows of the \"people at the streaming services\", and the Mobile Task Force Barsin doesn't know about, skulking out at the property's perimeter waiting for a go order which will never come. 
+    
+    Red perceives the four or five \"brutal\", \"impersonal\" suits seated at the top of the operation, webbing it together. 
+    
+    One of them is toying absently with their laser strike keystick, twirling it around the back of their thumb over and over, dropping it.
+
+    That's as far through headspace as Red can search, because that's the limit of the people who know about him, it, Red. That's the hit list.
+
+    A shadow blots the Sun out again, the same one as before, for longer this time. Red looks out through the window, giving it a curt nod, and it departs.
+
+    Barsin slumps to one side, dead up to the shoulders now. He's conscious that any of these words could be his last.""" 
+    
+    barsin "You think you're in control. But it's going to kill you too. We can get you out. You can help us contain it."
+
+    "Red crouches, still grinning." 
+    
+    red "Look at me. Look." 
+    
+    """Barsin looks. 
+    
+    He doesn't have a choice. It hurts. 
+    
+    Red makes sure he is being heard loudly and clearly:""" 
+    
+    red "No."
+
+    "Barsin whispers:"
+
+    barsin "Z…zayin. Three four six. Samekh shin." 
+
+    "Red blinks." 
+    
+    red "What?"
+
+    "Something bleeps."
+    
+    barsin "Ae star. Ae star."
+
+    red "Shit." 
+    
+    """Red looks around, suddenly genuinely alarmed. 
+    
+    The phone. He lost track of Barsin's phone. 
+    
+    He finds it, beneath the bed. He snatches it up. 
+    
+    There's a voice authentication interface, and authentication is nearly complete.""" 
+    
+    red "Stop. Cancel. Undo." 
+    
+    "Nothing happens. Wrong voice. He drops the phone, scrabbles for the gun."
+
+    barsin "Zaelochi anaeora. Fire." 
+
+    """Red puts a bullet through the phone. And a second through Barsin's skull.
+
+    He looks up at the ceiling, waiting, still alarmed. 
+    
+    And he waits.
+
+    But nothing else happens."""
 
     return
