@@ -84,6 +84,9 @@ label hub_five:
 
         "Fresh Hell" if persistent.fresh:
             call fresh
+
+        "Ojai" if persistent.ojai: 
+            call ojai
             jump coming_soon
 
         "Back": 

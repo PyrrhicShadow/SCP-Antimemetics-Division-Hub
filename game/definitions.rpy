@@ -61,6 +61,12 @@ define scp3125_a = Character("Infected Not-Person", what_prefix="\"", what_suffi
 
 define gauss = Character("Alex Gauss", what_prefix="\"", what_suffix="\"", who_alt="Gauss says, ")
 
+# story 8: ojai
+
+define barsin = Character("George Barsin", what_prefix="\"", what_suffix="\"", who_alt="Barsin says, ")
+define youth = Character("Youth", what_prefix="\"", what_suffix="\"", who_alt="The youth says, ")
+define red = Character("Red", what_prefix="\"", what_suffix="\"", who_alt="Red says, ")
+
 ##########################################################
 # images 
 ##########################################################
@@ -93,6 +99,12 @@ image marness = Placeholder('boy')
 
 image gauss = Placeholder('boy')
 image still = Placeholder('girl')
+
+# story 8: ojai
+
+image barsin = Placeholder('boy')
+image youth = Placeholder('boy')
+
 
 ##########################################################
 # transforms
