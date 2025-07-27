@@ -1,23 +1,23 @@
 # Variables
-define persistent.firstrun = True
+default persistent.firstrun = True
 
-define persistent.talk = False 
-define persistent.intro = False
-define persistent.lake = False
-define persistent.green = False
-define persistent.first = False
+default persistent.talk = False 
+default persistent.intro = False
+default persistent.lake = False
+default persistent.green = False
+default persistent.first = False
 
-define persistent.where = False
-define persistent.fresh = False
-define persistent.ojai = False
-define persistent.immemorial = False 
-define persistent.red = False
-define persistent.ara = False 
-define persistent.unthreaded = False
-define persistent.wild = False
-define persistent.blood = False
-define persistent.tomb = False
-define persistent.champions = False
+default persistent.where = False
+default persistent.fresh = False
+default persistent.ojai = False
+default persistent.immemorial = False 
+default persistent.red = False
+default persistent.ara = False 
+default persistent.unthreaded = False
+default persistent.wild = False
+default persistent.blood = False
+default persistent.tomb = False
+default persistent.champions = False
 
 default marion_surname = "Wheeler"
 

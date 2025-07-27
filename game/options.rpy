@@ -7,6 +7,9 @@
 
 ## Basics ######################################################################
 
+## Check for conflicting properties when compiling
+define config.check_conflicting_properties = True
+
 ## A human-readable name of the game. This is used to set the default window
 ## title, and shows up in the interface and error reports.
 ##
